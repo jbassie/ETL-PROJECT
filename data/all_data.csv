@@ -1,0 +1,2665 @@
+,Product_name,Alcohol_amount,Alcohol_percent,Price,Category
+0,Hine Rare VSOP Cognac,70.0,40.0,47.45,Cognac
+1,Hennessy VSOP Privilege Cognac,70.0,40.0,54.95,Cognac
+2,Hennessy XO Cognac,70.0,40.0,162,Cognac
+3,Courvoisier XO Cognac,70.0,40.0,115,Cognac
+4,Remy Martin 1738 Accord Royal Cognac,70.0,40.0,53.25,Cognac
+5,Remy Martin XO Cognac,70.0,40.0,164,Cognac
+6,Hardy XO Rare Cognac,70.0,40.0,84.95,Cognac
+7,ABK6 VSOP Single Estate Cognac,70.0,40.0,47.95,Cognac
+8,Chateau de Montifaud VSOP Cognac,70.0,40.0,38.75,Cognac
+9,Hennessy VS Cognac,70.0,40.0,38.45,Cognac
+10,Cognac Park Mizunara Cask,70.0,43.5,47.95,Cognac
+11,Bache Gabrielsen VS 3 Kors Cognac,70.0,40.0,24.75,Cognac
+12,Martell VS Cognac,70.0,40.0,30.95,Cognac
+13,Maxime Trijol XO Classic Cognac,70.0,40.0,96.45,Cognac
+14,Frapin VSOP Grande Champagne Cognac,70.0,40.0,53.95,Cognac
+15,Martell XO Cognac,70.0,40.0,162,Cognac
+16,Philbert XO Cognac,70.0,40.0,69.75,Cognac
+17,Camus Intensely Aromatic VSOP Cognac,70.0,40.0,37.95,Cognac
+18,Hardy Legend 1863 Cognac,70.0,40.0,49.95,Cognac
+19,Chateau de Montifaud XO Fine Petite Champagne Cognac,70.0,40.0,71.75,Cognac
+20,Ferrand 1840 Cognac,70.0,45.0,46.95,Cognac
+21,AE Dor VSOP Fine Champagne Cognac,70.0,40.0,53.45,Cognac
+22,Delamain Vesper XO Grande Champagne Cognac,70.0,40.0,165,Cognac
+23,Remy Martin VSOP Cognac,70.0,40.0,43.25,Cognac
+24,Martell Cordon Bleu Cognac,70.0,40.0,125,Cognac
+25,Braastad XO Superior,70.0,42.0,150,Cognac
+26,Jean-Luc Pasquet Le Cognac de Noël Lot 94,50.0,46.4,81.95,Cognac
+27,Cognac Park Millesimes Petite Champange 1972,70.0,40.0,385,Cognac
+28,Cognac Park 10 Year Old Mizunara Cask,70.0,44.0,68.95,Cognac
+29,Camus Caribbean Expedition,70.0,45.3,94.95,Cognac
+30,Jean-Luc Pasquet L’Organic 10 Grande Champagne,70.0,40.0,55.95,Cognac
+31,Jean-Luc Pasquet L’Organic 07 Grande Champagne Cognac,70.0,40.0,46.95,Cognac
+32,Braastad XO Fine Champagne Cognac,70.0,40.0,69.95,Cognac
+33,Braastad VS Cognac,70.0,40.0,31.45,Cognac
+34,Courvoisier VSOP Exclusif Cognac,35.0,40.0,39.95,Cognac
+35,Maxime Trijol VS Cognac,70.0,40.0,33.45,Cognac
+36,Hine Antique XO Cognac,70.0,40.0,148,Cognac
+37,Delamain Collection Revelation Malaville Very Old Cognac,70.0,44.3,176,Cognac
+38,Philbert Dovecote Petite Champagne Cognac,70.0,40.0,52.45,Cognac
+39,Jean-Luc Pasquet Le Cognac de Claude Lot 84,50.0,49.8,135,Cognac
+40,Cognac Patte Blanche VSOP Bio,70.0,40.0,41.25,Cognac
+41,Cognac Patte Blanche VS Bio,70.0,40.0,35.95,Cognac
+42,Jean-Luc Pasquet L’Organic 04 Grande Champagne,70.0,40.0,39.95,Cognac
+43,Braastad VSOP Organic Cognac,50.0,40.0,31.45,Cognac
+44,Braastad VSOP Cognac,70.0,40.0,37.25,Cognac
+45,Prunier Grande Champagne 1982 Cognac,70.0,55.8,420,Cognac
+46,Naud VS Cognac,70.0,40.0,34.75,Cognac
+47,Renault Cognac Cellar Master Selection Set,100.0,40.0,89.95,Cognac
+48,Tesseron Lot 90 Ovation Cognac,70.0,40.0,81.95,Cognac
+49,Tesseron Composition Cognac,70.0,40.0,52.95,Cognac
+50,Remy Martin Carte Blanche,70.0,44.1,375,Cognac
+51,Vallein-Tercinier Vieille Réserve XO Cognac,70.0,40.0,84.95,Cognac
+52,Ferrand 10 Generations Cognac,50.0,46.0,33.75,Cognac
+53,Bache Gabrielsen American Oak Cognac,70.0,40.0,31.95,Cognac
+54,H by Hine VSOP Cognac,20.0,40.0,20.95,Cognac
+55,Fanny Fougerat Cedre Blanc XO Cognac,70.0,44.0,89.95,Cognac
+56,Camus VSOP Borderies,70.0,40.0,50.95,Cognac
+57,Prunier Tres Vieille XO,70.0,40.0,170,Cognac
+58,Prunier 20 Year Old,70.0,40.0,105,Cognac
+59,Prunier VSOP,70.0,40.0,44.95,Cognac
+60,Leopold Gourmel Premieres Saveurs 6 Carats Cognac,70.0,40.0,46.95,Cognac
+61,Remy Martin VSOP Cognac,35.0,40.0,30.95,Cognac
+62,Frapin VIP XO Cognac,70.0,40.0,165,Cognac
+63,Ferrand Ambre,70.0,40.0,46.45,Cognac
+64,Louis Royer XO Cognac,70.0,40.0,130,Cognac
+65,Remy Martin Louis XIII Cognac,70.0,40.0,"3,025",Cognac
+66,Meukow XO Cognac,70.0,40.0,105,Cognac
+67,Martell VSOP Red Barrel Cognac,70.0,40.0,46.95,Cognac
+68,Hine Cigar Reserve XO Cognac,70.0,40.0,108,Cognac
+69,Philbert 2018 Grande Champagne Sherry Cask Finish Cognac,70.0,40.0,51.95,Cognac
+70,Cognac Patte Blanche XO Bio,70.0,40.0,78.95,Cognac
+71,Ferrand 2011 Renegade Barrel No.3 Eau-de-vie de Vin,70.0,48.2,89.95,Cognac
+72,Remy Martin Tercet Cognac,70.0,42.0,108,Cognac
+73,Hennessy XO Holidays Giftbox by Julien Colombier,70.0,40.0,175,Cognac
+74,Cognac Park 21 Year Old Chai No.8 Petite Champagne,70.0,43.0,150,Cognac
+75,Cognac Park 2006 Mizunara Cask,70.0,45.2,91.95,Cognac
+76,Cognac Park VSOP,70.0,40.0,40.95,Cognac
+77,Vallein-Tercinier 1990 Bons Bois Cognac,70.0,42.9,125,Cognac
+78,"Vallein-Tercinier Cognac ""Lot 96"" Fins Bois",70.0,48.7,125,Cognac
+79,Vallein-Tercinier Roots XO,70.0,44.0,57.25,Cognac
+80,Braastad Chateau De Triac Single Vineyard Cognac,70.0,40.0,40.95,Cognac
+81,H by Hine VSOP Cognac,70.0,40.0,42.95,Cognac
+82,Hine Bonneuil 2010,70.0,42.1,99.95,Cognac
+83,Naud Extra Fine Cognac,70.0,42.3,174,Cognac
+84,Remi Landier VSOP Cognac,70.0,40.0,48.45,Cognac
+85,Hardy 3 Stars Cognac,70.0,40.0,120,Cognac
+86,Merlet XO Cognac,70.0,40.0,65.95,Cognac
+87,Frapin 1270 Premier Cru Grande Champagne Cognac,70.0,40.0,42.95,Cognac
+88,Hardy VSOP Fine Cognac,70.0,40.0,39.95,Cognac
+89,Hardy VSOP Organic Fine Cognac,70.0,40.0,43.95,Cognac
+90,Michel Forgeron Barrique 95 Grande Champagne Cognac,50.0,47.0,87.95,Cognac
+91,Vallein-Tercinier L'Erotique Lot 69 Cognac,70.0,48.7,250,Cognac
+92,Vallein-Tercinier Napoleon Cognac,70.0,40.0,62.95,Cognac
+93,Martell Blue Swift,70.0,40.0,46.95,Cognac
+94,Francois Voyer,70.0,42.7,160,Cognac
+95,Prunier 1977 Borderies Cognac,70.0,51.5,355,Cognac
+96,Hennessy XO,35.0,40.0,99.95,Cognac
+97,Martell Cordon Bleu Cognac,70.0,40.0,399,Cognac
+98,Fanny Fougerat Petite Cigue VSOP Cognac,70.0,40.0,45.95,Cognac
+99,Frapin 1993,70.0,43.2,150,Cognac
+100,Hennessy XO,150.0,40.0,380,Cognac
+101,Tesseron Extra Legende Cognac,70.0,40.0,265,Cognac
+102,Chateau de Montifaud Napoleon Cognac,70.0,40.0,56.25,Cognac
+103,Chateau de Montifaud VS Fine Petite Champagne Cognac,70.0,40.0,32.95,Cognac
+104,Michel Forgeron Barrique 92 Grande Champagne Cognac,50.0,52.0,89.95,Cognac
+105,Hine Antique XO,150.0,40.0,295,Cognac
+106,Prunier XO,70.0,40.0,78.95,Cognac
+107,Chateau de Montifaud L50 Heritage Louis Vallet,70.0,40.0,162,Cognac
+108,Jean Fillioux La Pouyade Cognac,70.0,42.0,49.95,Cognac
+109,H by Hine VSOP Cognac,70.0,40.0,41.45,Cognac
+110,Camus Ile De Re Fine Island,70.0,40.0,45.95,Cognac
+111,Jean Fillioux So Elegantissime XO Cognac,70.0,41.0,99.95,Cognac
+112,Tesseron Tresor Cognac,70.0,40.0,680,Cognac
+113,Camus XO Elegance,70.0,40.0,154,Cognac
+114,Prunier 1986,70.0,58.4,270,Cognac
+115,Prunier 1985 Cognac,70.0,54.9,275,Cognac
+116,Prunier Extra Cognac,70.0,40.0,365,Cognac
+117,Michel Forgeron Barrique 89 Grande Champagne Cognac,50.0,58.0,125,Cognac
+118,Michel Forgeron XO Grande Champagne Single Estate,70.0,45.0,92.95,Cognac
+119,Remy Martin VSOP Cognac,68.2,40.0,150,Cognac
+120,Tesseron Lot 76 XO Tradition Cognac,70.0,40.0,110,Cognac
+121,Remy Martin XO Excellence,35.0,40.0,105,Cognac
+122,Courvoisier VSOP Cognac,70.0,40.0,40.95,Cognac
+123,Delamain Tres Vieux Cognac,70.0,40.0,350,Cognac
+124,AE Dor XO Vieille Cognac,20.0,40.0,41.45,Cognac
+125,Paul Beau Vieille Reserve Cognac,70.0,40.0,69.95,Cognac
+126,Maxime Trijol VSOP,70.0,40.0,55.75,Cognac
+127,Hennessy XO Cognac,300.0,40.0,895,Cognac
+128,Chateau de Beaulon VSOP Folle Blanche Cognac,70.0,40.0,52.95,Cognac
+129,Chateau de Beaulon Grand XO 20 Year Old Cognac,70.0,40.0,140,Cognac
+130,Ragnaud Sabourin Cognac No.20 Reserve Speciale,70.0,43.0,90.95,Cognac
+131,Courvoisier VS Cognac,70.0,40.0,30.45,Cognac
+132,AE Dor No.6 Cognac,70.0,40.0,225,Cognac
+133,Courvoisier Gala Cocktail Collection,110.0,25.5,39.95,Cognac
+134,Hine 1978 Vintage Grande Champagne Cognac,70.0,40.0,650,Cognac
+135,ABK6 VS Single Estate Cognac,70.0,40.0,38.95,Cognac
+136,Delamain Collection Revelation Early Landed 1999 Cognac,70.0,43.7,275,Cognac
+137,Delamain Collection Plenitude 1988 Cognac,70.0,42.5,460,Cognac
+138,Jean Fillioux Subtil & So VSOP Grande Champagne Cognac,70.0,40.0,51.95,Cognac
+139,Tesseron Extreme Cognac,175.0,40.0,"4,200",Cognac
+140,Philbert 2018 Petite Champagne Sauternes Cask Finish Cognac,70.0,41.5,51.95,Cognac
+141,Philbert Distiller Reserve 2017 Vintage Petite Champagne Cognac,70.0,40.0,49.45,Cognac
+142,Philbert Distiller Reserve 2017 Vintage Grande Champagne Cognac,70.0,40.0,49.45,Cognac
+143,Philbert VSOP Cognac,70.0,40.0,46.25,Cognac
+144,Philbert VS Cognac,70.0,40.0,36.75,Cognac
+145,Cognac Patte Blanche Extra Bio,70.0,40.0,125,Cognac
+146,Cognac Park Millesimes Fin Bois 1978,70.0,43.0,280,Cognac
+147,Drouet & Fils Melina 2012 Cognac,70.0,42.0,69.75,Cognac
+148,Fanny Fougerat Le Laurier d'Apollon 2011 Cognac,70.0,42.2,60.45,Cognac
+149,Fanny Fougerat Lancement Collection Type 73 Cognac,70.0,49.6,155,Cognac
+150,Frapin 1989 Grande Champagne Cognac,70.0,40.3,199,Cognac
+151,Martell Cordon Bleu Cognac,70.0,40.0,650,Cognac
+152,Delamain Pale & Dry Cognac,68.0,40.0,275,Cognac
+153,Cognac Park Millesimes Fin Bois 1977,70.0,43.0,295,Cognac
+154,Cognac Park Millesimes Fin Bois 1976,70.0,42.8,315,Cognac
+155,Cognac Park Millesimes Fin Bois 1975,70.0,44.0,330,Cognac
+156,Cognac Park Millesimes Fin Bois 1974,70.0,40.0,350,Cognac
+157,Cognac Park Millesimes Petite Champagne 1973,70.0,43.0,365,Cognac
+158,Cognac Park Millesimes Fin Bois 1970,70.0,40.0,420,Cognac
+159,Cognac Park Extra,70.0,40.0,150,Cognac
+160,Cognac Park Chai No.8 Borderies,70.0,43.0,155,Cognac
+161,Cognac Park Cigar Blend,70.0,40.0,105,Cognac
+162,Cognac Park XO Grande Champagne,70.0,40.0,77.95,Cognac
+163,Cognac Park 2004 Mizunara Cask,70.0,44.0,99.95,Cognac
+164,Cognac Park Borderies,70.0,40.0,51.95,Cognac
+165,Cognac Park Fins Bois Organic,70.0,40.0,42.95,Cognac
+166,Cognac Park VS,70.0,40.0,34.95,Cognac
+167,Prunier 1950 Grande Champagne,70.0,50.0,875,Cognac
+168,Prunier Rare Reserve Claire,70.0,43.0,455,Cognac
+169,Vallein-Tercinier 1989 Grande Champagne Cognac,70.0,47.7,153,Cognac
+170,Hennessy Nostalgie de Bagnolet Crystal Decanter,70.0,40.0,"3,500",Cognac
+171,Courvoisier VSOP Liqueur Cognac,68.0,40.0,175,Cognac
+172,Courvoisier 3 Star Cognac,68.0,40.0,199,Cognac
+173,Remy Martin VSOP Cognac,70.0,40.0,150,Cognac
+174,Michel Forgeron Folle Blanche 2007 GC Cognac,50.0,47.0,49.95,Cognac
+175,Michel Forgeron Folle Blanche 2008 GC Cognac,50.0,47.0,53.25,Cognac
+176,Michel Forgeron Folle Blanche 2009 GC Cognac,50.0,47.0,57.75,Cognac
+177,Michel Forgeron Folle Blanche 2010 GC Cognac,50.0,47.0,62.25,Cognac
+178,Michel Forgeron Folle Blanche 2011 GC Cognac,50.0,47.0,64.95,Cognac
+179,Michel Forgeron Folle Blanche 2012 GC Cognac,50.0,47.0,69.75,Cognac
+180,Michel Forgeron Folle Blanche 2013 GC Cognac,50.0,47.0,72.75,Cognac
+181,Rémy Martin 250th Anniversary (1724-1974),70.0,40.0,"1,500",Cognac
+182,Remy Martin VSOP Cognac,70.0,40.0,175,Cognac
+183,Hine 1987 Cognac,70.0,40.0,175,Cognac
+184,Remy Martin VSOP,68.0,40.0,150,Cognac
+185,Gaston de Lagrange VSOP Cognac,68.0,40.0,125,Cognac
+186,Denis-Mounié 1926,75.0,40.0,"1,000",Cognac
+187,Martell 3 Stars Cognac,70.0,40.0,150,Cognac
+188,Remy Martin 1878 Cognac,70.0,40.0,"10,000",Cognac
+189,Moyet Cognac 1815,50.0,40.0,"3,750",Cognac
+190,Hine 1985 Cognac,70.0,40.0,199,Cognac
+191,Camus Celebration,68.5,40.0,299,Cognac
+192,Hennessy VSOP Privilege Cognac,70.0,40.0,54.95,Cognac
+193,Frapin Cuvee 1888 Cognac,70.0,40.0,"5,000",Cognac
+194,Camus VS Port Cask Finish,70.0,43.2,47.95,Cognac
+195,Camus 2015 Monbazillac Cask Saint Aulaye Single Cru,70.0,40.0,47.95,Cognac
+196,Delamain Collection Plenitude 1991,70.0,46.0,380,Cognac
+197,Remi Landier Special Pale Fins Bois Cognac,70.0,45.0,44.95,Cognac
+198,Coutanseaux Aine Hors d'Age Cognac,70.0,40.0,625,Cognac
+199,Delamain Ancestral Grande Champagne Cognac,70.0,43.0,475,Cognac
+200,AE Dor 1840 Cognac,70.0,34.0,"11,000",Cognac
+201,Martell VSOP Cognac,75.0,42.0,650,Cognac
+202,Jean-Luc Pasquet Le Cognac d’Eraville,50.0,42.8,76.95,Cognac
+203,Jean-Luc Pasquet XO Grande Champagne,70.0,40.0,86.95,Cognac
+204,Sazerac de Forge et Fils Finest Original Cognac,70.0,47.0,110,Cognac
+205,Meukow 1937,70.0,41.3,"2,250",Cognac
+206,Martell Cordon Bleu Cognac,75.0,40.0,"1,200",Cognac
+207,Chateau Courvoisier Fine Champagne Cognac,70.0,40.0,"1,800",Cognac
+208,Hine 1858,75.0,40.0,"3,500",Cognac
+209,Hine 1898 Cognac,70.0,40.0,"3,750",Cognac
+210,Prunier 1988 Petite Champagne Cognac,70.0,48.0,345,Cognac
+211,Hardy Lalique Winter,70.0,41.0,"8,500",Cognac
+212,Pinet Castillon Cognac 1920,75.0,40.0,900,Cognac
+213,Harvey's 1904 Cognac,70.0,40.0,"1,000",Cognac
+214,Braastad Extra Cognac,70.0,40.0,230,Cognac
+215,Braastad XO Superior Cognac,70.0,40.0,90.95,Cognac
+216,Prunier 1988 Grande Champagne Cognac,70.0,42.7,340,Cognac
+217,Prunier 1999 Grande Champagne Cognac,70.0,59.2,325,Cognac
+218,Prunier 1990 Grande Champagne Cognac,70.0,46.5,290,Cognac
+219,Prunier 1987 Petite Champagne Cognac,70.0,56.5,315,Cognac
+220,Prunier 1971 Petite Champagne Cognac,70.0,57.0,425,Cognac
+221,Prunier 1970 Petite Champagne Cognac,70.0,54.5,410,Cognac
+222,Delamain Collection Plenitude 1980 Cognac,70.0,42.0,570,Cognac
+223,Delamain Pale & Dry XO Centenaire,20.0,42.0,36.75,Cognac
+224,Frapin Francois Rabelais,70.0,40.0,"10,000",Cognac
+225,Rouyer Guillet 50 Year Old,70.0,40.0,"1,000",Cognac
+226,Meukow Cognac No.7,75.0,40.0,"6,000",Cognac
+227,Ferrand Legendaire Cognac,70.0,42.1,"2,000",Cognac
+228,Seignette VS Cognac,70.0,40.0,32.45,Cognac
+229,Delamain Pale & Dry XO Centenaire,50.0,42.0,86.95,Cognac
+230,Otard Dupuy 1878 Cognac,75.0,40.0,"4,750",Cognac
+231,Sazerac de Forge,75.0,40.0,"1,000",Cognac
+232,Prunier 1996 Fins Bois Cognac,70.0,49.9,275,Cognac
+233,Prunier 1994 Fins Bois Cognac,70.0,59.9,275,Cognac
+234,Prunier 1976 Grande Champagne Cognac,70.0,44.0,380,Cognac
+235,Vallein-Tercinier Vieille Reserve XO Cognac,70.0,40.0,97.95,Cognac
+236,Michel Forgeron Barrique 99 Grande Champagne Single Estate Cognac,50.0,47.0,70.75,Cognac
+237,Michel Forgeron Barrique 2.0 Grande Champagne Single Estate Cognac,70.0,47.0,68.75,Cognac
+238,Paul Beau Lignée de Samuel Grande Champagne Cognac,70.0,43.0,390,Cognac
+239,Guillon-Painturaud 72E3 Brut de fût Grande Champagne Single Cask Cognac,50.0,43.6,435,Cognac
+240,Michel Forgeron Napoléon Grande Champagne Single Estate Cognac,70.0,43.0,69.95,Cognac
+241,Michel Forgeron VS Grande Champagne Single Estate Cognac,70.0,40.0,38.25,Cognac
+242,John Exshaw Very Old Cognac,68.0,40.0,299,Cognac
+243,Hermitage Marie Louise 60 Year Old Grande Champagne Cognac,100.0,43.0,"1,700",Cognac
+244,Hermitage 45 Year Old Grande Champagne Cognac,70.0,43.5,375,Cognac
+245,Hermitage 20 Year Old Grande Champagne Cognac,70.0,42.0,105,Cognac
+246,Leyrat Passion Cognac,50.0,42.0,"2,000",Cognac
+247,ABK6 Reserve Artist Collection No.1,70.0,40.0,69.95,Cognac
+248,Naud XO Fine Cognac,70.0,40.0,79.75,Cognac
+249,Remy Martin Louis XIII Cognac,70.0,40.0,"5,000",Cognac
+250,Rouyer Guillet 50 Year Old,70.0,40.0,"1,000",Cognac
+251,Remi Landier XO Vieille Reserve,70.0,40.0,72.95,Cognac
+252,Remi Landier XO Artisanal Cognac,70.0,40.0,125,Cognac
+253,Remi Landier VS Cognac,70.0,40.0,39.75,Cognac
+254,Remi Landier Special Pale Single Barrel Lot 2012 Cognac,70.0,45.0,54.45,Cognac
+255,Remi Landier Napoleon Cognac,70.0,40.0,64.25,Cognac
+256,Frapin Chateau de Fontpinot,73.0,41.0,250,Cognac
+257,Hennessy 1913 Cognac,70.0,40.0,"2,500",Cognac
+258,Hennessy Extra Cognac,68.0,40.0,900,Cognac
+259,Ferrand SDA Selection Des Anges Cognac,70.0,41.8,160,Cognac
+260,Hardy 3 Stars Cognac,70.0,40.0,99.95,Cognac
+261,AE Dor No.1,70.0,36.0,"6,500",Cognac
+262,Delamain 1893 Cognac,75.0,40.0,"3,750",Cognac
+263,Hine 1914 Cognac,70.0,40.0,"1,200",Cognac
+264,Fromy 1830 Cognac,35.0,40.0,"3,000",Cognac
+265,Martell VVESOP Cognac,75.0,40.0,"6,000",Cognac
+266,Through The Grapevine VSOP Cognac,70.0,44.0,46.95,Cognac
+267,Louis XIII Black Pearl,35.0,40.0,"14,000",Cognac
+268,Berry Bros 1904 Cognac,68.0,38.8,"1,200",Cognac
+269,Martell Cordon Argent Cognac,75.0,43.0,"1,000",Cognac
+270,Martell Cordon Argent Cognac,75.0,44.0,"1,000",Cognac
+271,Martell Cordon Argent Extra Cognac,70.0,45.0,850,Cognac
+272,Auger Fils & Cie 1865 Cognac,70.0,40.0,"5,000",Cognac
+273,Frapin Chateau de Fontpinot,73.0,40.0,325,Cognac
+274,Frapin Chateau de Fontpinot,73.0,41.0,275,Cognac
+275,Prunier 1989 Vintage Cognac,70.0,58.9,310,Cognac
+276,Prunier 1986 Vintage Cognac,70.0,51.8,290,Cognac
+277,Guillon-Painturaud Memoires Single Cask 1965,50.0,40.0,775,Cognac
+278,Hardy Lalique Autumn,70.0,41.0,"8,500",Cognac
+279,Prunier 1969 Vintage Grande Champagne Cognac,70.0,54.5,430,Cognac
+280,Paul Giraud Elegance Cognac,70.0,40.0,43.95,Cognac
+281,ABK6 VS Single Estate Cognac,70.0,40.0,38.95,Cognac
+282,ABK6 Extra Single Estate Cognac,70.0,43.0,399,Cognac
+283,ABK6 Single Estate Cognac 1985,70.0,42.5,188,Cognac
+284,ABK6 XO Renaissance Single Estate,70.0,40.0,134,Cognac
+285,Matthew Gloag Very Fine Old Cognac,71.0,40.0,450,Cognac
+286,Vallein-Tercinier Fins Bois Lot 89 Cognac,70.0,48.5,130,Cognac
+287,François Voyer Amathus Special Selection Cognac,70.0,42.0,150,Cognac
+288,François Voyer Terres de Grande Champagne Cognac,70.0,40.0,40.95,Cognac
+289,François Voyer Napoleon Cognac,70.0,40.0,67.45,Cognac
+290,François Voyer XO Cognac,70.0,40.0,114,Cognac
+291,François Voyer VS Cognac,70.0,40.0,36.45,Cognac
+292,Vaudon Barriques 78 & 80 Cognac,70.0,48.0,167,Cognac
+293,Vaudon XO Cognac,70.0,40.0,85.75,Cognac
+294,Vaudon VSOP Cognac,70.0,40.0,46.75,Cognac
+295,Vaudon Fine Rare Cognac,70.0,43.0,51.95,Cognac
+296,Fradon Lot 70 Cognac,70.0,46.3,143,Cognac
+297,Vaudon 1996 Single Cask Cognac,70.0,51.1,152,Cognac
+298,Vallein Tercinier 1987 Single Cask Cognac,70.0,49.1,175,Cognac
+299,Remy Martin Age Inconnu,75.0,43.0,800,Cognac
+300,Frapin Cuvee Rabelais,70.0,40.0,"7,500",Cognac
+301,Bisquit Dubouche Extra Vieille,70.0,40.0,399,Cognac
+302,Courvoisier 1900 Cognac,70.0,40.0,"4,000",Cognac
+303,Tessendier Et Fils,70.0,48.0,125,Cognac
+304,Camus 11 Year Old,70.0,49.0,105,Cognac
+305,Remy Martin Age Inconnu,70.0,40.0,850,Cognac
+306,Remy Martin Louis XIII Cognac,75.0,40.0,"5,500",Cognac
+307,Denis-Mounié 1884 Cognac,75.0,40.0,"4,500",Cognac
+308,Courvoisier 3 Stars Luxe Cognac,378.0,40.0,600,Cognac
+309,Courvoisier 3 Stars Luxe Cognac,378.0,40.0,600,Cognac
+310,Denis-Mounié Extra Cognac,68.0,40.0,600,Cognac
+311,Gautier XO Gold & Blue Cognac,70.0,40.0,112,Cognac
+312,Martell Medaillon Cognac,150.0,40.0,"1,100",Cognac
+313,"Block,Grey & Block 1884 Cognac",70.0,40.0,"4,000",Cognac
+314,Renault Carte Noire Extra,70.0,40.0,399,Cognac
+315,Martell Reserve Du Fondateur Cognac (1694-1753),70.0,44.0,"1,750",Cognac
+316,Martell Cordon Argent Cognac,75.0,43.0,"1,000",Cognac
+317,Martell Extra Cognac,75.0,43.0,"1,500",Cognac
+318,Courvoisier 3 Stars Cognac,70.0,40.0,399,Cognac
+319,Bisquit Dubouche Triomphe,73.0,40.0,650,Cognac
+320,Hine Antique Cognac,100.0,40.0,700,Cognac
+321,Courvoisier Extra Vieille,75.5,40.0,"1,000",Cognac
+322,Gautier Freres 1868 Cognac,75.0,40.0,"4,000",Cognac
+323,Hine 1935 Cognac,68.0,40.0,"1,100",Cognac
+324,Leyrat Assemblage No.1 VS Cognac,70.0,42.0,39.45,Cognac
+325,Delamain Pale & Dry Cognac,68.0,40.0,275,Cognac
+326,Domaines Hine Bonneuil 2008 Cognac,70.0,42.7,88.95,Cognac
+327,Etienne Gasqueton Grand Empereur Cognac,75.0,40.0,"1,000",Cognac
+328,Courvoisier VSOP Liqueur Cognac,68.0,40.0,225,Cognac
+329,Boulestin 3 Stars Cognac,73.0,40.0,120,Cognac
+330,Remy Martin Grande Reserve Cognac,68.0,40.0,800,Cognac
+331,Guillot VSOP Cognac,73.0,40.0,299,Cognac
+332,Renault Carte Noire Extra Cognac,73.0,40.0,500,Cognac
+333,Francois Voyer Verrieres Grande Champagne XO Extraordinaire,70.0,40.0,145,Cognac
+334,Francois Voyer Craft Cognac Exceptionnel Extra,70.0,42.0,345,Cognac
+335,Hine Antique,68.0,40.0,350,Cognac
+0,Hine 1987 Early Landed Vintage Cognac,70.0,40.0,450,Cognac
+1,Otard 1900 Old Liqueur Brandy,70.0,40.0,"3,500",Cognac
+2,Frapin Chateau de Fontpinot,70.0,41.0,299,Cognac
+3,John Exshaw Age d'Or Cognac,70.0,40.0,750,Cognac
+4,Arthur Godfree 1878 Cognac,70.0,40.0,"4,000",Cognac
+5,Gautier Freres 1937 Cognac,68.0,40.0,900,Cognac
+6,Prunier 1914 Cognac,68.0,40.0,"1,500",Cognac
+7,Jules Gilson 1865 Cognac,70.0,40.0,"5,000",Cognac
+8,Prunier 1900 Cognac,68.0,40.0,"2,500",Cognac
+9,Denis-Mounié Edouard VII Cognac,70.0,40.0,250,Cognac
+10,Martell VOP 3 Stars Cognac,73.0,42.0,"1,000",Cognac
+11,Rémy Martin Louis XIII,150.0,40.0,"7,500",Cognac
+12,Raymond Ragnaud Heritage Cognac,70.0,45.0,850,Cognac
+13,Martell Cordon Bleu Cognac,68.0,40.0,700,Cognac
+14,Martell VSOP Cognac,75.0,42.0,399,Cognac
+15,Martell VOP 3 Stars Cognac,75.0,40.0,250,Cognac
+16,Merlet St Sauvant Cognac,70.0,44.3,89.45,Cognac
+17,Berry Bros 1930 Arthenac Cognac,68.0,40.0,550,Cognac
+18,John Exshaw 1935 Cognac,70.0,40.0,"1,000",Cognac
+19,John Mark & Co. 1893 Cognac,70.0,40.0,"3,000",Cognac
+20,Martell Jubilee Cognac (1905-1980),70.0,45.0,"1,800",Cognac
+21,Martell VOP 3 Stars Cognac,50.0,40.0,450,Cognac
+22,Tesseron Lot 53 XO Perfection Cognac,70.0,40.0,262,Cognac
+23,Hardy L'Ete Lalique Decanter,70.0,41.0,"8,500",Cognac
+24,Hardy Printemps Lalique Crystal Decanter,70.0,41.0,"8,500",Cognac
+25,Barnett & Fils 1840 Cognac,70.0,40.0,"5,000",Cognac
+26,Guillon-Painturaud Renaissance Cognac,70.0,40.0,299,Cognac
+27,Michel Forgeron Barrique 98 Grande Champagne Cognac,50.0,47.0,74.95,Cognac
+28,Michel Forgeron Barrique 97 Grande Champagne Cognac,50.0,47.0,82.95,Cognac
+29,Michel Forgeron Barrique 96 Grande Champagne Cognac,50.0,47.0,84.95,Cognac
+30,Michel Forgeron Barrique 94 Grande Champagne Cognac,50.0,47.0,80.95,Cognac
+31,Marquis C de Genet 1811 Cognac,70.0,40.0,"9,000",Cognac
+32,Martell Extra Cognac,75.0,44.0,"1,500",Cognac
+33,Remy Martin Louis XIII Cognac,75.0,40.0,"5,500",Cognac
+34,Vallein-Tercinier Conjugaison 49 Cognac,70.0,43.2,480,Cognac
+35,Vallein-Tercinier Lot 40 Hommage Cognac,70.0,49.7,390,Cognac
+36,Vallein-Tercinier Lot 66 Cognac,70.0,51.3,275,Cognac
+37,Vallein-Tercinier Hors d'Age Cognac,70.0,42.0,130,Cognac
+38,Vallein-Tercinier XO 46° Small Batch Cognac,70.0,46.0,74.95,Cognac
+39,Vallein-Tercinier VSOP Premium Selection Cognac,70.0,40.0,39.95,Cognac
+40,Vallein-Tercinier VS Selection Cognac,70.0,40.0,34.95,Cognac
+41,Hine 1973 Cognac,70.0,40.0,400,Cognac
+42,A De Luze & Fils 1893 Cognac,75.0,40.0,"3,500",Cognac
+43,Prunier Vieux Cognac,70.0,40.0,750,Cognac
+44,Le Corcellet 1825 Cognac,75.0,40.0,"6,250",Cognac
+45,Martell Cordon Bleu Cognac,68.0,40.0,650,Cognac
+46,Ferdinand De Roffignac Cognac,70.0,40.0,250,Cognac
+47,Hedges & Butler 1865 Cognac,70.0,40.0,"4,500",Cognac
+48,Martell Cordon Argent Extra Cognac,70.0,44.0,850,Cognac
+49,Bisquit Dubouche 1858 Cognac,73.0,42.0,"3,250",Cognac
+50,Denis-Mounié Edouard VII Cognac,75.0,40.0,350,Cognac
+51,Martell VSOP,68.0,40.0,299,Cognac
+52,Delor 1811 Cognac,75.0,40.0,"9,000",Cognac
+53,Martell Cordon Argent Cognac,70.0,40.0,"1,750",Cognac
+54,Remi Landier,70.0,45.9,89.95,Cognac
+55,Vaudon Cask 78+80,70.0,48.5,160,Cognac
+56,Bisquit Dubouche Extra Vieille,75.0,40.0,500,Cognac
+57,Remy Martin Louis XIII Cognac,70.0,40.0,"5,500",Cognac
+58,Martell Cordon Argent Cognac,73.0,40.0,"1,200",Cognac
+59,Remy Martin Louis XIII Cognac,75.7,40.0,"5,500",Cognac
+60,Remy Martin Louis XIII Cognac,75.7,40.0,"5,500",Cognac
+61,Remy Martin Louis XIII Cognac,70.0,40.0,"5,000",Cognac
+62,Pinet Castillon 1914 Cognac,68.0,40.0,"1,000",Cognac
+63,Martell Cordon Bleu Cognac,70.0,40.0,650,Cognac
+64,Prunier Grande Champagne 1981 Cognac,70.0,42.1,330,Cognac
+65,Prunier Petite Champagne 1979 Cognac,70.0,54.1,335,Cognac
+66,Prunier 1978 Borderies Cognac,70.0,52.8,335,Cognac
+67,Prunier 1974 Fins Bois Cognac,70.0,52.7,370,Cognac
+68,Prunier 1968 Fins Bois Cognac,70.0,61.9,625,Cognac
+69,Courvoisier 3 Stars Luxe Cognac,68.0,40.0,175,Cognac
+70,Remy Martin Louis XIII Cognac,75.7,40.0,"7,500",Cognac
+71,Mercier Roger 1900 Cognac,70.0,40.0,"2,500",Cognac
+72,Eschenauer 1878 Cognac,75.0,40.0,"4,750",Cognac
+73,Hine 1967,70.0,41.0,450,Cognac
+74,Army & Navy Stores 1928 Cognac,75.0,40.0,750,Cognac
+75,Martell Extra Cognac,70.0,43.0,"1,500",Cognac
+76,Remy Martin VSOP Cognac,70.0,40.0,175,Cognac
+77,Martell Extra Cognac,68.0,43.0,"1,500",Cognac
+78,Bisquit Dubouche 1858 Cognac,73.0,42.0,"3,500",Cognac
+79,Remy Martin Louis XIII Cognac,75.0,40.0,"7,500",Cognac
+80,Otard's 1875 Liqueur Cognac,75.0,40.0,"4,000",Cognac
+81,Hine 1986 Early Landed Vintage Cognac,70.0,40.0,480,Cognac
+82,Hine 1984 Early Landed Vintage Cognac,70.0,40.0,500,Cognac
+83,Hine 1981 Early Landed Vintage Cognac,70.0,40.0,530,Cognac
+84,Hine 1978 Early Landed Vintage Cognac,70.0,40.0,"1,100",Cognac
+85,Hine 1990 Jarnac-aged Vintage Cognac,70.0,40.0,295,Cognac
+86,Hine 1989 Jarnac-aged Vintage Cognac,70.0,40.0,299,Cognac
+87,Hine 1987 Jarnac-aged Vintage Cognac,70.0,40.0,325,Cognac
+88,Hine 1986 Jarnac-aged Vintage Cognac,70.0,40.0,500,Cognac
+89,Hine 1983 Vintage Cognac,70.0,40.0,450,Cognac
+90,G T Jones 1865 Cognac,75.0,40.0,"5,000",Cognac
+91,Meukow Rarissime Tres Vieux,70.0,41.3,500,Cognac
+92,Martell Cordon Bleu Cognac,68.0,40.0,650,Cognac
+93,Last Drop 1947 Single Estate Cognac,75.0,41.1,"3,200",Cognac
+94,Martell Cordon Bleu Cognac,70.0,40.0,700,Cognac
+95,Fanny Fougerat Iris Poivré XO Cognac,70.0,40.0,65.45,Cognac
+96,Martell VOP 3 Stars Cognac,73.0,40.0,225,Cognac
+97,Croizet VSOP Cognac,75.0,42.0,175,Cognac
+98,Martell Extra Cognac,70.0,43.0,"1,500",Cognac
+99,Martell Cordon Argent Extra Cognac,70.0,43.0,850,Cognac
+100,Delamain 1969,70.0,40.0,450,Cognac
+101,Martell Cordon Bleu Cognac,70.0,40.0,700,Cognac
+102,Hine 1844 Cognac,75.0,40.0,"7,500",Cognac
+103,Martell Cordon Bleu Cognac,75.0,40.0,750,Cognac
+104,Martell Cordon Bleu Cognac,73.0,40.0,700,Cognac
+105,Martell Cordon Bleu Cognac,75.0,40.0,750,Cognac
+106,Eschenauer 1848 Cognac,70.0,40.0,"7,500",Cognac
+107,Martell Cordon Bleu Cognac,70.0,40.0,700,Cognac
+108,Martell Extra Cognac,75.0,40.0,"1,750",Cognac
+109,Martell VOP 3 Stars Cognac,70.0,40.0,250,Cognac
+110,Averys 1893 Cognac,75.0,40.0,"3,000",Cognac
+111,Sazerac de Forge 1870 Cognac,70.0,40.0,"5,000",Cognac
+112,Michel Forgeron Barrique 79 Grande Champagne Cognac,50.0,54.0,180,Cognac
+113,Michel Forgeron Barrique 90 Grande Champagne Cognac,50.0,47.0,98.95,Cognac
+114,Michel Forgeron Barrique 93 Grande Champagne Cognac,50.0,47.0,80.95,Cognac
+115,Paul Giraud VSOP Cognac,70.0,40.0,53.95,Cognac
+116,Prunier Grande Champagne 1975 Cognac,70.0,53.5,540,Cognac
+117,Augier Freres 1878 Cognac,70.0,40.0,"5,000",Cognac
+118,Martell Cordon Argent Extra Cognac,70.0,42.0,850,Cognac
+119,Croizet Age Inconnu Cognac,75.0,40.0,399,Cognac
+120,A de Fussigny 1988 Cognac,70.0,43.0,350,Cognac
+121,Michel Couprie XO Tres Vielle Reserve Cognac,70.0,40.0,103,Cognac
+122,Michel Couprie Napoleon Cognac,70.0,40.0,68.75,Cognac
+123,Maison Couprie VSOP Cognac,70.0,40.0,56.95,Cognac
+124,Leyrat XO Elite Cognac,70.0,40.0,139,Cognac
+125,Martell Cordon Bleu Cognac,68.0,40.0,700,Cognac
+126,Martell Cordon Bleu Cognac,68.0,40.0,700,Cognac
+127,Gautier Freres 1865 Cognac,75.0,40.0,"5,000",Cognac
+128,Camus Extra Dark & Intense Cognac,70.0,40.0,400,Cognac
+129,Denis-Mounié 1973 Cognac,70.0,40.0,425,Cognac
+130,Remy Martin VSOP Cognac,70.0,40.0,150,Cognac
+131,Remy Martin VSOP Cognac,100.0,40.0,199,Cognac
+132,Martell 1929 Cognac,70.0,40.0,"1,250",Cognac
+133,Cockburn 1885 Cognac,70.0,40.0,"4,000",Cognac
+134,Camus Ile De Re Cliffside Cellar,70.0,40.0,89.45,Cognac
+135,Camus Ile De Re Double Matured,70.0,40.0,61.95,Cognac
+136,AE Dor No.3 Cognac,70.0,36.0,"8,000",Cognac
+137,Hine Vieille Fine Champagne Cognac,70.0,40.0,"2,500",Cognac
+138,Godet Petite Champagne 1970,70.0,40.0,535,Cognac
+139,Jean Fillioux Coq Cognac,70.0,40.0,41.95,Cognac
+140,J J Mortier 1875 Cognac,70.0,40.0,"4,000",Cognac
+141,Louis Royer VSOP Cognac Glass Pack,70.0,40.0,44.95,Cognac
+142,Tesseron XO Passion,70.0,40.0,172,Cognac
+143,Drouet et Fils Paradis de Famille,70.0,42.0,145,Cognac
+144,Prunier 1991,70.0,51.5,285,Cognac
+145,Prunier 1989,70.0,46.9,295,Cognac
+146,Prunier 1980,70.0,54.8,340,Cognac
+147,Prunier 1977 Vintage,70.0,59.7,510,Cognac
+148,Remy Martin VSOP Cognac,68.0,40.0,175,Cognac
+149,Michel Forgeron Barrique 60 Grande Champagne Cognac,50.0,50.0,380,Cognac
+150,Michel Forgeron Barrique 84 Grande Champagne Cognac,50.0,53.0,140,Cognac
+151,Michel Forgeron Barrique 87 Grande Champagne Cognac,50.0,56.0,130,Cognac
+152,Michel Forgeron Barrique 88 Grande Champagne Cognac,50.0,56.0,125,Cognac
+153,Michel Forgeron Barrique 91 Grande Champagne Cognac,50.0,47.0,89.95,Cognac
+154,Michel Forgeron VSOP Grande Champagne Cognac,70.0,43.0,63.25,Cognac
+155,Remy Martin Louis XIII Cognac,70.0,40.0,"2,950",Cognac
+156,Barnett & Fils 1893 Cognac,70.0,40.0,"2,500",Cognac
+157,Martell VS Cognac,68.0,40.0,150,Cognac
+158,Pinet Castillon 1857 Cognac,70.0,40.0,"6,000",Cognac
+159,Remy Martin VSOP Cognac,70.0,40.0,175,Cognac
+160,Remy Martin Louis XIII Cognac,70.0,40.0,"5,500",Cognac
+161,Hennessy Paradis,70.0,40.0,"1,000",Cognac
+162,A De Fussigny Superieur,70.0,40.0,53.25,Cognac
+163,Louis Baron 1830 Cognac,70.0,40.0,"7,000",Cognac
+164,Croizet 1914 Cognac,70.0,40.0,"1,200",Cognac
+165,Martell VOP 3 Stars Cognac,70.0,40.0,450,Cognac
+166,Savoy Hotel Cognac,70.0,40.0,299,Cognac
+167,Jean Fillioux Reserve Familiale Cognac,70.0,40.0,250,Cognac
+168,Remy Martin Louis XIII Cognac,75.7,40.0,"5,000",Cognac
+169,Bisquit Dubouche 1811 Cognac,73.0,41.0,"7,500",Cognac
+170,Domaine Le Reviseur XO Petite Champagne Cognac,70.0,40.0,125,Cognac
+171,Ragnaud Sabourin,50.0,41.0,"1,200",Cognac
+172,Jean Fillioux Cigar Club Cognac,70.0,40.0,95.95,Cognac
+173,Fouquet Couzin Extra Vieille Cognac,70.0,42.0,120,Cognac
+174,Michel Forgeron Vieille Reserve Cognac,70.0,45.0,118,Cognac
+175,Michel Forgeron Hors d'Age Cognac,50.0,50.0,165,Cognac
+176,Remy Martin Louis XIII Cognac,70.0,40.0,"5,500",Cognac
+177,Bisquit Dubouche 1840 Cognac,70.0,40.0,"5,000",Cognac
+178,Bisquit Dubouche 1840 Cognac,70.0,40.0,"7,500",Cognac
+179,Bisquit Dubouche 1840 Cognac,70.0,40.0,"7,500",Cognac
+180,Martell 3 Stars Cognac,68.0,40.0,150,Cognac
+181,Martell VOP 3 Stars Cognac,73.0,40.0,450,Cognac
+182,Remy Martin Louis XIII Cognac,70.0,40.0,"3,500",Cognac
+183,Barnett & Fils 1893 Cognac,70.0,40.0,"2,750",Cognac
+184,Remy Martin Louis XIII Cognac,70.0,40.0,"5,000",Cognac
+185,Remy Martin Louis XIII Cognac,70.0,40.0,"5,500",Cognac
+186,Dupuy Luxus Tentation Cognac,70.0,40.0,49.95,Cognac
+187,Plume Frapin,70.0,40.0,"2,675",Cognac
+188,Leopold Gourmel Age des Fleurs 15 Carats Cognac,70.0,42.0,115,Cognac
+189,Leopold Gourmel Age du Fruit 10 Carats Cognac,70.0,41.0,76.95,Cognac
+190,Croizet 1928 Cognac,70.0,40.0,750,Cognac
+191,Croizet 1928 Cognac,68.0,40.0,750,Cognac
+192,Croizet 1928 Cognac,68.0,40.0,750,Cognac
+193,Delamain Pale & Dry Cognac,70.0,40.0,275,Cognac
+194,Delamain Pale & Dry Cognac,70.0,40.0,275,Cognac
+195,Hine 1922 Cognac,70.0,37.7,"1,500",Cognac
+196,Croizet 1914 Cognac,68.0,40.0,"1,200",Cognac
+197,G & J Greenall 1893,70.0,40.0,"3,500",Cognac
+198,Remy Martin Centaure Cognac,70.0,40.0,"1,200",Cognac
+199,Lucien Foucauld 1847 Cognac,70.0,40.0,"7,500",Cognac
+200,Mercier Roger 1875 Cognac,70.0,40.0,"4,500",Cognac
+201,Denis-Mounié 1914 Cognac,75.0,40.0,"1,500",Cognac
+202,Courvoisier 3 Star Luxe Cognac,68.0,40.0,175,Cognac
+203,Courvoisier 3 Stars Cognac,75.0,40.0,399,Cognac
+204,Courvoisier 3 Stars Cognac,70.0,40.0,399,Cognac
+205,Hine Triomphe Cognac Decanter,70.0,40.0,525,Cognac
+206,Louis Royer VS Cognac,70.0,40.0,33.45,Cognac
+207,Hardy d'Albatre Cognac,70.0,40.0,"2,750",Cognac
+208,Delamain Le Très Vénéré Cognac de Grande Champagne,70.0,40.0,360,Cognac
+209,Adet 1887 Cognac,75.0,40.0,"4,500",Cognac
+210,Hennessy Ellipse Cognac,70.0,43.5,"12,500",Cognac
+211,Remy Martin VSOP Cognac,75.0,40.0,299,Cognac
+212,Hine 1834 Cognac,75.0,40.0,"7,500",Cognac
+213,Berry Bros 1904 Cognac,68.0,40.0,"1,200",Cognac
+214,Prunier Grande Fine Champagne,68.0,40.0,299,Cognac
+215,Calvet 1928 Cognac,75.0,40.2,850,Cognac
+216,Davidoff XO Cognac,70.0,40.0,150,Cognac
+217,Remy Martin Louis XIII Jeroboam,300.0,40.0,"24,000",Cognac
+218,Merlet Brothers Blend Cognac,70.0,40.0,42.95,Cognac
+219,Bisquit Dubouche 1878 Cognac,75.0,40.0,"5,000",Cognac
+220,Remy Martin VSOP Cognac,70.0,40.0,299,Cognac
+221,L Ducasse & Co 1908 Cognac,75.0,40.0,"2,500",Cognac
+222,Croizet 1928 Cognac,75.0,40.0,750,Cognac
+223,Richard Hennessy Cognac,70.0,40.0,"4,000",Cognac
+224,AE Dor Cigar Cognac,20.0,42.0,42.95,Cognac
+225,Bisquit Dubouche 1922 Cognac,70.0,40.0,"1,000",Cognac
+226,Martell VS 3 Stars Cognac,68.0,40.0,150,Cognac
+227,Augier Freres 1878 Cognac,70.0,43.0,"5,000",Cognac
+228,Chateau de Beaulon XO Collection Cognac,50.0,40.0,150,Cognac
+229,AE Dor Selection VS Cognac,70.0,40.0,41.45,Cognac
+230,Frapin Extra Cognac,70.0,40.0,510,Cognac
+231,Domaine Le Reviseur VS Petite Champagne Cognac,70.0,40.0,40.75,Cognac
+232,AE Dor No.11 Cognac,70.0,43.0,"1,550",Cognac
+233,AE Dor No.10 Cognac,70.0,41.5,"1,225",Cognac
+234,AE Dor Cognac for Cigar,70.0,42.0,110,Cognac
+235,AE Dor XO Fine Champagne Cognac,70.0,40.0,110,Cognac
+236,AE Dor Napoleon Cognac,70.0,40.0,75.45,Cognac
+237,Martell VS 3 Stars Cognac,68.0,40.0,150,Cognac
+238,Chateau de Beaulon XO Premier Cognac,70.0,40.0,74.95,Cognac
+239,Hine 1978 Vintage Cognac,70.0,40.0,"1,100",Cognac
+0,Mortlach Rare Old,50.0,43.4,69.95,Scotch Whiskey
+1,Lagavulin 12 Year Old,70.0,56.5,199,Scotch Whiskey
+2,Caol Ila 15 Year Old Unpeated,70.0,59.1,99.95,Scotch Whiskey
+3,Caol Ila 18 Year Old,70.0,59.8,140,Scotch Whiskey
+4,Highland Park Fire 15 Year Old,70.0,45.2,199,Scotch Whiskey
+5,Oc3 - Elements of Islay,50.0,60.3,120,Scotch Whiskey
+6,Tomintoul Five Decades,70.0,50.0,320,Scotch Whiskey
+7,Singleton of Dufftown 1985,70.0,52.3,275,Scotch Whiskey
+8,Macallan 1990,70.0,43.0,500,Scotch Whiskey
+9,Octomore 2002,70.0,46.0,250,Scotch Whiskey
+10,Laphroaig 25 Year Old,70.0,48.9,550,Scotch Whiskey
+11,Strathisla 1972,70.0,43.0,"1,200",Scotch Whiskey
+12,Bowmore 26 Year Old Wine Cask,70.0,48.7,500,Scotch Whiskey
+13,Glen Grant 1962,70.0,40.0,"1,600",Scotch Whiskey
+14,Ma1 – Elements of Islay,50.0,54.2,150,Scotch Whiskey
+15,Glenfarclas 8 Year Old '105',75.0,60.0,750,Scotch Whiskey
+16,Glenmorangie 12 Year Old,70.0,40.0,250,Scotch Whiskey
+17,Glenrothes 1988,70.0,43.0,350,Scotch Whiskey
+18,The Speyside 8 Year Old,75.0,43.0,79.95,Scotch Whiskey
+19,Brechin 1977,70.0,53.3,675,Scotch Whiskey
+20,Glenrothes 1972,70.0,43.0,"1,350",Scotch Whiskey
+21,Glen Ord 12 Year Old,70.0,43.0,250,Scotch Whiskey
+22,Balvenie 10 Year Old,70.0,40.0,225,Scotch Whiskey
+23,Springbank 1979,75.0,56.8,"3,000",Scotch Whiskey
+24,Knockando 1966,75.0,43.0,450,Scotch Whiskey
+25,Longmorn 1972,70.0,53.4,"1,750",Scotch Whiskey
+26,Longmorn 1966,70.0,44.3,"1,750",Scotch Whiskey
+27,Glenfiddich Pure Malt,75.0,40.0,150,Scotch Whiskey
+28,Dalmore 12 Year Old,100.0,43.0,375,Scotch Whiskey
+29,Bowmore 1972,70.0,46.7,"4,950",Scotch Whiskey
+30,Dalwhinnie 15 Year Old,70.0,43.0,175,Scotch Whiskey
+31,Laphroaig 27 Year Old,70.0,41.7,750,Scotch Whiskey
+32,Macallan 36 Year Old,70.0,42.1,"3,000",Scotch Whiskey
+33,Glen Grant 1950,70.0,40.0,"3,200",Scotch Whiskey
+34,Strathisla 1957,70.0,43.0,"2,300",Scotch Whiskey
+35,Glen Elgin 1998,70.0,54.8,250,Scotch Whiskey
+36,Blair Athol 1993,70.0,58.4,375,Scotch Whiskey
+37,Longmorn 1973,70.0,43.0,"1,000",Scotch Whiskey
+38,Glenlivet 16 Year Old,70.0,58.6,199,Scotch Whiskey
+39,Glen Grant 1955,70.0,40.0,"2,350",Scotch Whiskey
+40,Ardbeg Kildalton,70.0,46.0,425,Scotch Whiskey
+41,Strathisla 1965,70.0,43.0,"2,500",Scotch Whiskey
+42,Tomintoul 8 Year Old,75.0,40.0,150,Scotch Whiskey
+43,Bowmore Tempest 10 Year Old,70.0,55.9,140,Scotch Whiskey
+44,Highland Park 1973,70.0,43.0,800,Scotch Whiskey
+45,Strathisla 1969,70.0,43.0,"1,500",Scotch Whiskey
+46,Glenlivet 1965,70.0,43.0,"1,000",Scotch Whiskey
+47,Glenmorangie 10 Year Old,75.0,40.0,650,Scotch Whiskey
+48,Royal Lochnagar,75.0,43.0,399,Scotch Whiskey
+49,Isle of Jura 1965,70.0,45.0,550,Scotch Whiskey
+50,Glen Elgin 1998,70.0,61.1,350,Scotch Whiskey
+51,Tormore 10 Year Old,75.0,40.0,150,Scotch Whiskey
+52,Scapa 16 Year Old,70.0,40.0,225,Scotch Whiskey
+53,Glenmorangie 1981,70.0,46.0,"1,450",Scotch Whiskey
+54,Dalmore 1992,100.0,40.0,500,Scotch Whiskey
+55,Isle of Jura 10 Year Old,70.0,40.0,89.95,Scotch Whiskey
+56,Isle of Jura 10 Year Old,75.0,40.0,175,Scotch Whiskey
+57,Aultmore 12 Year Old,75.0,40.0,225,Scotch Whiskey
+58,Tamdhu 16 Year Old,75.0,43.0,"1,200",Scotch Whiskey
+59,Scapa 14 Year Old,70.0,40.0,250,Scotch Whiskey
+60,Longmorn 15 Year Old,70.0,45.0,175,Scotch Whiskey
+61,Glenury Royal 1968,70.0,51.2,"1,500",Scotch Whiskey
+62,Glendronach 1972,70.0,48.0,"4,500",Scotch Whiskey
+63,Glen Ord 28 Year Old,70.0,58.3,550,Scotch Whiskey
+64,Glen Moray 12 Year Old,75.0,40.0,150,Scotch Whiskey
+65,Glen Moray 8 Year Old,75.0,43.0,69.95,Scotch Whiskey
+66,Glenmorangie Claret Finish,70.0,43.0,"1,000",Scotch Whiskey
+67,Glenlivet 25 Year Old,75.0,43.0,"1,500",Scotch Whiskey
+68,Glenfiddich Classic,70.0,43.0,299,Scotch Whiskey
+69,Bunnahabhain 1965,70.0,53.9,"3,000",Scotch Whiskey
+70,Brora 30 Year Old,70.0,52.4,"4,250",Scotch Whiskey
+71,Balvenie 10 Year Old,70.0,40.0,225,Scotch Whiskey
+72,Aberlour 12 Year Old,100.0,40.0,175,Scotch Whiskey
+73,Ardbeg 1977,70.0,46.0,"1,350",Scotch Whiskey
+74,Ardbeg 17 Year Old,70.0,40.0,650,Scotch Whiskey
+75,Glenrothes 1973,70.0,43.0,"1,250",Scotch Whiskey
+76,Glen Ord 12 Year Old,70.0,40.0,150,Scotch Whiskey
+77,Glenrothes 1972,75.0,43.0,"1,350",Scotch Whiskey
+78,Glenmorangie 10 Year Old,100.0,43.0,275,Scotch Whiskey
+79,Glenmorangie 10 Year Old,100.0,43.0,299,Scotch Whiskey
+80,Glen Ord 12 Year Old,100.0,40.0,225,Scotch Whiskey
+81,Glenury- Royal,70.0,43.0,750,Scotch Whiskey
+82,Glenlivet 21 Year Old,75.0,43.0,"1,200",Scotch Whiskey
+83,Glen Garioch 1968,70.0,56.3,"3,000",Scotch Whiskey
+84,SMWS 13.21 (Dalmore),75.0,57.5,450,Scotch Whiskey
+85,Linkwood 1946,70.0,40.0,"3,750",Scotch Whiskey
+86,Dalmore 12 Year Old,50.0,35.0,350,Scotch Whiskey
+87,Glengoyne 10 Year Old,70.0,40.0,125,Scotch Whiskey
+88,Glenfiddich 10 Year Old,75.0,43.0,450,Scotch Whiskey
+89,Bowmore 22 Year Old,70.0,43.0,"1,750",Scotch Whiskey
+90,Glenmorangie 12 Year Old,70.0,40.0,250,Scotch Whiskey
+91,Scapa 12 Year Old,75.0,40.0,275,Scotch Whiskey
+92,SMWS 72.3,75.0,49.6,450,Scotch Whiskey
+93,Scapa 12 Year Old,70.0,40.0,275,Scotch Whiskey
+94,Knockando 1973,75.0,43.0,478.8,Scotch Whiskey
+95,SMWS 15.12 (Glenfiddich),75.0,59.8,399,Scotch Whiskey
+0,Cardhu 12 Year Old,75.0,40.0,175,Scotch Whiskey
+1,Tomintoul 14 Year Old,75.0,40.0,150,Scotch Whiskey
+2,SMWS 61.6 (Brora),75.0,60.3,"2,500",Scotch Whiskey
+3,SMWS 9.22 (Glen Grant),75.0,59.6,550,Scotch Whiskey
+4,Strathisla 12 Year Old,70.0,43.0,175,Scotch Whiskey
+5,Dufftown 14 Year Old,70.0,56.2,299,Scotch Whiskey
+6,Miltonduff-Glenlivet 1978,70.0,59.4,399,Scotch Whiskey
+7,Glenburgie 1966,75.0,61.2,"1,750",Scotch Whiskey
+8,Caol Ila 1980,70.0,54.6,"1,750",Scotch Whiskey
+9,Talisker 1964,75.0,57.0,"7,500",Scotch Whiskey
+10,Cardhu 12 Year Old,75.0,43.0,700,Scotch Whiskey
+11,Bowmore 12 Year Old,75.0,43.0,750,Scotch Whiskey
+12,Port Ellen 1979,70.0,58.8,"1,250",Scotch Whiskey
+13,Bunnahabhain 20 Year Old,100.0,43.0,"4,000",Scotch Whiskey
+14,Mortlach 12 Year Old,75.0,43.4,600,Scotch Whiskey
+15,Cardhu 12 Year Old,100.0,43.0,225,Scotch Whiskey
+16,Glenfiddich 10 Year Old,75.7,43.0,450,Scotch Whiskey
+17,Glenfiddich 8 Year Old,75.0,43.0,"1,350",Scotch Whiskey
+18,Glenfarclas 15 Year Old,75.7,46.0,700,Scotch Whiskey
+19,Glenfarclas 12 Year Old,75.0,43.0,"1,500",Scotch Whiskey
+20,Springbank 15 Year Old,75.0,46.0,"1,800",Scotch Whiskey
+21,Highland Park 1955,75.0,54.6,"4,000",Scotch Whiskey
+22,Caol Ila 1975,75.0,40.0,850,Scotch Whiskey
+23,Port Ellen 1982,70.0,50.0,"1,800",Scotch Whiskey
+24,Glen Moray '93,75.0,40.0,900,Scotch Whiskey
+25,Lagavulin 16 Year Old,100.0,43.0,850,Scotch Whiskey
+26,Old Fettercairn 1967,75.0,45.0,"1,000",Scotch Whiskey
+27,Clynelish 1965,70.0,50.7,"10,000",Scotch Whiskey
+28,Bowmore 1963,70.0,50.0,"12,500",Scotch Whiskey
+29,Port Ellen 1977,70.0,59.7,"1,500",Scotch Whiskey
+30,Linkwood,75.0,40.0,900,Scotch Whiskey
+31,Springbank 8 Year Old,75.0,43.0,"1,500",Scotch Whiskey
+32,Bunnahabhain 12 Year Old,70.0,43.0,225,Scotch Whiskey
+33,Glenfiddich 8 Year Old,100.0,43.0,299,Scotch Whiskey
+34,Highland Park 18 Year Old,75.0,43.0,650,Scotch Whiskey
+35,Tomatin 1967,70.0,43.0,"1,000",Scotch Whiskey
+36,Bruichladdich 1969,75.0,46.0,"2,000",Scotch Whiskey
+37,Glenfarclas 15 Year Old,75.0,46.0,925,Scotch Whiskey
+38,Port Ellen 12 Year Old,70.0,46.0,950,Scotch Whiskey
+39,SMWS 9.5 (Glen Grant),70.0,61.0,450,Scotch Whiskey
+40,Isle Of Jura 10 Year Old,100.0,43.0,235,Scotch Whiskey
+41,Glen Grant 1953,70.0,45.0,"3,750",Scotch Whiskey
+42,Strathisla 15 Year Old,75.0,57.0,"1,500",Scotch Whiskey
+43,Glenrothes 1989,70.0,43.0,375,Scotch Whiskey
+44,Bruichladdich 10 Year Old,70.0,40.0,225,Scotch Whiskey
+45,Dalmore 12 Year Old,75.0,43.0,675,Scotch Whiskey
+46,SMWS 4.1 (Highland Park),75.0,60.2,"3,500",Scotch Whiskey
+47,Glen Grant 1967,75.0,43.0,"1,800",Scotch Whiskey
+48,Glen Grant 1967,75.0,43.0,"1,750",Scotch Whiskey
+49,Glenlivet 22 Year Old (Distilled 1974),75.0,43.0,"2,000",Scotch Whiskey
+50,Springbank 1966,70.0,52.1,"7,000",Scotch Whiskey
+51,Glenlivet 1974,70.0,43.0,500,Scotch Whiskey
+52,"Macallan-Glenlivet ""As We Get It""",75.0,59.0,"6,000",Scotch Whiskey
+53,Talisker Pure Malt Over 8 Year Old,75.0,45.7,"4,500",Scotch Whiskey
+54,Braes Of Glenlivet 1979,75.0,59.2,900,Scotch Whiskey
+55,Tullibardine 1964,75.0,48.7,"1,200",Scotch Whiskey
+56,Glen Grant 1972,75.0,51.1,"1,750",Scotch Whiskey
+57,Glenugie 1973,70.0,54.2,"1,000",Scotch Whiskey
+58,Glenfarclas 1980,70.0,45.7,750,Scotch Whiskey
+59,Glenrothes 1974,75.0,43.0,"1,500",Scotch Whiskey
+60,Ardbeg 1978,70.0,40.0,"1,200",Scotch Whiskey
+61,MacPhail's 1938,75.0,40.0,"5,000",Scotch Whiskey
+62,Glenfarclas 1956,70.0,50.0,"4,500",Scotch Whiskey
+63,Royal Brackla 1924,70.0,40.0,"20,000",Scotch Whiskey
+64,Glen Grant 1970,75.0,50.1,"1,500",Scotch Whiskey
+65,Glen Grant 1970,70.0,55.4,"1,500",Scotch Whiskey
+66,Ardbeg 1979,70.0,63.2,"2,500",Scotch Whiskey
+67,Highland Park 1979,70.0,51.7,700,Scotch Whiskey
+68,Highland Park 1972,75.0,60.0,"1,350",Scotch Whiskey
+69,Highland Park 1972,75.0,55.1,"1,350",Scotch Whiskey
+70,Dalmore 1979,70.0,54.6,"4,500",Scotch Whiskey
+71,Glen Grant 1974,70.0,49.8,800,Scotch Whiskey
+72,Highland Park 1956,75.0,43.0,"3,000",Scotch Whiskey
+73,Strathisla 1969,70.0,54.6,"1,750",Scotch Whiskey
+74,Glen Grant 1969,70.0,53.9,"1,500",Scotch Whiskey
+75,Glenlossie 1973,75.0,40.0,"1,000",Scotch Whiskey
+76,Glen Grant 1967,70.0,52.5,"1,300",Scotch Whiskey
+77,Strathisla 1967,70.0,54.3,"2,500",Scotch Whiskey
+78,Knockando 1959,75.0,40.0,"1,000",Scotch Whiskey
+79,SMWS 4.1 (Highland Park),75.0,60.2,"4,000",Scotch Whiskey
+80,SMWS 30.25 (Glenrothes),70.0,50.6,"3,000",Scotch Whiskey
+81,Highland Park 1966,75.0,43.0,"4,000",Scotch Whiskey
+82,Knockando 1998,70.0,49.0,199,Scotch Whiskey
+83,Laphroaig 10 Year Old,75.0,40.0,"6,500",Scotch Whiskey
+84,Dalmore 1985,70.0,51.5,"2,500",Scotch Whiskey
+85,Glen Grant 15 Year Old,75.7,57.0,700,Scotch Whiskey
+86,Highland Park 1960,75.0,43.0,"2,750",Scotch Whiskey
+87,Port Ellen 1983,70.0,58.1,"1,100",Scotch Whiskey
+88,Old Fettercairn 1967,70.0,40.0,850,Scotch Whiskey
+89,Glenrothes 8 Year Old,75.7,40.0,450,Scotch Whiskey
+90,Ledaig-Tobermory 1972,75.0,40.0,"1,100",Scotch Whiskey
+91,Cragganmore 1966,75.0,52.2,"2,250",Scotch Whiskey
+92,Talisker 12 Year Old,75.0,43.4,"1,800",Scotch Whiskey
+93,Glenlochy 1967,75.0,46.0,"2,500",Scotch Whiskey
+94,Bowmore 1993,70.0,44.0,450,Scotch Whiskey
+95,Glenlochy 1974,70.0,53.3,"1,200",Scotch Whiskey
+96,Glenlochy 1965,70.0,46.8,"2,250",Scotch Whiskey
+97,Glenury Royal 1953,70.0,42.8,"13,500",Scotch Whiskey
+98,SMWS 4.7 (Highland Park),75.0,60.5,"1,000",Scotch Whiskey
+99,Dalmore 1965 Set With Glass & Miniature,75.0,53.8,"3,750",Scotch Whiskey
+100,Tullibardine 1964,70.0,51.2,"1,200",Scotch Whiskey
+101,Longmorn 1969,70.0,56.7,"2,500",Scotch Whiskey
+102,Ardbeg 15 Year Old & Laphroaig 10 Year Old,100.0,43.0,"1,300",Scotch Whiskey
+103,Bruichladdich 27 Year Old,70.0,50.2,565,Scotch Whiskey
+104,Ardbeg 26 Year Old,70.0,47.2,"1,250",Scotch Whiskey
+105,Glenfarclas 1959,70.0,46.0,"4,000",Scotch Whiskey
+106,Brora 1971,70.0,50.0,"6,000",Scotch Whiskey
+107,Bowmore Bicentenary,75.0,43.0,"6,000",Scotch Whiskey
+108,Balvenie 1966,70.0,42.1,"5,000",Scotch Whiskey
+109,Balvenie 1967,70.0,49.7,"5,000",Scotch Whiskey
+110,Dalmore 1985,70.0,51.5,"2,500",Scotch Whiskey
+111,Port Ellen 1980,70.0,62.0,"1,500",Scotch Whiskey
+112,Knockando 1965,75.0,43.0,550,Scotch Whiskey
+113,Pride of Strathspey 1938,75.0,40.0,"6,000",Scotch Whiskey
+114,Glenlivet 1954,75.0,46.0,"5,000",Scotch Whiskey
+115,St Magdalene 1964,75.0,40.0,"1,600",Scotch Whiskey
+116,Glenfarclas 1968,70.0,54.4,"6,000",Scotch Whiskey
+117,Knockando 1979,100.0,43.0,299,Scotch Whiskey
+118,Longmorn 1961,70.0,40.8,"15,000",Scotch Whiskey
+119,Longmorn 1961,70.0,45.0,"15,000",Scotch Whiskey
+120,Pride of Strathspey 1938,75.0,40.0,"6,000",Scotch Whiskey
+121,Forties 1975,70.0,40.0,350,Scotch Whiskey
+122,Laphroaig 1981,70.0,56.6,"7,000",Scotch Whiskey
+123,Glendronach 1955,75.0,40.0,"2,000",Scotch Whiskey
+124,Glenfiddich Special Reserve,75.0,43.0,"1,200",Scotch Whiskey
+125,Mosstowie 17 Year Old,75.0,40.0,500,Scotch Whiskey
+126,Glenury Royal 1971,70.0,61.3,"2,500",Scotch Whiskey
+127,Knockando 1970,75.0,43.0,500,Scotch Whiskey
+128,Balvenie 1967,70.0,49.7,"5,000",Scotch Whiskey
+129,Glenury Royal 1971,75.0,61.3,"2,250",Scotch Whiskey
+130,Glen Grant 7 Year Old,75.0,40.0,500,Scotch Whiskey
+131,Glen Garioch 15 Year Old,70.0,43.0,399,Scotch Whiskey
+132,Glenmorangie 30 Year Old,70.0,44.3,"2,750",Scotch Whiskey
+133,Springbank 1967,70.0,52.0,"3,500",Scotch Whiskey
+134,Lochside 1967,70.0,40.8,"2,000",Scotch Whiskey
+135,Ardbeg 12 Year Old,75.0,46.0,"3,500",Scotch Whiskey
+136,Talisker 1967,75.0,57.0,"6,750",Scotch Whiskey
+137,SMWS 4.65 (Highland Park),50.0,57.6,"1,000",Scotch Whiskey
+138,Springbank 1975,70.0,43.0,"1,000",Scotch Whiskey
+139,Strathisla 15 Year Old,75.0,57.1,"2,000",Scotch Whiskey
+140,Inchmurrin 1966,75.0,52.0,"1,000",Scotch Whiskey
+141,Glenfarclas 15 Year Old,75.0,46.0,700,Scotch Whiskey
+142,Glenfarclas 8 Year Old,75.0,60.0,750,Scotch Whiskey
+143,Bunnahabhain 1966,70.0,40.1,"1,500",Scotch Whiskey
+144,Dalmore 1979,70.0,47.0,"6,000",Scotch Whiskey
+145,St Magdalene 1964,75.0,40.0,"1,600",Scotch Whiskey
+146,Dalmore 1965,70.0,53.1,"3,000",Scotch Whiskey
+147,Glenfarclas 6 Year Old,75.0,40.0,175,Scotch Whiskey
+148,Springbank 1967,70.0,43.4,"3,000",Scotch Whiskey
+149,North Port Brechin 1981,70.0,57.2,"1,275",Scotch Whiskey
+150,Laphroaig 1998,70.0,55.2,550,Scotch Whiskey
+151,Highland Park 1996,70.0,51.4,325,Scotch Whiskey
+152,Bunnahabhain 1963,70.0,43.0,"1,900",Scotch Whiskey
+153,Highland Park 12 Year Old,100.0,43.0,350,Scotch Whiskey
+154,Tullibardine 1964,70.0,44.2,"2,000",Scotch Whiskey
+155,Glen Grant 20 Year Old,75.0,45.0,"2,000",Scotch Whiskey
+156,Port Ellen 1982,70.0,40.0,"1,600",Scotch Whiskey
+157,Tamnavulin-Glenlivet 22 Year Old,75.0,45.0,600,Scotch Whiskey
+158,Highland Park 1978,70.0,55.0,"1,250",Scotch Whiskey
+159,Glenfiddich 50 Year Old,70.0,43.0,"25,000",Scotch Whiskey
+160,Longmorn 1961,140.0,42.9,"30,000",Scotch Whiskey
+161,Macallan Masters of Photography Magnum Edition 7th,70.0,43.7,"3,250",Scotch Whiskey
+162,Laphroaig 10 Year Old,100.0,43.0,"2,350",Scotch Whiskey
+163,Auchentoshan 1966,75.0,43.0,"1,350",Scotch Whiskey
+164,Laphroaig 10 Year Old,75.0,55.7,800,Scotch Whiskey
+165,SMWS 18.5 (Inchgower),70.0,61.6,"2,000",Scotch Whiskey
+166,Glen Grant 1951,70.0,40.0,"3,200",Scotch Whiskey
+167,Glen Grant 1948,70.0,40.0,"4,200",Scotch Whiskey
+168,Gordon & MacPhail Strathisla Collection,420.0,43.0,"11,000",Scotch Whiskey
+169,Aberlour-Glenlivet Centenary,75.0,40.0,"1,500",Scotch Whiskey
+170,Highland Park 1958,75.0,43.0,"3,000",Scotch Whiskey
+171,Tomatin 1976,70.0,46.0,550,Scotch Whiskey
+172,Springbank 1967,75.0,50.9,"3,000",Scotch Whiskey
+173,Glenfiddich 10 Year Old,75.7,43.0,450,Scotch Whiskey
+174,Ardbeg 1975,70.0,47.3,"3,250",Scotch Whiskey
+175,Bruichladdich 21 Year Old,70.0,43.0,450,Scotch Whiskey
+176,Highland Park 12 Year Old,70.0,40.0,199,Scotch Whiskey
+177,Glenfarclas 8 Year Old,75.0,60.0,399,Scotch Whiskey
+178,Glenrothes-Glenlivet 10 Year Old,75.0,46.0,"3,500",Scotch Whiskey
+179,Glen Grant 30 Year Old,75.0,40.0,"2,000",Scotch Whiskey
+180,Port Ellen 1983,70.0,43.0,"1,000",Scotch Whiskey
+181,SMWS 42.1 (Tobermory),75.0,53.1,"1,750",Scotch Whiskey
+182,Strathisla 1937,75.7,40.0,"4,000",Scotch Whiskey
+183,Highland Park 20 Year Old,70.0,44.7,"4,500",Scotch Whiskey
+184,Glen Grant 15 Year Old,75.7,40.0,700,Scotch Whiskey
+185,Aberlour-Glenlivet 10 Year Old,70.0,43.0,299,Scotch Whiskey
+186,Highland Park 8 Year Old,75.0,40.0,399,Scotch Whiskey
+187,Highland Park 12 Year Old,70.0,40.0,199,Scotch Whiskey
+188,Strathisla 1948,75.0,40.0,"3,000",Scotch Whiskey
+189,Port Ellen 1978,75.0,50.0,"1,500",Scotch Whiskey
+190,Dalmore 12 Year Old,70.0,40.0,250,Scotch Whiskey
+191,Springbank 1967,75.0,43.1,"3,750",Scotch Whiskey
+192,Knockando Extra Old Reserve,70.0,40.0,350,Scotch Whiskey
+193,Glenmorangie 25 Year Old,70.0,43.0,800,Scotch Whiskey
+194,Strathisla 1960,75.0,40.0,"1,750",Scotch Whiskey
+195,Auchentoshan 1965,70.0,48.9,"1,500",Scotch Whiskey
+196,Balvenie 1976,70.0,52.7,"4,000",Scotch Whiskey
+197,Glen Grant 1949,75.0,40.0,"3,750",Scotch Whiskey
+198,Strathisla 1949,75.0,40.0,"3,500",Scotch Whiskey
+199,Talisker 1951,75.0,43.0,"2,500",Scotch Whiskey
+200,Miltonduff 1966,75.0,43.6,"1,000",Scotch Whiskey
+201,Linlithgow 1975,75.0,49.7,"1,000",Scotch Whiskey
+202,Springbank 1965,70.0,43.0,"2,750",Scotch Whiskey
+203,Bunnahabhain 1967,75.0,45.8,"1,250",Scotch Whiskey
+204,Bowmore 1964,75.0,43.2,"22,500",Scotch Whiskey
+205,SMWS L13.11 (Dalmore),70.0,59.2,"1,500",Scotch Whiskey
+206,SMWS 4.62 (Highland Park),70.0,53.5,900,Scotch Whiskey
+207,Linlithgow 1975,70.0,46.0,750,Scotch Whiskey
+208,St Magdalene 1964,75.0,40.0,"1,600",Scotch Whiskey
+209,Brora 1982,70.0,46.0,"1,250",Scotch Whiskey
+210,Cardhu 12 Year Old,75.0,43.0,750,Scotch Whiskey
+211,Bowmore 1970,70.0,43.2,"4,000",Scotch Whiskey
+212,Springbank 1969,70.0,41.0,"2,000",Scotch Whiskey
+213,Talisker 1951,75.0,43.0,"2,500",Scotch Whiskey
+214,Springbank 1966,70.0,47.1,"6,000",Scotch Whiskey
+215,Glenury 1968,70.0,48.8,"1,450",Scotch Whiskey
+216,Glenlivet 1969,70.0,52.51,"2,000",Scotch Whiskey
+217,SMWS 61.4 (Brora),70.0,58.3,"2,500",Scotch Whiskey
+218,Tullibardine 10 Year Old,75.0,40.0,125,Scotch Whiskey
+219,Springbank 18 Year Old,70.0,46.0,"3,000",Scotch Whiskey
+220,Port Ellen 1978,70.0,61.8,"1,500",Scotch Whiskey
+221,Port Ellen 25 Year Old,70.0,56.0,"2,250",Scotch Whiskey
+222,Ardbeg 1974,70.0,51.3,"3,500",Scotch Whiskey
+223,Avonside (Glenlivet) 1938,75.0,43.0,"2,750",Scotch Whiskey
+224,Bowmore 8 Year Old,113.0,43.0,"5,000",Scotch Whiskey
+225,SMWS 27.16 (Springbank),75.0,57.8,"3,000",Scotch Whiskey
+226,SMWS 49.3 (St Magdalene),75.0,63.0,"1,100",Scotch Whiskey
+227,Glenrothes 1954,75.0,40.0,"2,000",Scotch Whiskey
+228,Avonside (Glenlivet) 1938,75.0,43.0,"2,750",Scotch Whiskey
+229,Glen Grant 25 Year Old,75.7,40.0,"1,000",Scotch Whiskey
+230,Highland Park 1972,70.0,55.9,"1,000",Scotch Whiskey
+231,Caol Ila 12 Year Old,75.0,43.0,"5,000",Scotch Whiskey
+232,Glen Grant 1949,70.0,40.0,"4,000",Scotch Whiskey
+233,Mortlach 1936,75.0,43.0,"4,500",Scotch Whiskey
+234,Cragganmore 1966,75.0,52.2,"2,250",Scotch Whiskey
+235,Ardbeg 10 Year Old,75.0,40.0,"2,000",Scotch Whiskey
+236,Lochside 1966,70.0,51.8,"1,750",Scotch Whiskey
+237,Glenkinchie 1964,75.0,40.0,"1,250",Scotch Whiskey
+238,Talisker 1957,75.0,51.1,"7,500",Scotch Whiskey
+239,Ardbeg 1974,70.0,46.0,"1,500",Scotch Whiskey
+0,Springbank 1970,70.0,54.4,"4,500",Scotch Whiskey
+1,Glenlivet 1956,75.0,40.0,"1,500",Scotch Whiskey
+2,Glenfiddich 8 Year Old,75.0,43.0,199,Scotch Whiskey
+3,SMWS 58.11 (Strathisla),70.0,51.4,"1,750",Scotch Whiskey
+4,SMWS 9.39 (Glen Grant),70.0,51.8,"1,350",Scotch Whiskey
+5,Knockando 1966,75.0,43.0,550,Scotch Whiskey
+6,Port Ellen 1980,70.0,46.0,950,Scotch Whiskey
+7,Springbank 1969,70.0,40.9,"3,000",Scotch Whiskey
+8,Benriach 1966 Set With Glass & Miniature,75.0,47.2,"2,250",Scotch Whiskey
+9,Linlithgow 1982,70.0,43.0,700,Scotch Whiskey
+10,Brora 1981,70.0,43.0,"1,000",Scotch Whiskey
+11,Tomatin 10 Year Old,75.7,40.0,"1,200",Scotch Whiskey
+12,Linlithgow 1975,70.0,58.1,"1,000",Scotch Whiskey
+13,Glen Moray 1986,75.0,61.1,450,Scotch Whiskey
+14,Blair Athol 8 Year Old,75.0,40.0,299,Scotch Whiskey
+15,Glenrothes 1985,70.0,56.5,399,Scotch Whiskey
+16,Bowmore Sherriff's,75.0,40.0,"3,500",Scotch Whiskey
+17,Dalmore 1979,70.0,54.6,"4,500",Scotch Whiskey
+18,Glenmorangie 10 Year Old,200.0,40.0,550,Scotch Whiskey
+19,Bunnahabhain 12 Year Old,75.0,40.0,325,Scotch Whiskey
+20,Brora 1982,70.0,58.6,"1,200",Scotch Whiskey
+21,Brora 1982,70.0,40.0,"1,200",Scotch Whiskey
+22,Glenlivet 1955,70.0,43.0,"2,250",Scotch Whiskey
+23,Glen Grant 1954,70.0,40.0,"2,350",Scotch Whiskey
+24,Port Ellen 1980,70.0,46.0,950,Scotch Whiskey
+25,Highland Park 1968,70.0,43.0,"1,500",Scotch Whiskey
+26,Port Ellen 1980,70.0,43.0,"2,000",Scotch Whiskey
+27,Pride Of Strathspey 1938,75.0,40.0,"6,000",Scotch Whiskey
+28,Highland Park 25 Year Old,70.0,50.7,"1,500",Scotch Whiskey
+29,Brora 1981,70.0,54.5,"1,750",Scotch Whiskey
+30,Bunnahabhain 12 Year Old,75.0,43.0,350,Scotch Whiskey
+31,Longmorn 1973,75.0,45.0,"1,500",Scotch Whiskey
+32,Springbank 1965,70.0,50.6,"5,000",Scotch Whiskey
+33,Bunnahabhain 1988,70.0,56.2,"1,000",Scotch Whiskey
+34,Glenfarclas 1974,70.0,42.7,"3,250",Scotch Whiskey
+35,Glenfarclas 1970,70.0,55.5,"5,000",Scotch Whiskey
+36,Glenfarclas 1969,70.0,56.1,"4,500",Scotch Whiskey
+37,Glenfarclas 1968,70.0,41.7,"7,300",Scotch Whiskey
+38,Glenfarclas 1963,70.0,47.4,"5,000",Scotch Whiskey
+39,Glenfarclas 1962,70.0,43.4,"5,250",Scotch Whiskey
+40,Glenfarclas 1958,70.0,41.7,"6,500",Scotch Whiskey
+41,Glenfarclas 1956,70.0,48.3,"6,500",Scotch Whiskey
+42,Port Ellen 1979,70.0,64.1,"1,350",Scotch Whiskey
+43,Caperdonich 1968,70.0,44.5,"1,250",Scotch Whiskey
+44,Miltonduff 13 Year Old,75.0,43.0,399,Scotch Whiskey
+45,Glenfarclas 25 Year Old,75.0,43.0,"1,000",Scotch Whiskey
+46,Glen Mhor 6 Year Old,75.0,40.0,"2,000",Scotch Whiskey
+47,Brora 1981,70.0,46.0,"1,200",Scotch Whiskey
+48,Linlithgow 1975,70.0,50.0,900,Scotch Whiskey
+49,Mortlach 12 Year Old,75.0,43.0,"1,200",Scotch Whiskey
+50,Glenfarclas 1967,70.0,55.6,"4,500",Scotch Whiskey
+51,Glenfarclas 1976,70.0,45.9,"5,000",Scotch Whiskey
+52,Glenfarclas 1975,70.0,44.5,"6,500",Scotch Whiskey
+53,Glenfarclas 1974,70.0,55.1,"4,000",Scotch Whiskey
+54,Glenfarclas 1971,70.0,47.0,"4,000",Scotch Whiskey
+55,Glenfarclas 1966,70.0,41.7,"3,600",Scotch Whiskey
+56,Glenfarclas 1964,70.0,42.1,"5,000",Scotch Whiskey
+57,Glenfarclas 1956,70.0,43.1,"6,000",Scotch Whiskey
+58,Glenfarclas 1955,70.0,45.4,"6,500",Scotch Whiskey
+59,Convalmore 1984,70.0,48.2,"1,200",Scotch Whiskey
+60,Strathisla 15 Year Old,75.0,40.0,"1,500",Scotch Whiskey
+61,Port Ellen 33 Year Old,50.0,47.5,"1,750",Scotch Whiskey
+62,Springbank 10 Year Old,75.0,46.0,"2,000",Scotch Whiskey
+63,Glenburgie 1995,70.0,51.2,180,Scotch Whiskey
+64,Strathisla 1960,70.0,43.0,"2,000",Scotch Whiskey
+65,Talisker 1959,75.0,43.0,"3,500",Scotch Whiskey
+66,Port Ellen 1980,70.0,59.0,"1,200",Scotch Whiskey
+67,Auchentoshan 1965,70.0,41.3,"4,000",Scotch Whiskey
+68,Glenfarclas 10 Year Old,75.0,43.4,"3,000",Scotch Whiskey
+69,Glenfiddich 1976,70.0,47.9,"2,250",Scotch Whiskey
+70,Talisker 1957,75.0,40.0,"2,750",Scotch Whiskey
+71,Port Ellen 1974,70.0,43.0,"1,250",Scotch Whiskey
+72,Brora 1982,70.0,50.0,"1,200",Scotch Whiskey
+73,Glenfarclas-Glenlivet 12 Year Old,75.0,43.0,"1,750",Scotch Whiskey
+74,Millburn 1983,70.0,59.1,800,Scotch Whiskey
+75,SMWS 49.4 (St Magdalene),70.0,62.8,"1,100",Scotch Whiskey
+76,SMWS 18.3 (Inchgower),70.0,60.9,"2,000",Scotch Whiskey
+77,SMWS 43.10 (Port Ellen),70.0,43.1,"3,000",Scotch Whiskey
+78,Glenlivet 15 Year Old,75.0,46.0,875,Scotch Whiskey
+79,Old Pulteney,75.0,48.6,"5,000",Scotch Whiskey
+80,Springbank 1965,70.0,53.8,"5,000",Scotch Whiskey
+81,Millburn 1983,75.0,58.8,600,Scotch Whiskey
+82,Linlithgow 1982,70.0,43.0,699,Scotch Whiskey
+83,Linlithgow 1975,70.0,51.5,"1,000",Scotch Whiskey
+84,Balvenie 1966,75.0,45.5,"5,000",Scotch Whiskey
+85,Longmorn 1964,70.0,43.0,"2,000",Scotch Whiskey
+86,Rosebank 12 Year Old,75.0,43.0,"2,500",Scotch Whiskey
+87,Longmorn 1967,70.0,43.0,"1,350",Scotch Whiskey
+88,Strathisla 1957,70.0,43.0,"2,300",Scotch Whiskey
+89,Glencadam St. Michael,70.0,40.0,299,Scotch Whiskey
+90,Tamnavulin Glenlivet 8 Year Old,75.0,43.0,225,Scotch Whiskey
+91,Glenfarclas 8 Year Old,75.7,40.0,450,Scotch Whiskey
+92,Balvenie 1951,70.0,51.9,"30,000",Scotch Whiskey
+93,Highland Park 18 Year Old,70.0,43.0,350,Scotch Whiskey
+94,Brora 1981,70.0,50.0,"1,200",Scotch Whiskey
+95,Cragganmore,70.0,55.7,399,Scotch Whiskey
+96,Auchroisk 1990,70.0,51.2,325,Scotch Whiskey
+97,Glenmorangie 16 Year Old,70.0,56.4,850,Scotch Whiskey
+98,Highland Park 18 Year Old,70.0,43.0,650,Scotch Whiskey
+99,Tamnavulin 33 Year Old,70.0,45.0,900,Scotch Whiskey
+100,Fettercairn 875,75.0,43.0,399,Scotch Whiskey
+101,Glenlochy 1980,70.0,48.0,"2,000",Scotch Whiskey
+102,Bunnahabhain 1973,70.0,47.9,"1,600",Scotch Whiskey
+103,Glen Mhor 1965,70.0,47.1,"5,300",Scotch Whiskey
+104,Banff 1966,70.0,50.0,"1,500",Scotch Whiskey
+105,Talisker 1956,75.0,40.0,"3,500",Scotch Whiskey
+106,Glen Grant 1965,75.0,55.0,"3,000",Scotch Whiskey
+107,Glen Grant 45 Year Old,75.0,40.0,"2,000",Scotch Whiskey
+108,Glenfarclas 15 Year Old,75.0,46.0,600,Scotch Whiskey
+109,Lp7 – Elements of Islay,50.0,52.8,199,Scotch Whiskey
+110,Strathisla 1967,70.0,43.0,"1,650",Scotch Whiskey
+111,Tobermory 42 Year Old,70.0,47.7,"2,675",Scotch Whiskey
+112,Linlithgow 1982,70.0,43.0,699,Scotch Whiskey
+113,Brora 1982,70.0,40.0,"1,200",Scotch Whiskey
+114,Longmorn 1960,75.0,40.0,"2,000",Scotch Whiskey
+115,Glenugie 1965,70.0,43.0,750,Scotch Whiskey
+116,Tomintoul 1968,70.0,45.5,"1,000",Scotch Whiskey
+117,Dallas Dhu Millennium 1974,70.0,43.0,950,Scotch Whiskey
+118,Glenfarclas 25 Year Old,75.0,43.0,750,Scotch Whiskey
+119,Mortlach 1936,75.0,40.0,"7,500",Scotch Whiskey
+120,Talisker 1956,75.0,40.0,"3,500",Scotch Whiskey
+121,Glenfarclas 10 Year Old,75.0,43.4,"3,500",Scotch Whiskey
+122,Wolfburn Inaugural Special Edition 2016,70.0,46.0,850,Scotch Whiskey
+123,Ardbeg 1974 Provenance,75.0,54.7,"6,500",Scotch Whiskey
+124,Port Ellen 1983,70.0,58.1,"1,100",Scotch Whiskey
+125,Aberlour 1964,75.0,43.0,"1,200",Scotch Whiskey
+126,Dalmore 20 Year Old,75.0,43.0,"2,000",Scotch Whiskey
+127,Knockando 12 Year Old,70.0,59.0,299,Scotch Whiskey
+128,Port Ellen 1979,70.0,57.3,"3,400",Scotch Whiskey
+129,Convalmore 1975,70.0,46.0,"1,500",Scotch Whiskey
+130,Port Ellen 1975,70.0,43.0,"1,200",Scotch Whiskey
+131,Glenlivet 15 Year Old,75.0,57.0,800,Scotch Whiskey
+132,Springbank 20 Year Old,75.0,50.0,"2,000",Scotch Whiskey
+133,Glen Grant 1953,70.0,40.0,"3,000",Scotch Whiskey
+134,Ledaig Tobermory 1972,75.0,40.0,"1,100",Scotch Whiskey
+135,Macallan 1950,70.0,43.0,"8,500",Scotch Whiskey
+136,Aberlour 1969,75.0,43.0,"2,000",Scotch Whiskey
+137,Glen Grant 1950,70.0,40.0,"3,200",Scotch Whiskey
+138,Mortlach 1949,70.0,40.0,"4,000",Scotch Whiskey
+139,Glenfiddich Classic,70.0,43.0,299,Scotch Whiskey
+140,Glenfarclas 1965,70.0,51.8,"4,200",Scotch Whiskey
+141,Strathisla 1954,70.0,40.0,"3,000",Scotch Whiskey
+142,Deanston Mill,75.0,40.0,375,Scotch Whiskey
+143,Port Ellen 1976,70.0,46.0,"1,100",Scotch Whiskey
+144,Laphroaig 10 Year Old,75.0,40.0,"1,750",Scotch Whiskey
+145,Knockando 1970 Extra Old Reserve,75.0,43.0,650,Scotch Whiskey
+146,Lochside 10 Year Old,75.0,40.0,399,Scotch Whiskey
+147,Glen Grant 1952,70.0,40.0,"2,800",Scotch Whiskey
+148,Littlemill 25 Year Old,75.0,50.4,"2,250",Scotch Whiskey
+149,Talisker 8 Year Old,75.0,45.8,"1,000",Scotch Whiskey
+150,Caol Ila 1983,70.0,48.1,850,Scotch Whiskey
+151,Pride of Strathspey 1940,75.0,40.0,"3,000",Scotch Whiskey
+152,Glenfiddich Special,75.0,40.0,"3,500",Scotch Whiskey
+153,Glen Grant 1954,70.0,40.0,"2,350",Scotch Whiskey
+154,Banff 1966,70.0,45.2,"3,500",Scotch Whiskey
+155,Glenfarclas 1962,70.0,40.9,"4,500",Scotch Whiskey
+156,Bruichladdich 21 Year Old,70.0,43.0,450,Scotch Whiskey
+157,Springbank 12 Year Old,75.0,46.0,"2,250",Scotch Whiskey
+158,St Magdalene 1964,75.0,40.0,"1,600",Scotch Whiskey
+159,Bowmore Bicentenary,75.7,43.0,"6,000",Scotch Whiskey
+160,Glen Grant 1961,70.0,40.0,"2,000",Scotch Whiskey
+161,Tullibardine 1952,70.0,40.2,"20,000",Scotch Whiskey
+162,Brora 1972,70.0,46.6,"6,500",Scotch Whiskey
+163,Glen Grant 1952,70.0,40.0,"2,800",Scotch Whiskey
+164,Brora 1981,70.0,46.0,"1,200",Scotch Whiskey
+165,SMWS 99.11 (Glenugie),70.0,43.4,"1,200",Scotch Whiskey
+166,Glenfarclas 150th Anniversary,75.0,43.0,"1,750",Scotch Whiskey
+167,Laphroaig 10 Year Old,100.0,43.0,900,Scotch Whiskey
+168,SMWS 49.1 (St Magdalene),75.0,64.6,"1,350",Scotch Whiskey
+169,Highland Park 5 Year Old,75.0,43.0,"2,750",Scotch Whiskey
+170,Brora 1982,70.0,46.0,"2,250",Scotch Whiskey
+171,Caol Ila 1966,70.0,40.0,"4,000",Scotch Whiskey
+172,Ardbeg 1972,70.0,45.3,"6,500",Scotch Whiskey
+173,Bowmore Bicentenary,75.0,43.0,"6,000",Scotch Whiskey
+174,Glenfarclas 15 Year Old,75.0,46.0,600,Scotch Whiskey
+175,Glenfiddich Special,75.0,40.0,"2,750",Scotch Whiskey
+176,Tamnavulin 1973,70.0,41.8,"1,500",Scotch Whiskey
+177,Ardbeg 1976,70.0,53.2,"8,000",Scotch Whiskey
+178,Glenmorangie 10 Year Old,75.0,40.0,225,Scotch Whiskey
+179,Bowmore 8 Year Old,75.0,40.0,"3,250",Scotch Whiskey
+180,Edradour 10 Year Old,70.0,40.0,225,Scotch Whiskey
+181,Glenfarclas 1973,70.0,41.6,"3,600",Scotch Whiskey
+182,Glenfarclas 1963,70.0,45.1,"5,000",Scotch Whiskey
+183,Glenfarclas 1961,70.0,41.7,"5,000",Scotch Whiskey
+184,Glenfarclas 1958,70.0,40.2,"6,500",Scotch Whiskey
+185,Glenesk 1980,70.0,46.0,850,Scotch Whiskey
+186,Glenlivet 34 Year Old,75.0,40.0,"1,800",Scotch Whiskey
+187,Glenlivet 20 Year Old,75.0,45.7,"1,200",Scotch Whiskey
+188,SMWS 92.2 (Lochside),75.0,61.0,"3,500",Scotch Whiskey
+189,SMWS 18.15 (Inchgower),70.0,67.5,"2,500",Scotch Whiskey
+190,Brora 1982,70.0,50.0,"1,500",Scotch Whiskey
+191,Glenlivet 1964,75.0,45.1,"4,000",Scotch Whiskey
+192,Brora 1982,70.0,46.0,"1,250",Scotch Whiskey
+193,Springbank 1966,75.0,61.2,"15,000",Scotch Whiskey
+194,Brora 1972,70.0,51.0,"6,500",Scotch Whiskey
+195,Brora 1981,70.0,59.3,"1,500",Scotch Whiskey
+196,Aberlour 100 Proof,100.0,57.1,275,Scotch Whiskey
+197,Dufftown-Glenlivet 10 Year Old,100.0,43.0,225,Scotch Whiskey
+198,Glenfarclas 15 Year Old,75.0,46.0,600,Scotch Whiskey
+199,Highland Park 30 Year Old,70.0,48.1,"2,000",Scotch Whiskey
+200,Spey Chairman's Choice Merry Christmas,50.0,40.0,79.95,Scotch Whiskey
+201,Talisker 12 Year Old,100.0,43.0,"1,400",Scotch Whiskey
+202,Glenfiddich 8 Year Old,75.0,43.0,"1,500",Scotch Whiskey
+203,Balvenie 12 Year Old Classic,75.0,43.0,800,Scotch Whiskey
+204,Laphroaig 25 Year Old,70.0,45.1,750,Scotch Whiskey
+205,Brora 1981,70.0,56.5,"1,750",Scotch Whiskey
+206,Glendronach 1968,75.0,43.0,"2,750",Scotch Whiskey
+207,Gordon & MacPhail Private Collection Ultra,280.0,46.7,"30,000",Scotch Whiskey
+208,Highland Park 12 Year Old,75.0,40.0,375,Scotch Whiskey
+209,Glenfarclas 15 Year Old,75.0,46.0,600,Scotch Whiskey
+210,Bowmore Bicentenary,75.7,43.0,"5,500",Scotch Whiskey
+211,Port Ellen 1978,70.0,56.5,"4,750",Scotch Whiskey
+212,Glenugie 1966,75.0,40.0,850,Scotch Whiskey
+213,Deanston Malt 8 Year Old,75.0,40.0,299,Scotch Whiskey
+214,Talisker 1957,75.0,53.3,"7,500",Scotch Whiskey
+215,Highland Park 1977,70.0,57.9,800,Scotch Whiskey
+216,Glenlivet 1938,75.0,40.0,"3,500",Scotch Whiskey
+217,Dalmore 1963,75.0,45.7,"3,000",Scotch Whiskey
+218,Glenturret 1965,75.0,45.7,"1,000",Scotch Whiskey
+219,Glenfarclas 1984,70.0,47.0,"3,000",Scotch Whiskey
+220,Glenfarclas 1954,70.0,46.7,"8,500",Scotch Whiskey
+221,Mortlach 1938,75.0,40.0,"4,000",Scotch Whiskey
+222,Talisker 12 Year Old,75.0,43.4,"1,100",Scotch Whiskey
+223,Bowmore 8 Year Old,75.0,43.0,"3,500",Scotch Whiskey
+224,Glen Garioch 1968,70.0,56.6,"3,000",Scotch Whiskey
+225,Glenfarclas 1966,70.0,46.0,"2,500",Scotch Whiskey
+226,Bowmore 1957,70.0,40.1,"16,500",Scotch Whiskey
+227,Glen Grant 1948,75.0,40.0,"4,200",Scotch Whiskey
+228,Port Ellen 1979,70.0,50.0,"1,350",Scotch Whiskey
+229,Dufftown-Glenlivet 12 Year Old,100.0,43.0,299,Scotch Whiskey
+230,Dufftown-Glenlivet 1975,70.0,54.8,"1,000",Scotch Whiskey
+231,Glenesk 12 Year Old,75.0,40.0,350,Scotch Whiskey
+232,Glenury Royal 1971,70.0,61.3,"2,500",Scotch Whiskey
+233,Highland Park 12 Year Old,70.0,40.0,275,Scotch Whiskey
+234,Glenugie 1966,75.0,48.1,"2,500",Scotch Whiskey
+235,Glen Flagler 8 Year Old,75.0,40.0,"1,000",Scotch Whiskey
+236,Highland Park 12 Year Old,75.0,40.0,375,Scotch Whiskey
+237,Glenturret 1965,75.0,43.0,"1,500",Scotch Whiskey
+238,Glenesk 1979,70.0,46.0,850,Scotch Whiskey
+239,Coleburn 1972,70.0,46.0,"1,500",Scotch Whiskey
+240,Glens Extra (Springbank) 8 Year Old,75.0,40.0,"1,500",Scotch Whiskey
+241,Tomatin 10 Year Old,75.7,40.0,225,Scotch Whiskey
+242,Springbank 1967,70.0,46.0,"3,000",Scotch Whiskey
+243,Glenmorangie 1963,75.0,43.0,"2,250",Scotch Whiskey
+244,Clynelish 12 Year Old,75.0,40.0,"1,750",Scotch Whiskey
+245,Brora 1972,70.0,40.0,"3,000",Scotch Whiskey
+246,Balvenie 1970,70.0,44.6,"5,500",Scotch Whiskey
+247,Mortlach 1936,75.0,43.0,"4,500",Scotch Whiskey
+248,Bowmore 30 Year Old,75.0,43.0,"3,500",Scotch Whiskey
+249,Dufftown-Glenlivet 8 Year Old,75.0,46.0,399,Scotch Whiskey
+250,Tomatin 10 Year Old,75.0,43.0,"1,000",Scotch Whiskey
+251,Tomatin 5 Year Old,75.0,43.0,175,Scotch Whiskey
+252,Talisker 8 Year Old,75.0,45.8,"1,000",Scotch Whiskey
+253,Talisker 8 Year Old,75.7,45.8,"1,100",Scotch Whiskey
+254,Springbank 1966,75.0,61.2,"15,000",Scotch Whiskey
+255,Black Bowmore 1964,70.0,50.0,"25,000",Scotch Whiskey
+256,Bowmore 1965,75.0,50.0,"12,000",Scotch Whiskey
+257,Talisker 12 Year Old,75.0,43.0,950,Scotch Whiskey
+258,Lochnagar 12 Year Old,75.0,40.0,225,Scotch Whiskey
+259,Macallan 25 Year Old,150.0,45.5,"17,500",Scotch Whiskey
+260,Glenmorangie 25 Year Old,70.0,43.0,750,Scotch Whiskey
+261,Highland Park 35 Year Old,70.0,50.0,"5,500",Scotch Whiskey
+262,Longrow 1973,75.0,46.0,"2,500",Scotch Whiskey
+263,Strathisla 12 Year Old,75.0,40.0,399,Scotch Whiskey
+264,Brora 1982,70.0,50.0,"1,200",Scotch Whiskey
+265,Longmorn 1973,70.0,54.9,"1,000",Scotch Whiskey
+266,Highland Park Freya,70.0,51.2,500,Scotch Whiskey
+267,Glenmorangie 10 Year Old,100.0,43.0,275,Scotch Whiskey
+268,Old Elgin 1940,75.0,43.0,"2,500",Scotch Whiskey
+269,Dalwhinnie 8 Year Old,75.0,40.0,399,Scotch Whiskey
+270,Glen Grant 33 Year Old,75.0,40.0,"1,500",Scotch Whiskey
+271,SMWS 98.1 (Lomond),70.0,58.3,"5,000",Scotch Whiskey
+272,Port Ellen 1979,70.0,50.0,"1,350",Scotch Whiskey
+273,SMWS 18.4 (Inchgower),70.0,62.4,"2,000",Scotch Whiskey
+274,Campbeltown 1972,70.0,46.0,"2,000",Scotch Whiskey
+275,Glenmorangie 10 Year Old,75.0,40.0,225,Scotch Whiskey
+276,Bowmore 1963,70.0,50.0,"12,500",Scotch Whiskey
+277,Ardbeg 1972,70.0,51.4,"9,000",Scotch Whiskey
+278,Port Ellen 1982,70.0,56.8,"1,100",Scotch Whiskey
+279,Port Ellen 1982,70.0,63.1,"1,500",Scotch Whiskey
+280,Linkwood 1938,75.0,40.0,"3,250",Scotch Whiskey
+281,Lochside 1966,75.0,40.0,"1,000",Scotch Whiskey
+282,Lagavulin 12 Year Old,75.0,43.0,"3,000",Scotch Whiskey
+283,Knockando 1967,75.0,43.0,550,Scotch Whiskey
+284,Bowmore 12 Year Old,75.0,40.0,700,Scotch Whiskey
+285,Glenrothes 1972,70.0,43.0,"1,350",Scotch Whiskey
+286,Glen Spey 8 Year Old,75.0,40.0,350,Scotch Whiskey
+287,Glen Spey 8 Year Old,75.0,40.0,350,Scotch Whiskey
+288,Glen Spey 8 Year Old,75.0,40.0,350,Scotch Whiskey
+289,Port Ellen 1982,70.0,52.4,"2,000",Scotch Whiskey
+290,Glen Grant 35 Year Old,75.0,40.0,"1,500",Scotch Whiskey
+291,Blair Athol 8 Year Old,75.0,40.0,199,Scotch Whiskey
+292,Glenfiddich 8 Year Old,75.0,40.0,225,Scotch Whiskey
+293,Glen Elgin 12 Year Old,75.0,43.0,250,Scotch Whiskey
+294,Glenfarclas 8 Year Old,75.0,60.0,850,Scotch Whiskey
+295,Glenfarclas 5 Year Old,75.0,43.0,399,Scotch Whiskey
+296,Glen Grant 1936,75.0,40.0,"4,500",Scotch Whiskey
+297,Glenlivet Special Export Reserve,75.0,43.0,650,Scotch Whiskey
+298,Glenlivet Special Export Reserve,75.0,43.0,700,Scotch Whiskey
+299,Glenlivet Special Export Reserve,75.0,43.0,650,Scotch Whiskey
+300,Glen Grant 25 Year Old,75.0,40.0,750,Scotch Whiskey
+301,Glenlivet 1963,75.0,43.0,"3,500",Scotch Whiskey
+302,Glenmorangie 1983,70.0,53.2,"1,000",Scotch Whiskey
+303,Glen Elgin,75.0,43.0,250,Scotch Whiskey
+304,Glen Flagler 8 Year Old,75.0,40.0,699,Scotch Whiskey
+305,Glen Elgin 12 Year Old,75.7,43.0,299,Scotch Whiskey
+306,Glenfiddich 8 Year Old,75.7,40.0,225,Scotch Whiskey
+307,Dufftown 8 Year Old,75.0,40.0,225,Scotch Whiskey
+308,Dufftown 8 Year Old,75.0,40.0,225,Scotch Whiskey
+309,Dufftown 8 Year Old,75.0,40.0,225,Scotch Whiskey
+310,Glendullan 12 Year Old,75.0,47.0,199,Scotch Whiskey
+311,Bowmore 12 Year Old,100.0,43.0,500,Scotch Whiskey
+312,Blair Athol 8 Year Old,75.0,40.0,299,Scotch Whiskey
+313,Blair Athol 8 Year Old,75.0,40.0,180,Scotch Whiskey
+314,Blair Athol 8 Year Old,75.0,40.0,299,Scotch Whiskey
+315,Balvenie 12 Year Old Classic,75.0,43.0,900,Scotch Whiskey
+316,Glenury Royal 1970,70.0,57.0,"2,000",Scotch Whiskey
+317,Glenmorangie 12 Year Old,70.0,40.0,250,Scotch Whiskey
+318,Glenmorangie 1993,70.0,46.0,550,Scotch Whiskey
+319,Glenfarclas 1960,70.0,42.3,"4,700",Scotch Whiskey
+320,Glenfarclas 1955,70.0,43.3,"7,500",Scotch Whiskey
+321,Glenfarclas 1954,70.0,46.3,"8,500",Scotch Whiskey
+322,Mortlach 1938,75.0,40.0,"4,000",Scotch Whiskey
+323,Glenrothes 1954,75.0,40.0,"2,000",Scotch Whiskey
+324,Port Ellen 1980,75.0,40.0,"1,000",Scotch Whiskey
+325,Macallan M Decanter,70.0,44.5,"6,500",Scotch Whiskey
+326,Bowmore Blair Castle Horse Trials 2001,70.0,40.0,"1,500",Scotch Whiskey
+327,Kinclaith 1969,70.0,47.3,"5,500",Scotch Whiskey
+328,Linkwood 1954,70.0,40.0,"2,500",Scotch Whiskey
+329,Dufftown-Glenlivet 8 Year Old,100.0,46.0,500,Scotch Whiskey
+330,Laphroaig 10 Year Old,75.0,40.0,"2,000",Scotch Whiskey
+331,Springbank 1965,70.0,46.0,"4,000",Scotch Whiskey
+332,Bowmore 1968,70.0,45.5,"7,000",Scotch Whiskey
+333,Springbank 1967,70.0,46.0,"3,000",Scotch Whiskey
+334,Laphroaig 10 Year Old,100.0,43.0,900,Scotch Whiskey
+335,Glenlivet 1938,75.0,40.0,"3,500",Scotch Whiskey
+336,Glendronach 12 Year Old,75.0,40.0,450,Scotch Whiskey
+337,Glen Grant 1952,70.0,40.0,"2,800",Scotch Whiskey
+338,Pride of Strathspey 1937,75.0,40.0,"7,500",Scotch Whiskey
+339,Banff 1974,75.0,40.0,650,Scotch Whiskey
+340,Ben Wyvis 1972,75.0,54.4,"3,500",Scotch Whiskey
+341,SMWS (Balmenach) 48.2,75.0,62.9,750,Scotch Whiskey
+342,Glen Garioch 1968,70.0,56.6,"3,000",Scotch Whiskey
+343,Glenrothes 1979,70.0,43.0,700,Scotch Whiskey
+344,Glenlivet 1938,75.0,40.0,"3,500",Scotch Whiskey
+345,Glengoyne 10 Year Old,70.0,40.0,120,Scotch Whiskey
+346,Glenfiddich Special,75.0,40.0,"5,000",Scotch Whiskey
+347,Linlithgow 1975,70.0,46.0,750,Scotch Whiskey
+348,Glenury Royal 1984,70.0,46.0,900,Scotch Whiskey
+349,Glentoshan (Auchentoshan) 5 Year Old,75.0,40.0,225,Scotch Whiskey
+350,North Port Brechin 1974,75.0,66.1,"1,000",Scotch Whiskey
+351,Bowmore 1966,70.0,42.8,"7,500",Scotch Whiskey
+352,Bowmore 1957,70.0,40.0,"7,000",Scotch Whiskey
+353,Glenesk 1984,70.0,43.0,450,Scotch Whiskey
+354,SMWS 56.6 (Coleburn),70.0,60.3,650,Scotch Whiskey
+355,SMWS 74.2 (North Port),70.0,62.4,"1,350",Scotch Whiskey
+356,Glenrothes 1979,70.0,43.0,700,Scotch Whiskey
+357,Glenlochy 1979,70.0,46.0,"1,000",Scotch Whiskey
+358,Mosstowie 1979,70.0,46.0,"1,000",Scotch Whiskey
+359,Auchentoshan 1966,75.0,43.0,"1,500",Scotch Whiskey
+0,Glenfarclas 1959,70.0,46.0,"4,000",Scotch Whiskey
+1,Glen Grant 1945,75.0,40.0,"5,000",Scotch Whiskey
+2,Glen Flagler 8 Year Old,75.0,43.0,699,Scotch Whiskey
+3,Highland Park Loki,70.0,48.7,600,Scotch Whiskey
+4,Glenlivet 1938,75.0,40.0,"3,500",Scotch Whiskey
+5,North Port (Brechin) 1976,70.0,64.1,750,Scotch Whiskey
+6,SMWS 56.4 (Coleburn),70.0,64.1,750,Scotch Whiskey
+7,Brora 1971,70.0,50.0,"6,000",Scotch Whiskey
+8,SMWS 56.5 (Coleburn),70.0,64.7,750,Scotch Whiskey
+9,Glen Garioch 1970,70.0,42.5,"1,750",Scotch Whiskey
+10,Balblair 33 Year Old Gift Set,75.0,45.4,"1,000",Scotch Whiskey
+11,Glenfarclas 1953,70.0,51.1,"12,000",Scotch Whiskey
+12,Linlithgow 1975,70.0,51.5,"1,000",Scotch Whiskey
+13,Bowmore 1968,70.0,45.5,"7,000",Scotch Whiskey
+14,Glenkinchie 15 Year Old,70.0,60.1,299,Scotch Whiskey
+15,North Port 1970,75.0,40.0,700,Scotch Whiskey
+16,Glenfarclas 5 Year Old,75.0,43.0,399,Scotch Whiskey
+17,Glen Flagler 8 Year Old,75.0,40.0,"1,000",Scotch Whiskey
+18,Bowmore 1980,70.0,46.7,"2,500",Scotch Whiskey
+19,Longmorn 1967,70.0,43.0,"1,350",Scotch Whiskey
+20,Brora 1971,70.0,50.0,"6,000",Scotch Whiskey
+21,Glenfarclas 1962,70.0,40.9,"5,000",Scotch Whiskey
+22,Port Ellen 1979,70.0,52.5,"4,500",Scotch Whiskey
+23,Glenfiddich Special,75.0,40.0,"2,750",Scotch Whiskey
+24,Glenlivet 18 Year Old,70.0,43.0,250,Scotch Whiskey
+25,Linlithgow 1975,70.0,50.5,"1,000",Scotch Whiskey
+26,Scapa 12 Year Old,100.0,40.0,299,Scotch Whiskey
+27,Glenlochy 1980,70.0,60.1,750,Scotch Whiskey
+28,Highland Park 1966,70.0,43.4,"2,000",Scotch Whiskey
+29,Glen Flagler 5 Year Old,200.0,40.0,699,Scotch Whiskey
+30,Knockando 1986,70.0,40.0,250,Scotch Whiskey
+31,Glenlivet 1948,70.0,43.0,"4,000",Scotch Whiskey
+32,Ardbeg 1972,70.0,49.5,"3,500",Scotch Whiskey
+33,Ardbeg 1972,70.0,48.8,"3,500",Scotch Whiskey
+34,Bowmore 1968,70.0,46.0,"4,500",Scotch Whiskey
+35,Brora 1971,70.0,50.0,"6,000",Scotch Whiskey
+36,Springbank 1966,70.0,53.0,"7,000",Scotch Whiskey
+37,Springbank 1967,75.0,46.0,"3,000",Scotch Whiskey
+38,Glen Ord 12 Year Old,100.0,40.0,225,Scotch Whiskey
+39,Benriach 25 Year Old,70.0,46.0,299,Scotch Whiskey
+40,Longmorn 1957,75.0,40.0,"2,000",Scotch Whiskey
+41,Glencadam 12 Year Old,75.0,40.0,600,Scotch Whiskey
+42,Strathisla 1965,70.0,43.0,"2,500",Scotch Whiskey
+43,Springbank 10 Year Old,75.0,43.0,500,Scotch Whiskey
+44,Glenugie 5 Year Old,75.0,40.0,"1,200",Scotch Whiskey
+45,Glen Grant 1936,75.0,40.0,"4,500",Scotch Whiskey
+46,Highland Park 12 Year Old,70.0,40.0,350,Scotch Whiskey
+47,Dalmore 12 Year Old,100.0,43.0,750,Scotch Whiskey
+48,Glen Elgin 12 Year Old,75.0,43.0,299,Scotch Whiskey
+49,Bunnahabhain 1967,70.0,40.1,"1,250",Scotch Whiskey
+50,Aberlour 10 Year Old,100.0,43.0,175,Scotch Whiskey
+51,Strathisla 1937,75.0,40.0,"4,000",Scotch Whiskey
+52,Teaninich 12 Year Old,70.0,43.0,750,Scotch Whiskey
+53,Longmorn 1968,70.0,49.8,"2,000",Scotch Whiskey
+54,Glen Grant 38 Year Old,75.0,40.0,"2,000",Scotch Whiskey
+55,Deanston Mill 8 Year Old,75.0,40.0,299,Scotch Whiskey
+56,Deanston Malt,75.0,40.0,175,Scotch Whiskey
+57,Dalmore 20 Year Old,75.0,43.0,"3,750",Scotch Whiskey
+58,Highland Park 1956,75.0,43.0,"3,000",Scotch Whiskey
+59,Highland Park 1956,75.0,43.0,"3,000",Scotch Whiskey
+60,Inchgower 1967,75.0,46.0,"3,500",Scotch Whiskey
+61,Glenlossie 1966,75.0,46.0,"3,000",Scotch Whiskey
+62,Avonside (Glenlivet) 1938,75.0,43.0,"2,750",Scotch Whiskey
+63,Avonside (Glenlivet) 1938,75.0,43.0,"2,750",Scotch Whiskey
+64,Strathisla 1937,75.0,43.0,"3,500",Scotch Whiskey
+65,Strathisla 1937,75.0,43.0,"3,500",Scotch Whiskey
+66,Tomatin 1968,75.0,40.0,"1,500",Scotch Whiskey
+67,Tormore 10 Year Old,75.0,43.0,500,Scotch Whiskey
+68,Bruichladdich 1964,75.0,43.0,"2,000",Scotch Whiskey
+69,Millburn 1966,75.0,40.0,"1,000",Scotch Whiskey
+70,Royal Lochnagar 1969,75.0,40.0,"1,000",Scotch Whiskey
+71,Glenmorangie 10 Year Old,75.0,40.0,225,Scotch Whiskey
+72,Glenmorangie 10 Year Old,75.0,43.0,650,Scotch Whiskey
+73,Glenfarclas-Glenlivet 7 Year Old,75.0,40.0,350,Scotch Whiskey
+74,Old Fettercairn 1966,75.0,45.0,"1,000",Scotch Whiskey
+75,Glenlivet 21 Year Old,75.0,45.7,"1,200",Scotch Whiskey
+76,Linkwood 1938,75.0,40.0,"3,500",Scotch Whiskey
+77,Glenlivet 1949,75.0,40.0,"3,150",Scotch Whiskey
+78,Glen Grant 1949,75.0,40.0,"3,750",Scotch Whiskey
+79,Glen Grant 1948,75.0,40.0,"4,200",Scotch Whiskey
+80,Mortlach 10 Year Old,70.0,60.5,399,Scotch Whiskey
+81,Glenesk 1974,70.0,52.7,600,Scotch Whiskey
+82,Linlithgow 1975,70.0,51.5,"1,000",Scotch Whiskey
+83,Glen Grant 38 Year Old,75.0,40.0,"2,000",Scotch Whiskey
+84,Strathisla 1949,70.0,40.0,"3,750",Scotch Whiskey
+85,Strathmill Centenary,75.0,40.0,700,Scotch Whiskey
+86,Auchentoshan 5 Year Old,75.0,40.0,175,Scotch Whiskey
+87,Brora 1983,70.0,52.9,"1,250",Scotch Whiskey
+88,Laphroaig 10 Year Old,70.0,40.0,650,Scotch Whiskey
+89,Talisker 8 Year Old,75.0,45.8,"1,000",Scotch Whiskey
+90,Tamnavulin 24 Year Old,70.0,45.0,275,Scotch Whiskey
+91,Longmorn 1955,75.0,40.0,"2,000",Scotch Whiskey
+92,Glenugie 1966,75.0,40.0,"1,250",Scotch Whiskey
+93,Cardhu 12 Year Old,75.0,40.0,175,Scotch Whiskey
+94,Port Ellen 1977,70.0,40.0,"1,200",Scotch Whiskey
+95,Strathisla 8 Year Old,75.0,57.0,425,Scotch Whiskey
+96,Dalwhinnie 12 Year Old,70.0,57.5,299,Scotch Whiskey
+97,Talisker 1957,75.0,40.0,"2,750",Scotch Whiskey
+98,Talisker 8 Year Old,75.7,45.8,"1,100",Scotch Whiskey
+99,Glenfarclas 1964,70.0,54.1,"3,500",Scotch Whiskey
+100,Dalmore 1981,70.0,44.0,"6,500",Scotch Whiskey
+101,Brora 1982,70.0,46.0,"1,250",Scotch Whiskey
+102,Brora 1981,70.0,46.0,"1,250",Scotch Whiskey
+103,Strathisla 8 Year Old,75.0,40.0,500,Scotch Whiskey
+104,Glenflagler 1972,70.0,52.6,"1,100",Scotch Whiskey
+105,Lagavulin 16 Year Old,100.0,43.0,850,Scotch Whiskey
+106,Brora 1972,70.0,47.4,"6,500",Scotch Whiskey
+107,Glenfarclas 175th Anniversary,70.0,43.0,350,Scotch Whiskey
+108,Lagavulin 12 Year Old,75.0,43.0,"3,000",Scotch Whiskey
+109,Longmorn-Glenlivet 1956,70.0,40.0,"2,000",Scotch Whiskey
+110,Glenmorangie Finealta,70.0,46.0,475,Scotch Whiskey
+111,Ardbeg 1966,70.0,42.6,"8,000",Scotch Whiskey
+112,Glenfarclas 1968,70.0,49.7,"4,000",Scotch Whiskey
+113,Isle of Jura 8 Year Old,75.0,40.0,275,Scotch Whiskey
+114,Springbank 25 Year Old,75.0,43.0,"1,400",Scotch Whiskey
+115,Tamnavulin-Glenlivet 20 Year Old,75.0,46.0,"4,500",Scotch Whiskey
+116,Talisker 30 Year Old,70.0,57.3,"1,400",Scotch Whiskey
+117,Glenkinchie 1990,70.0,55.1,225,Scotch Whiskey
+118,Highland Park 1991,70.0,53.9,250,Scotch Whiskey
+119,Glenrothes 8 Year Old,75.0,40.0,750,Scotch Whiskey
+120,Springbank 1977,75.0,57.0,"5,500",Scotch Whiskey
+121,Glenfiddich 40 Year Old,75.0,45.4,"5,000",Scotch Whiskey
+122,Speyside 1958,75.0,52.8,"10,000",Scotch Whiskey
+123,Glamis 10 Year Old,75.0,43.0,"7,500",Scotch Whiskey
+124,Highland Park 12 Year Old,75.0,40.0,375,Scotch Whiskey
+125,Longmorn 1969,70.0,53.8,"2,250",Scotch Whiskey
+126,Ardbeggeddon 1972,75.0,48.4,"7,500",Scotch Whiskey
+127,Benrinnes 1996,70.0,59.3,399,Scotch Whiskey
+128,Black Bowmore 1964,75.0,49.0,"22,000",Scotch Whiskey
+129,Black Bowmore 1964,75.0,50.0,"26,000",Scotch Whiskey
+130,Glenugie 1967,70.0,40.0,750,Scotch Whiskey
+131,Glen Garioch 1968,70.0,54.4,"3,000",Scotch Whiskey
+132,Glendronach 1968,75.0,43.0,"5,000",Scotch Whiskey
+133,Glenkinchie 1992,70.0,58.1,325,Scotch Whiskey
+134,Inchgower 1993,70.0,61.9,350,Scotch Whiskey
+135,Glenfiddich 40 Year Old,70.0,44.9,"5,000",Scotch Whiskey
+136,Strathisla 1967,70.0,44.5,"1,200",Scotch Whiskey
+137,Knockando 1965 Extra Old Reserve,75.0,43.0,675,Scotch Whiskey
+138,Strathisla 1963,70.0,43.0,"1,300",Scotch Whiskey
+139,Glendronach 19 Year Old,75.0,45.0,"4,500",Scotch Whiskey
+140,Glenrothes 1954,75.0,40.0,"2,000",Scotch Whiskey
+141,Scapa 10 Year Old,100.0,43.0,500,Scotch Whiskey
+142,Dalwhinnie 15 Year Old,100.0,43.0,250,Scotch Whiskey
+143,Talisker 1955,70.0,40.0,"3,500",Scotch Whiskey
+144,Aultmore 12 Year Old,75.7,40.0,375,Scotch Whiskey
+145,Glen Grant 42 Year Old,75.7,40.0,"2,000",Scotch Whiskey
+146,Longmorn 1969,70.0,57.7,"3,000",Scotch Whiskey
+147,Glenugie 1967,70.0,40.0,750,Scotch Whiskey
+148,Glenugie 1966,75.0,40.0,"1,250",Scotch Whiskey
+149,Talisker 30 Year Old,70.0,53.1,"1,500",Scotch Whiskey
+150,Balvenie 17 Year Old,70.0,43.0,750,Scotch Whiskey
+151,St Magdalene 1982,70.0,55.0,900,Scotch Whiskey
+152,Aberlour Antique,70.0,43.0,175,Scotch Whiskey
+153,Brora 1981,70.0,58.1,"2,000",Scotch Whiskey
+154,Glenfarclas 1962,70.0,52.0,"5,500",Scotch Whiskey
+155,Glenfarclas 150th Anniversary & 4 Glasses Set,75.0,43.0,"2,000",Scotch Whiskey
+156,Brora 1972,70.0,58.7,"10,000",Scotch Whiskey
+157,Highland Park 8 Year Old,75.0,43.0,850,Scotch Whiskey
+158,Glenury Royal 1973,70.0,53.7,750,Scotch Whiskey
+159,Dalwhinnie 8 Year Old,75.0,40.0,375,Scotch Whiskey
+160,St Magdalene 1964,75.0,40.0,"1,600",Scotch Whiskey
+161,Macallan 1980,70.0,40.0,"8,000",Scotch Whiskey
+162,Tamdhu 10 Year Old,75.0,40.0,275,Scotch Whiskey
+163,Glen Spey 12 Year Old,70.0,53.5,299,Scotch Whiskey
+164,St Magdalene 1980,70.0,40.0,750,Scotch Whiskey
+165,Glen Elgin 14 Year Old,75.0,43.0,450,Scotch Whiskey
+166,Laphroaig 21 Year Old,70.0,53.4,"2,750",Scotch Whiskey
+167,Brora 1972,70.0,58.7,"11,000",Scotch Whiskey
+168,Linlithgow 1982,70.0,43.0,699,Scotch Whiskey
+169,Aberlour 1966,70.0,43.0,"2,000",Scotch Whiskey
+170,Bruichladdich 1984,70.0,51.0,"1,100",Scotch Whiskey
+171,Glenfarclas 105',70.0,60.0,"4,500",Scotch Whiskey
+172,Brorageddon 1972,75.0,50.8,"12,000",Scotch Whiskey
+173,Laphroaig 1981,70.0,56.6,"7,500",Scotch Whiskey
+174,Glenesk,75.0,40.0,900,Scotch Whiskey
+175,Inchgower 12 Year Old,75.7,40.0,299,Scotch Whiskey
+176,Glenfarclas 8 Year Old,75.0,40.0,350,Scotch Whiskey
+177,Glen Grant 1954,70.0,40.0,"2,350",Scotch Whiskey
+178,Glen Grant 1953,70.0,40.0,"3,000",Scotch Whiskey
+179,Springbank 1966,70.0,52.5,"6,500",Scotch Whiskey
+180,Singleton of Auchroisk 20 Year Old,75.0,59.0,950,Scotch Whiskey
+181,Royal Lochnagar 10 Year Old,70.0,57.2,399,Scotch Whiskey
+182,Hillside 1970,75.0,61.1,"1,000",Scotch Whiskey
+183,Glentauchers 1979,70.0,40.0,"1,500",Scotch Whiskey
+184,Glendronach 12 Year Old,70.0,40.0,299,Scotch Whiskey
+185,Ardbeg 1972,70.0,48.5,"7,500",Scotch Whiskey
+186,Talisker 1955,70.0,53.6,"7,500",Scotch Whiskey
+187,Port Ellen 1980,70.0,43.0,"1,000",Scotch Whiskey
+188,Old Pulteney 8 Year Old,75.0,40.0,750,Scotch Whiskey
+189,Glenlivet 1946,75.0,40.0,"3,000",Scotch Whiskey
+190,Glenfarclas Morgan 18 Year Old,75.0,43.0,550,Scotch Whiskey
+191,Caol Ila 12 Year Old,75.0,40.0,"1,200",Scotch Whiskey
+192,Glenfarclas 21 Year Old,75.0,43.0,950,Scotch Whiskey
+193,Glenfarclas 15 Year Old,75.0,40.0,700,Scotch Whiskey
+194,Glenfarclas 15 Year Old,75.0,46.0,600,Scotch Whiskey
+195,Balvenie 12 Year Old Classic,75.0,43.0,800,Scotch Whiskey
+196,SMWS 92.7 (Lochside),70.0,61.2,"7,000",Scotch Whiskey
+197,Linkwood,70.0,43.0,399,Scotch Whiskey
+198,Ardbeg 1998,70.0,55.9,450,Scotch Whiskey
+199,Strathisla 35 Year Old,75.0,40.0,"1,100",Scotch Whiskey
+200,Glenlivet 1948,75.0,40.0,"3,250",Scotch Whiskey
+201,Hazelwood Reserve (Kininvie) 1990,70.0,52.5,650,Scotch Whiskey
+202,Bunnahabhain 12 Year Old,70.0,40.0,225,Scotch Whiskey
+203,Port Ellen 1979,70.0,40.0,950,Scotch Whiskey
+204,Port Ellen 12 Year Old,70.0,40.0,900,Scotch Whiskey
+205,Glen Grant 1948,70.0,40.0,"4,200",Scotch Whiskey
+206,Glenmorangie 1993,70.0,56.9,350,Scotch Whiskey
+207,Glenmorangie 1976,75.0,59.2,"2,500",Scotch Whiskey
+208,Bowmore De Luxe,75.7,40.0,950,Scotch Whiskey
+209,Port Ellen 1982,70.0,56.8,"1,500",Scotch Whiskey
+210,Ardbeg 1975,70.0,53.7,"7,000",Scotch Whiskey
+211,Glenury Royal 1970,70.0,57.9,"1,250",Scotch Whiskey
+212,Tobermory Bicentenary,70.0,40.0,350,Scotch Whiskey
+213,Aultmore 12 Year Old,75.0,40.0,450,Scotch Whiskey
+214,Glen Grant 1972,70.0,54.9,"2,000",Scotch Whiskey
+215,Laphroaig 1980,70.0,57.4,"10,000",Scotch Whiskey
+216,Cragganmore 12 Year Old,75.0,45.7,750,Scotch Whiskey
+217,Glen Grant 1966,70.0,40.0,925,Scotch Whiskey
+218,Linlithgow 1982,70.0,50.0,850,Scotch Whiskey
+219,Bruichladdich 34 Year Old,70.0,41.0,"1,100",Scotch Whiskey
+220,Ledaig 20 Year Old,70.0,40.0,"1,000",Scotch Whiskey
+221,Fettercairn 875,75.0,43.0,500,Scotch Whiskey
+222,Longmorn 15 Year Old,70.0,43.0,299,Scotch Whiskey
+223,Glentauchers 12 Year Old,75.0,43.0,"3,500",Scotch Whiskey
+224,Talisker 30 Year Old,70.0,50.7,"1,700",Scotch Whiskey
+225,Lagavulin 1985,70.0,56.5,"3,500",Scotch Whiskey
+226,Glenfarclas 1966,70.0,51.5,"4,100",Scotch Whiskey
+227,Glenfarclas 1963,70.0,56.7,"5,000",Scotch Whiskey
+228,Glenfarclas 1958,70.0,51.6,"7,500",Scotch Whiskey
+229,Benromach 17 Year Old,70.0,43.0,275,Scotch Whiskey
+230,Glenrothes 8 Year Old,75.0,40.0,450,Scotch Whiskey
+231,Dalmore 1973,70.0,45.0,"7,500",Scotch Whiskey
+232,Ardbeg 1972,70.0,44.2,"7,500",Scotch Whiskey
+233,Isle of Jura 1966,70.0,45.1,"6,500",Scotch Whiskey
+234,Secret Stills No: 2.1 (Cragganmore) 1966,70.0,45.0,"1,200",Scotch Whiskey
+235,Bruichladdich,75.0,43.0,350,Scotch Whiskey
+236,Glenfarclas 12 Year Old,75.0,43.0,700,Scotch Whiskey
+237,Dufftown-Glenlivet 8 Year Old,75.0,40.0,299,Scotch Whiskey
+238,Dalmore 12 Year Old,75.0,40.0,299,Scotch Whiskey
+239,Longrow 1973,75.0,46.0,"5,000",Scotch Whiskey
+240,Glen Garioch 1968,70.0,56.4,"3,000",Scotch Whiskey
+241,Bowmore Bicentenary,75.0,43.0,"5,500",Scotch Whiskey
+242,Aberlour-Glenlivet Centenary Crystal,75.0,46.0,"1,500",Scotch Whiskey
+243,Ardbeg 1998,70.0,54.1,450,Scotch Whiskey
+244,Ardbeg 1975,70.0,58.3,"3,250",Scotch Whiskey
+245,Oban 14 Year Old,75.0,43.0,235,Scotch Whiskey
+246,Glenordie 12 Year Old,75.0,40.0,250,Scotch Whiskey
+247,Ardbeg 1975,70.0,46.1,"3,250",Scotch Whiskey
+248,Talisker 30 Year Old,70.0,51.9,"1,750",Scotch Whiskey
+249,St Magdalene 1964,75.0,40.0,"1,500",Scotch Whiskey
+250,Rosebank 8 Year Old,75.0,40.0,"1,100",Scotch Whiskey
+251,Lochside 1966,75.0,40.0,"1,000",Scotch Whiskey
+252,Glen Ord 1973,75.0,59.8,"1,000",Scotch Whiskey
+253,Glen Ord 12 Year Old,70.0,40.0,150,Scotch Whiskey
+254,Glen Grant 1968,70.0,57.7,"1,500",Scotch Whiskey
+255,Glen Elgin,75.0,43.0,175,Scotch Whiskey
+256,Secret Stills No: 2.1 (Cragganmore) 1966,70.0,45.0,"1,200",Scotch Whiskey
+257,Cardhu 12 Year Old,100.0,43.0,225,Scotch Whiskey
+258,Brora 1982,70.0,43.0,"1,200",Scotch Whiskey
+259,Tullibardine 10 Year Old,75.0,40.0,125,Scotch Whiskey
+260,Tamnavulin 1966,70.0,52.6,"2,500",Scotch Whiskey
+261,Talisker 12 Year Old,75.0,43.0,"1,100",Scotch Whiskey
+262,Talisker 8 Year Old,75.0,45.8,"1,200",Scotch Whiskey
+263,Talisker 1958,75.0,40.0,"2,500",Scotch Whiskey
+264,Talisker 1958,75.0,40.0,"2,500",Scotch Whiskey
+265,Talisker 1956,75.0,54.4,"7,000",Scotch Whiskey
+266,Talisker 1956,75.0,40.0,"3,500",Scotch Whiskey
+267,Talisker 1955,70.0,50.4,"7,500",Scotch Whiskey
+268,Strathmill Centenary Decanter,75.0,43.0,"1,200",Scotch Whiskey
+269,Strathmill 15 Year Old,70.0,53.5,325,Scotch Whiskey
+270,Strathisla 30 Year Old,75.0,40.0,"1,000",Scotch Whiskey
+271,Strathisla 1964,70.0,43.0,"1,750",Scotch Whiskey
+272,Strathisla 1954,70.0,43.0,"3,000",Scotch Whiskey
+273,Strathisla 1953,70.0,43.0,"3,500",Scotch Whiskey
+274,Strathisla 1937,75.0,40.0,"4,000",Scotch Whiskey
+275,Springbank 1967,75.0,46.0,"6,000",Scotch Whiskey
+276,Springbank 50 Year Old,75.0,43.0,"42,000",Scotch Whiskey
+277,Springbank 1965,75.0,46.0,"6,000",Scotch Whiskey
+278,Springbank 1963,75.0,46.0,"6,000",Scotch Whiskey
+279,Springbank 15 Year Old,75.0,46.0,"1,500",Scotch Whiskey
+280,Springbank 15 Year Old,75.0,46.0,"2,250",Scotch Whiskey
+281,Springbank 15 Year Old,75.0,46.0,"1,800",Scotch Whiskey
+282,Springbank 12 Year Old,75.0,46.0,750,Scotch Whiskey
+283,Springbank 1969,70.0,46.0,"3,000",Scotch Whiskey
+284,Springbank 30 Year Old,70.0,50.0,"2,000",Scotch Whiskey
+285,Springbank 1964,70.0,52.2,"6,500",Scotch Whiskey
+286,Springbank 1964,75.0,51.5,"5,500",Scotch Whiskey
+287,Singleton of Auchroisk 1975,75.0,40.0,299,Scotch Whiskey
+288,Singleton of Auchroisk 10 Year Old,100.0,43.0,195,Scotch Whiskey
+289,Rosebank,75.0,40.0,"1,350",Scotch Whiskey
+290,Rosebank Ceramic 15 Year Old,75.0,50.0,"1,500",Scotch Whiskey
+291,Port Ellen 1979,70.0,46.0,"2,250",Scotch Whiskey
+292,Port Ellen 1979,70.0,43.0,900,Scotch Whiskey
+293,Port Ellen 1979,70.0,50.0,"1,350",Scotch Whiskey
+294,Port Ellen 1978,70.0,50.0,"1,350",Scotch Whiskey
+295,Old Pulteney 1966,70.0,40.0,"1,200",Scotch Whiskey
+296,North Port Brechin 1974,75.0,43.0,675,Scotch Whiskey
+297,North Port Brechin 1979,70.0,61.2,750,Scotch Whiskey
+298,Brechin 1976,70.0,60.4,750,Scotch Whiskey
+299,Mortlach 1954,70.0,43.0,"3,000",Scotch Whiskey
+300,Mortlach 1949,70.0,40.0,"4,000",Scotch Whiskey
+301,Mortlach 1936,75.0,40.0,"4,000",Scotch Whiskey
+302,Mortlach 1936,75.0,40.0,"10,000",Scotch Whiskey
+303,Mortlach 1936,75.0,40.0,"7,500",Scotch Whiskey
+304,Mortlach 1936,75.0,43.0,"5,500",Scotch Whiskey
+305,Miltonduff-Glenlivet 12 Year Old,75.7,43.0,250,Scotch Whiskey
+306,Millburn 1974,70.0,58.7,699,Scotch Whiskey
+307,Millburn 1975,70.0,58.9,850,Scotch Whiskey
+308,Pride of Strathspey 1938,75.0,40.0,"6,000",Scotch Whiskey
+309,Macallan Private Eye,70.0,40.0,"10,000",Scotch Whiskey
+310,Macallan 1979,70.0,40.0,"8,000",Scotch Whiskey
+311,Laphroaig 1977,75.0,43.0,"3,250",Scotch Whiskey
+312,Laphroaig 1976,75.0,43.0,"3,250",Scotch Whiskey
+313,Laphroaig 15 Year Old,75.0,40.0,"1,250",Scotch Whiskey
+314,Laphroaig 10 Year Old,75.0,40.0,"6,000",Scotch Whiskey
+315,Linkwood 1954,70.0,40.0,"2,350",Scotch Whiskey
+316,Linkwood 1939,75.0,40.0,"4,000",Scotch Whiskey
+317,Linkwood 1939,75.0,43.0,"4,000",Scotch Whiskey
+318,Lagavulin 12 Year Old,75.0,43.0,"3,000",Scotch Whiskey
+319,Lagavulin 12 Year Old,75.0,43.0,"2,000",Scotch Whiskey
+320,Lagavulin 12 Year Old,70.0,57.8,500,Scotch Whiskey
+321,Longrow 1987,70.0,45.0,"4,500",Scotch Whiskey
+322,Longrow 1973,70.0,43.2,"4,000",Scotch Whiskey
+323,Longrow 1974,70.0,54.7,"3,000",Scotch Whiskey
+324,Longmorn 1973,70.0,55.5,"2,000",Scotch Whiskey
+325,Lochside 10 Year Old,75.0,40.0,399,Scotch Whiskey
+326,Lochside 1966,70.0,47.7,"1,500",Scotch Whiskey
+327,Loch Dhu 10 Year Old,100.0,40.0,350,Scotch Whiskey
+328,Knockando 1974,70.0,43.0,350,Scotch Whiskey
+329,Isle of Jura 1973,70.0,55.0,"1,750",Scotch Whiskey
+330,Isle of Jura 1965,70.0,44.0,"4,000",Scotch Whiskey
+331,Highland Park 25 Year Old,70.0,53.5,"2,000",Scotch Whiskey
+332,Highland Park 21 Year Old,75.0,43.0,"3,000",Scotch Whiskey
+333,Highland Park 1977,70.0,40.0,900,Scotch Whiskey
+334,Highland Park 1967,70.0,43.0,"1,400",Scotch Whiskey
+335,Highland Park 18 Year Old,70.0,43.0,375,Scotch Whiskey
+336,Highland Park 12 Year Old,70.0,40.0,495,Scotch Whiskey
+337,Highland Park 8 Year Old,75.0,43.0,850,Scotch Whiskey
+338,Glenury Royal 1953,70.0,42.8,"15,000",Scotch Whiskey
+339,Glenugie 1979,70.0,50.0,750,Scotch Whiskey
+340,Glen Spey 8 Year Old,70.0,40.0,350,Scotch Whiskey
+341,Glen Spey 8 Year Old,75.0,40.0,350,Scotch Whiskey
+342,Glen Spey 21 Year Old,75.0,55.4,399,Scotch Whiskey
+343,Glen Scotia 1969,70.0,50.0,"1,750",Scotch Whiskey
+344,Glenrothes 1979,70.0,43.0,700,Scotch Whiskey
+345,Glenrothes 1978,70.0,43.0,750,Scotch Whiskey
+346,Glenrothes 1973,70.0,43.0,"1,250",Scotch Whiskey
+347,Glenrothes 1971,70.0,43.0,"1,350",Scotch Whiskey
+348,Glendronach 150th Anniversary,75.0,40.0,"3,000",Scotch Whiskey
+349,Glendronach 1968,75.0,43.0,"3,000",Scotch Whiskey
+350,Glen Ord 12 Year Old,75.0,40.0,250,Scotch Whiskey
+351,Glen Mhor 1965,70.0,49.2,"1,000",Scotch Whiskey
+352,Glen Mhor 10 Year Old,75.0,43.0,"2,500",Scotch Whiskey
+353,Glen Mhor 10 Year Old,75.0,43.0,750,Scotch Whiskey
+354,Glen Mhor 1965,70.0,43.0,800,Scotch Whiskey
+355,Glenmorangie Port Wood,70.0,46.5,600,Scotch Whiskey
+356,Glenmorangie Cognac Matured,70.0,43.0,650,Scotch Whiskey
+357,Glenmorangie Warehouse No.3 Reserve,100.0,40.0,250,Scotch Whiskey
+358,Glenmorangie,70.0,43.0,"1,500",Scotch Whiskey
+359,Glenmorangie 1993,70.0,56.3,750,Scotch Whiskey
+360,Glenmorangie 1991,70.0,55.7,750,Scotch Whiskey
+361,Glenmorangie 1981,70.0,54.5,"1,000",Scotch Whiskey
+362,Glenmorangie 1979,70.0,40.0,600,Scotch Whiskey
+363,Glenmorangie 1975,70.0,43.0,"1,750",Scotch Whiskey
+364,Glenmorangie 1975,70.0,46.0,"1,750",Scotch Whiskey
+365,Glenmorangie Original 1974,50.0,43.0,700,Scotch Whiskey
+366,Glenmorangie 12 Year Old,70.0,40.0,250,Scotch Whiskey
+367,Glenmorangie 10 Year Old,100.0,57.2,350,Scotch Whiskey
+368,Glenlochy 1952,70.0,43.0,"4,500",Scotch Whiskey
+369,Glenlivet Special Export Reserve,75.0,43.0,700,Scotch Whiskey
+370,Glenlivet 34 Year Old,75.0,40.0,"2,000",Scotch Whiskey
+371,Glenlivet 21 Year Old,75.0,43.0,"1,200",Scotch Whiskey
+372,Glenlivet 20 Year Old,75.0,45.7,"1,200",Scotch Whiskey
+373,Glenlivet 1967,70.0,46.0,"2,500",Scotch Whiskey
+374,Glenlivet 1964,70.0,45.1,"4,000",Scotch Whiskey
+375,Glenlivet 1955,70.0,40.0,"2,250",Scotch Whiskey
+376,Glenlivet 1946,70.0,40.0,"3,250",Scotch Whiskey
+377,Glenlossie 12 Year Old,70.0,55.5,325,Scotch Whiskey
+378,Glen Grant 20 Year Old,75.0,43.0,750,Scotch Whiskey
+379,Glen Grant 1972,70.0,56.1,"1,500",Scotch Whiskey
+380,Glen Grant 1965,70.0,40.0,"1,000",Scotch Whiskey
+381,Glen Grant 1958,70.0,40.0,"2,000",Scotch Whiskey
+382,Glen Grant 1956,70.0,40.0,"2,000",Scotch Whiskey
+383,Glen Grant 1955,70.0,40.0,"2,350",Scotch Whiskey
+384,Glen Grant 1952,75.0,40.0,"2,800",Scotch Whiskey
+385,Glen Grant 1952,70.0,40.0,"2,800",Scotch Whiskey
+386,Glen Grant 1951,70.0,40.0,"3,200",Scotch Whiskey
+387,Glen Grant 1950,70.0,40.0,"3,200",Scotch Whiskey
+388,Glen Grant 1948,70.0,40.0,"5,000",Scotch Whiskey
+389,Glen Grant 1936,75.0,40.0,"4,500",Scotch Whiskey
+390,Glen Grant 15 Year Old,75.7,40.0,399,Scotch Whiskey
+391,Glenglassaugh 12 Year Old,70.0,43.0,150,Scotch Whiskey
+392,Glen Garioch Bicentenary 37 Year Old,70.0,43.0,"3,000",Scotch Whiskey
+393,Glen Garioch 1968,75.0,55.5,"3,000",Scotch Whiskey
+394,Glen Garioch 1968,70.0,56.3,"3,000",Scotch Whiskey
+395,Glen Garioch 1958,70.0,43.0,"3,500",Scotch Whiskey
+396,Glen Garioch 1968,70.0,55.9,"1,750",Scotch Whiskey
+397,Glen Flagler 1972,70.0,52.0,"1,500",Scotch Whiskey
+398,Glen Flagler 1970,70.0,50.1,"1,200",Scotch Whiskey
+399,Glen Flagler,75.0,40.0,899,Scotch Whiskey
+400,Glen Flagler 1973,70.0,46.0,"2,000",Scotch Whiskey
+401,Glen Flagler 8 Year Old,75.0,40.0,699,Scotch Whiskey
+402,Glen Flagler 5 Year Old,75.0,40.0,699,Scotch Whiskey
+403,Glenfiddich Straight Malt,75.0,40.0,"1,500",Scotch Whiskey
+404,Glenfiddich 50 Year Old,70.0,43.0,"27,500",Scotch Whiskey
+405,Glenfiddich 1991,70.0,40.0,350,Scotch Whiskey
+406,Glenfarclas 1959,70.0,50.2,"4,000",Scotch Whiskey
+407,Glenfarclas 1959,70.0,46.0,"4,000",Scotch Whiskey
+408,Glenfarclas 15 Year Old,75.0,45.0,700,Scotch Whiskey
+409,Glenfarclas-Glenlivet 8 Year Old,75.0,40.0,699,Scotch Whiskey
+410,Glenfarclas 25 Year Old,75.0,40.0,"1,500",Scotch Whiskey
+411,Glenesk 1969,75.0,60.0,650,Scotch Whiskey
+412,Glenesk 12 Year Old,75.0,40.0,350,Scotch Whiskey
+413,Glenesk 5 Year Old,75.0,40.0,350,Scotch Whiskey
+414,Glenesk 1984,70.0,43.0,450,Scotch Whiskey
+415,Glencadam 12 Year Old,75.0,40.0,650,Scotch Whiskey
+416,Glen Albyn 10 Year Old,75.0,43.4,750,Scotch Whiskey
+417,Edradour 10 Year Old,75.0,40.0,275,Scotch Whiskey
+418,Edradour 10 Year Old,70.0,40.0,225,Scotch Whiskey
+419,Dunglas 1967,70.0,46.0,699,Scotch Whiskey
+420,Dunglass 1967,75.0,46.0,"1,000",Scotch Whiskey
+421,Dufftown-Glenlivet 12 Year Old,100.0,43.0,299,Scotch Whiskey
+422,Dufftown-Glenlivet 8 Year Old,100.0,40.0,299,Scotch Whiskey
+423,Dufftown-Glenlivet 8 Year Old,75.7,40.0,275,Scotch Whiskey
+424,Dufftown-Glenlivet 8 Year Old,75.0,46.0,399,Scotch Whiskey
+425,Dufftown-Glenlivet 8 Year Old,75.0,46.0,450,Scotch Whiskey
+426,Dufftown-Glenlivet 8 Year Old,75.0,40.0,225,Scotch Whiskey
+427,Dufftown-Glenlivet 8 Year Old,75.0,46.0,600,Scotch Whiskey
+428,Dailuaine 17 Year Old,70.0,59.5,700,Scotch Whiskey
+429,Dailuaine 1980,70.0,63.0,"1,750",Scotch Whiskey
+430,Dalmore 50 Year Old,75.0,43.0,"40,000",Scotch Whiskey
+431,Dalmore 30 Year Old,70.0,50.0,"5,000",Scotch Whiskey
+432,Dalmore 25 Year Old,75.0,43.0,"5,000",Scotch Whiskey
+433,Dalmore 12 Year Old,75.0,40.0,299,Scotch Whiskey
+434,Dalmore 12 Year Old,75.0,43.0,600,Scotch Whiskey
+435,Dalmore 8 Year Old,75.0,40.0,"1,350",Scotch Whiskey
+436,Dallas Dhu Centenary,70.0,40.0,750,Scotch Whiskey
+437,Dallas Dhu 23 Year Old,70.0,40.0,900,Scotch Whiskey
+438,Dalwhinnie 15 Year Old,75.0,43.0,250,Scotch Whiskey
+439,Dalwhinnie Centenary,70.0,56.1,350,Scotch Whiskey
+440,Convalmore 1977,70.0,57.9,"1,350",Scotch Whiskey
+441,Clynelish 1965,70.0,52.1,"10,000",Scotch Whiskey
+442,Caol Ila 15 Year Old,75.0,63.0,"8,500",Scotch Whiskey
+443,Cragganmore 17 Year Old,75.0,62.0,"1,000",Scotch Whiskey
+444,Cardhu 15 Year Old,75.0,63.0,"1,000",Scotch Whiskey
+445,Cardhu 12 Year Old,75.0,40.0,150,Scotch Whiskey
+446,Cardhu 8 Year Old,75.0,43.0,600,Scotch Whiskey
+447,Cardhu 8 Year Old,75.0,43.0,500,Scotch Whiskey
+448,Caperdonich 5 Year Old,75.0,40.0,750,Scotch Whiskey
+449,Ben Wyvis 1965,70.0,44.0,"5,500",Scotch Whiskey
+450,Bunnahabhain 1966,70.0,40.7,"1,500",Scotch Whiskey
+451,Bunnahabhain 1966,70.0,46.1,"3,000",Scotch Whiskey
+452,Bunnahabhain 1963,70.0,43.0,"2,000",Scotch Whiskey
+453,Bruichladdich 1964,70.0,43.1,"5,500",Scotch Whiskey
+454,Bruichladdich 21 Year Old,75.0,43.0,550,Scotch Whiskey
+455,Bruichladdich 1970,70.0,44.2,"1,650",Scotch Whiskey
+456,Bruichladdich 1966,70.0,40.6,"1,500",Scotch Whiskey
+457,Bruichladdich 15 Year Old,75.0,43.0,900,Scotch Whiskey
+458,Bruichladdich 10 Year Old,70.0,40.0,225,Scotch Whiskey
+459,Bruichladdich 1966,70.0,40.5,"1,250",Scotch Whiskey
+460,Brora 1981,70.0,43.0,850,Scotch Whiskey
+461,Brora 1977,70.0,54.9,"3,500",Scotch Whiskey
+462,Brora 1972,70.0,49.7,"7,500",Scotch Whiskey
+463,Brora 1970,70.0,58.4,"6,000",Scotch Whiskey
+464,Brora 1981,70.0,50.0,"1,200",Scotch Whiskey
+465,Brora 1974,70.0,50.0,"2,750",Scotch Whiskey
+466,Bowmore 1968,70.0,43.0,"4,500",Scotch Whiskey
+467,Bowmore De Luxe,100.0,43.0,"1,250",Scotch Whiskey
+468,Bowmore De Luxe,75.0,43.0,950,Scotch Whiskey
+469,Bowmore Sherriff's,75.0,40.0,"3,500",Scotch Whiskey
+470,Bowmore 1968,75.0,45.5,"7,000",Scotch Whiskey
+471,Black Bowmore 1964,70.0,49.0,"22,000",Scotch Whiskey
+472,Black Bowmore 1964,70.0,50.0,"26,000",Scotch Whiskey
+473,Bowmore 15 Year Old,75.0,40.0,750,Scotch Whiskey
+474,Bowmore 12 Year Old,75.0,40.0,700,Scotch Whiskey
+475,Bowmore 1968,70.0,40.2,"4,500",Scotch Whiskey
+476,Blair Athol 8 Year Old,75.0,40.0,299,Scotch Whiskey
+477,Blair Athol 8 Year Old,75.0,40.0,180,Scotch Whiskey
+478,Balvenie 1970,70.0,44.6,"5,500",Scotch Whiskey
+479,Balvenie 1968,70.0,50.8,"7,000",Scotch Whiskey
+0,Mortlach Rare Old,50.0,43.4,69.95,Scotch Whiskey
+1,Lagavulin 12 Year Old,70.0,56.5,199,Scotch Whiskey
+2,Caol Ila 15 Year Old Unpeated,70.0,59.1,99.95,Scotch Whiskey
+3,Caol Ila 18 Year Old,70.0,59.8,140,Scotch Whiskey
+4,Highland Park Fire 15 Year Old,70.0,45.2,199,Scotch Whiskey
+5,Oc3 - Elements of Islay,50.0,60.3,120,Scotch Whiskey
+6,Tomintoul Five Decades,70.0,50.0,320,Scotch Whiskey
+7,Singleton of Dufftown 1985,70.0,52.3,275,Scotch Whiskey
+8,Macallan 1990,70.0,43.0,500,Scotch Whiskey
+9,Octomore 2002,70.0,46.0,250,Scotch Whiskey
+10,Laphroaig 25 Year Old,70.0,48.9,550,Scotch Whiskey
+11,Strathisla 1972,70.0,43.0,"1,200",Scotch Whiskey
+12,Bowmore 26 Year Old Wine Cask,70.0,48.7,500,Scotch Whiskey
+13,Glen Grant 1962,70.0,40.0,"1,600",Scotch Whiskey
+14,Ma1 – Elements of Islay,50.0,54.2,150,Scotch Whiskey
+15,Glenfarclas 8 Year Old '105',75.0,60.0,750,Scotch Whiskey
+16,Glenmorangie 12 Year Old,70.0,40.0,250,Scotch Whiskey
+17,Glenrothes 1988,70.0,43.0,350,Scotch Whiskey
+18,The Speyside 8 Year Old,75.0,43.0,79.95,Scotch Whiskey
+19,Brechin 1977,70.0,53.3,675,Scotch Whiskey
+20,Glenrothes 1972,70.0,43.0,"1,350",Scotch Whiskey
+21,Glen Ord 12 Year Old,70.0,43.0,250,Scotch Whiskey
+22,Balvenie 10 Year Old,70.0,40.0,225,Scotch Whiskey
+23,Springbank 1979,75.0,56.8,"3,000",Scotch Whiskey
+0,Taittinger Brut Reserve Champagne,75.0,12.5,48.95,Wine & Champagne
+1,Laurent-Perrier Rose NV Champagne,75.0,12.0,58.95,Wine & Champagne
+2,Perrier-Jouet Grand Brut Champagne,75.0,12.0,54.95,Wine & Champagne
+3,Bollinger Special Cuvee NV Champagne,75.0,12.0,47.95,Wine & Champagne
+4,Laurent-Perrier La Cuvee Brut NV Champagne,75.0,12.0,41.95,Wine & Champagne
+5,Laurent-Perrier La Cuvee Brut NV Champagne,75.0,12.0,49.95,Wine & Champagne
+6,Dom Perignon 2012 Vintage Champagne,75.0,12.5,180,Wine & Champagne
+7,Laurent-Perrier Rose Champagne,75.0,12.0,88.95,Wine & Champagne
+8,Bottega Gold Prosecco,75.0,11.0,21.75,Wine & Champagne
+9,Gocce di Favola Prosecco Extra Dry NV,75.0,11.0,11.95,Wine & Champagne
+10,Billecart-Salmon Brut Reserve Champagne,75.0,12.0,47.95,Wine & Champagne
+11,Bollinger Rose Champagne,75.0,12.0,55.95,Wine & Champagne
+12,Veuve Clicquot Yellow Label NV Champagne,75.0,12.0,48.95,Wine & Champagne
+13,Pol Roger Reserve NV Champagne,75.0,12.5,44.95,Wine & Champagne
+14,Louis Roederer Cristal Brut 2014,75.0,12.0,255,Wine & Champagne
+15,Bollinger La Grande Annee 2014,75.0,12.0,115,Wine & Champagne
+16,Bollinger Special Cuvee NV Champagne + 2 Glasses Pack,75.0,12.0,86.95,Wine & Champagne
+17,Chapel Down Brut NV English Sparkling Wine,75.0,12.0,25.95,Wine & Champagne
+18,Pierre Paillard Les Parcelles XVII Bouzy Grand Cru,75.0,12.5,35.95,Wine & Champagne
+19,Mumm Cordon Rouge Champagne,75.0,12.0,35.95,Wine & Champagne
+20,Billecart-Salmon Brut Rose NV Champagne,75.0,12.5,69.95,Wine & Champagne
+21,Moet & Chandon Brut Imperial NV Champagne,75.0,12.0,42.95,Wine & Champagne
+22,Chapel Down Kit's Coty Blanc de Blancs 2017,75.0,12.0,37.95,Wine & Champagne
+23,Egly Ouriet Les Vignes de Vrigny 1er Cru Brut Champagne,75.0,12.5,62.25,Wine & Champagne
+24,Charles Heidsieck Brut Reserve Champagne,75.0,12.0,48.95,Wine & Champagne
+25,Gallimard Les Riceys Cuvee Reserve Champagne,75.0,12.0,29.25,Wine & Champagne
+26,Domaine La Borderie De Quoi Te Mêles Tu? 2016 Champagne,75.0,12.0,56.95,Wine & Champagne
+27,Billecart-Salmon Brut Rose NV Champagne,75.0,12.5,68.95,Wine & Champagne
+28,Ca' Del Bosco Cuvee Prestige Franciacorta Edition 43,75.0,12.5,37.95,Wine & Champagne
+29,Perrier-Jouët Grand Brut Champagne,75.0,12.0,47.45,Wine & Champagne
+30,Gosset Grande Reserve Brut,75.0,12.0,47.95,Wine & Champagne
+31,Moet & Chandon Rose Imperial NV Champagne,75.0,12.0,49.95,Wine & Champagne
+32,Taittinger Vintage 2015 Champagne,75.0,12.5,57.95,Wine & Champagne
+33,Palmer & Co Brut Reserve NV Champagne,75.0,12.0,39.45,Wine & Champagne
+34,Louis Roederer Collection 242,75.0,12.0,52.95,Wine & Champagne
+35,Champagne Telmont Rose NV,75.0,12.0,46.75,Wine & Champagne
+36,Collalto Prosecco di Conegliano Valdobbiad Extra Dry 2020,75.0,11.5,16.25,Wine & Champagne
+37,Cerdon du Bugey Methode Ancestrale Balivet,75.0,7.0,24.95,Wine & Champagne
+38,Frassinelli Prosecco Rose 2020,75.0,11.0,14.95,Wine & Champagne
+39,Moët & Chandon 2013 Vintage Champagne,75.0,12.5,58.95,Wine & Champagne
+40,Ruinart Rosé,75.0,12.5,74.95,Wine & Champagne
+41,Gusbourne Rose 2016 Sparkling Wine,75.0,12.0,48.95,Wine & Champagne
+42,Frassinelli Prosecco Superiore Extra Dry NV,75.0,11.0,13.95,Wine & Champagne
+43,Pierre Legras Monographie Brut Blanc de Blanc Grand Cru,75.0,12.0,36.25,Wine & Champagne
+44,Champagne Deutz Brut Classic NV,75.0,12.0,41.95,Wine & Champagne
+45,Gocce di Favola Prosecco Extra Dry NV,20.0,11.0,5.25,Wine & Champagne
+46,Pol Roger Pure Extra Brut NV Champagne,75.0,12.5,53.95,Wine & Champagne
+47,Ruppert Leroy Les Cognaux Champagne,75.0,12.0,61.75,Wine & Champagne
+48,Cremant de Limoux Monsieur S Etienne Fort,75.0,12.0,22.95,Wine & Champagne
+49,Ferghettina Franciacorta Brut NV,75.0,12.5,21.95,Wine & Champagne
+50,Pol Roger Reserve NV Champagne,37.5,12.5,26.95,Wine & Champagne
+51,Pago de Tharsys Brut Nature Cava,75.0,11.5,10.95,Wine & Champagne
+52,Veuve Clicquot Rich Rose NV Champagne,75.0,12.0,62.95,Wine & Champagne
+53,Veuve Fourny Vertus Blanc de Blancs Brut Premier Cru Champagne,75.0,12.0,37.25,Wine & Champagne
+54,Veuve Clicquot Yellow Label NV Champagne,150.0,12.0,94.95,Wine & Champagne
+55,Cortefusia Franciacorta Brut,75.0,12.5,28.95,Wine & Champagne
+56,Wilderberg Meteorique Methode Cap Classique,75.0,11.5,17.95,Wine & Champagne
+57,Champagne Paul Bara Special Club Brut 2014,75.0,12.5,76.95,Wine & Champagne
+58,Rare 2008 Champagne,75.0,12.0,180,Wine & Champagne
+59,Drappier Millésime Exception 2016 Champagne,75.0,12.0,58.95,Wine & Champagne
+60,Rathfinny Estate Sparkling Rose 2018,75.0,12.5,34.95,Wine & Champagne
+61,Louis Roederer Rose Vintage 2015,75.0,12.0,70.95,Wine & Champagne
+62,Bollinger B13 2013,75.0,12.5,99.95,Wine & Champagne
+63,Col Vetoraz Prosecco Valdobbiadene Extra Dry 2020,75.0,11.5,19.95,Wine & Champagne
+64,Champagne Delavenne Brut Tradition NV,75.0,12.5,33.95,Wine & Champagne
+65,Champagne Telmont Vintage 2012,75.0,12.0,51.95,Wine & Champagne
+66,Black Elephant Method Cap Classique Brut,75.0,11.5,24.95,Wine & Champagne
+67,Gallimard Pere & Fils Cuvee Prestige 2015,75.0,12.0,36.75,Wine & Champagne
+68,Col Vetoraz Prosecco Valdobbiadene Extra Brut Cuvee Ø 2020,75.0,11.5,22.75,Wine & Champagne
+69,Gusbourne Blanc De Blancs 2016,75.0,12.0,58.95,Wine & Champagne
+70,Larmandier-Bernier BdB Extra Brut Vieille Vigne du Levant 2011,75.0,12.5,87.95,Wine & Champagne
+71,Joseph Perrier Cuvee Royal Brut NV Champagne,75.0,12.0,40.95,Wine & Champagne
+72,Billecart-Salmon Cuvee Nicolas Francois 2007,75.0,12.5,130,Wine & Champagne
+73,Martini Prosecco NV,75.0,11.5,11.45,Wine & Champagne
+74,Philipponnat 1522 Grand Cru 2009 Extra Brut Champagne,75.0,12.0,69.95,Wine & Champagne
+75,Veuve Clicquot 2012 Vintage,75.0,12.0,63.95,Wine & Champagne
+76,Bollinger Special Cuvée NV,37.5,12.0,27.95,Wine & Champagne
+77,Drappier Blanc de Blanc Signature NV Champagne,75.0,12.0,48.95,Wine & Champagne
+78,Drappier Rosé de Saignée Brut NV,75.0,12.0,47.95,Wine & Champagne
+79,Drappier Brut Nature Zéro Dosage NV Champagne,75.0,12.0,46.95,Wine & Champagne
+80,Xavier Alexandre Cuvee Rubis Rose Brut NV Champagne,75.0,12.0,29.95,Wine & Champagne
+81,Pierre Legras Blanc de Noirs Millesime 2013,75.0,12.0,36.25,Wine & Champagne
+82,Lelarge-Pugeot Les Meuniers de Clémence Champagne,75.0,12.5,52.95,Wine & Champagne
+83,Bolney Eighteen Acre Rose Sparkling Wine,75.0,12.0,25.95,Wine & Champagne
+84,Champagne Dehours Extra Brut Rose Cuvee Oeil de Perdrix NV,75.0,12.0,44.75,Wine & Champagne
+85,Ruppert Leroy Fosse Grely Champagne,75.0,12.0,61.75,Wine & Champagne
+86,Cinzano Prosecco,75.0,11.0,9.95,Wine & Champagne
+87,Alta Alella Laieta Gran Reserva Brut Nature Cava,75.0,12.0,26.95,Wine & Champagne
+88,Asolo DOCG Prosecco Superiore NV Case Paolin,75.0,11.5,14.95,Wine & Champagne
+89,Taittinger Brut Prestige Rose NV Champagne,75.0,12.5,43.95,Wine & Champagne
+90,Krug Grande Cuvee Champagne,37.5,12.0,114,Wine & Champagne
+91,Charles Heidsieck Brut Reserve Champagne,37.5,12.0,28.95,Wine & Champagne
+92,Quartet Anderson Valley Brut NV,75.0,12.5,25.95,Wine & Champagne
+93,Chandon Brut NV Sparkling Wine,75.0,12.0,18.95,Wine & Champagne
+94,Philipponnat Royale Reserve Brut Champagne,75.0,12.0,42.95,Wine & Champagne
+95,Billecart-Salmon Blanc de Blancs Champagne,75.0,12.0,68.95,Wine & Champagne
+96,Larmandier-Bernier Vertus Rose Saignee Champagne,75.0,12.5,84.95,Wine & Champagne
+97,Larmandier-Bernier 'Longitude' Blanc de Blancs Champagne,75.0,12.5,59.95,Wine & Champagne
+98,Egly-Ouriet Tradition Brut Grand Cru Champagne,75.0,12.5,74.95,Wine & Champagne
+99,Veuve Fourny Vertus Blanc de Blancs Brut Premier Cru Champagne,37.5,12.0,21.95,Wine & Champagne
+100,Bollinger Special Cuvee NV Champagne,150.0,12.0,110,Wine & Champagne
+101,Moet & Chandon Ice Imperial Champagne,75.0,12.0,49.95,Wine & Champagne
+102,Piper Heidsieck Rose Sauvage NV Champagne,75.0,12.0,41.95,Wine & Champagne
+103,Bollinger Special Cuvee NV Champagne,37.5,12.0,28.95,Wine & Champagne
+104,Moet & Chandon NV Brut Imperial Champagne,150.0,12.0,84.95,Wine & Champagne
+105,Mercier Brut NV Champagne,75.0,12.0,33.95,Wine & Champagne
+106,Bollinger Special Cuvee NV Champagne,75.0,12.0,47.95,Wine & Champagne
+107,Raventos i Blanc De Nit Rosé 2020,75.0,12.0,22.95,Wine & Champagne
+108,Laurent-Perrier 2008 Vintage Champagne,75.0,12.0,56.25,Wine & Champagne
+109,Pol Roger Winston Churchill 2013 Champagne,75.0,12.5,235,Wine & Champagne
+110,Billecart-Salmon Demi-Sec Champagne,75.0,12.0,46.95,Wine & Champagne
+111,Bruno Sorg Cremant d'Alsace NV,75.0,12.0,19.95,Wine & Champagne
+112,Henners Brut NV,75.0,12.0,34.95,Wine & Champagne
+113,Rathfinny Estate Blanc de Noirs 2017,75.0,12.0,36.95,Wine & Champagne
+114,Perrier-Jouët 2013 Belle Epoque Rosé Champagne,75.0,12.5,230,Wine & Champagne
+115,Champagne Paul Bara Grand Rose de Bouzy NV,75.0,12.5,41.95,Wine & Champagne
+116,Roger Coulon Esprit de Vrigny 1er Cru Zero Dosage NV Champagne,75.0,12.0,85.75,Wine & Champagne
+117,Eric Rodez Blanc de Blanc Grand Cru Brut NV Champagne,75.0,12.5,64.25,Wine & Champagne
+118,Joseph Perrier Cuvee Royale Vintage 2012,75.0,12.0,62.95,Wine & Champagne
+119,Bolney Blanc de Blancs 2018 Sparkling Wine,75.0,12.5,33.95,Wine & Champagne
+120,Bolney Cuvee Noir Sparkling Wine,75.0,12.5,27.95,Wine & Champagne
+121,Pierre Paillard Les Parcelles XVII Bouzy Grand Cru,37.5,12.5,21.95,Wine & Champagne
+122,Sugrue Brut 2017,75.0,12.0,49.95,Wine & Champagne
+123,Louis Roederer Collection 242 + 2 Glasses,75.0,12.0,79.95,Wine & Champagne
+124,Jacquesson Cuvee 744 Champagne,75.0,12.5,52.95,Wine & Champagne
+125,Charles Heidsieck Millesime 2012 Champagne,75.0,12.0,105,Wine & Champagne
+126,Champagne Vadin-Plateau Renaissance Cumieres 1er Cru NV,75.0,12.0,39.95,Wine & Champagne
+127,Rose Campania Remensis Extra Brut Bereche & Fils 2017,75.0,12.5,78.95,Wine & Champagne
+128,Salvadek Franciacorta Extra Brut Monte Rossa 2015,75.0,12.5,44.95,Wine & Champagne
+129,Gimonnet Fleuron Blanc de Blancs 2015 Champagne,75.0,12.5,52.95,Wine & Champagne
+130,Enfant de la Montagne 1er Cru Bertrand Delespierre,75.0,12.0,36.95,Wine & Champagne
+131,Philipponnat Clos des Goisses 2011 Champagne,75.0,13.0,190,Wine & Champagne
+132,Rathfinny Estate Classic Cuvee 2017,75.0,12.0,27.95,Wine & Champagne
+133,Pierre Paillard Les Parcelles XIV Bouzy Grand Cru,37.5,12.5,19.95,Wine & Champagne
+134,L'Ormarins Method Cap Classique Blanc de Blancs 2013,75.0,12.5,19.95,Wine & Champagne
+135,L'Ormarins Method Cap Classique Brut NV,75.0,12.5,17.75,Wine & Champagne
+136,Rathfinny Estate Blanc de Noirs 2016,75.0,12.5,35.95,Wine & Champagne
+137,Taittinger Folies de la Marquetterie Champagne,75.0,12.5,51.95,Wine & Champagne
+138,Hattingley Valley Rose 2017,75.0,12.0,38.75,Wine & Champagne
+139,Champagne De Sousa Brut Tradition Champagne,75.0,12.5,39.95,Wine & Champagne
+140,Charles Heidsieck Brut Reserve Champagne,150.0,12.0,105,Wine & Champagne
+141,Billecart-Salmon 2009 Vintage Champagne,75.0,12.0,75.95,Wine & Champagne
+142,Martini Asti,75.0,7.5,9.75,Wine & Champagne
+143,Luc Belaire Rare Rose Sparkling Wine,75.0,12.5,23.95,Wine & Champagne
+144,Veuve Clicquot Rosé 2012 Vintage,75.0,12.0,72.95,Wine & Champagne
+145,Gosset 12 Ans de Cave a Minima Brut Champagne,75.0,12.0,84.95,Wine & Champagne
+146,Champagne Dehours Extra Brut 'Vieilles Vignes' 2011,75.0,12.0,49.95,Wine & Champagne
+147,Champagne Collard-Picard Cuvee des Merveilles Rose de Saignee,75.0,12.5,58.95,Wine & Champagne
+148,"Veuve Fourny Cuvée ""R"" Extra Brut NV Champagne",75.0,12.0,48.75,Wine & Champagne
+149,Drappier Quattuor Blanc de Quatre Blancs,75.0,12.0,94.95,Wine & Champagne
+150,Drappier Brut Nature 'no added sulphur' NV Champagne,75.0,12.0,53.95,Wine & Champagne
+151,Champagne Vouette et Sorbee Blanc d'Argile,75.0,12.0,79.95,Wine & Champagne
+152,Jean Velut Rose Saignee Brut Champagne,75.0,12.5,34.95,Wine & Champagne
+153,Pierre Legras Champagne Orior Rose Brut NV Champagne,75.0,12.0,34.95,Wine & Champagne
+154,Pierre Legras Monographie Brut Nature Blanc de Blanc Grand Cru,75.0,12.0,38.95,Wine & Champagne
+155,Pierre Legras Coste Beert Blanc de Blancs Grand Cru,75.0,12.0,30.95,Wine & Champagne
+156,Lanson Extra Age Rose Champagne,75.0,12.5,69.95,Wine & Champagne
+157,La Jara Frizzante Rose Spumante Organic,75.0,10.0,11.95,Wine & Champagne
+158,Paul Dethune Grand Cru NV Champagne,75.0,12.5,39.95,Wine & Champagne
+159,Laherte Freres Champagne Extra Brut Vignes d’Autrefois 2013,75.0,12.5,59.95,Wine & Champagne
+160,Collet Brut 1er Cru Art Déco NV Champagne,75.0,12.5,36.95,Wine & Champagne
+161,Lelarge-Pugeot 1er Cru Blanc de Blancs NV Champagne,75.0,12.5,39.95,Wine & Champagne
+162,Henri Giraud Esprit Nature Champagne,75.0,12.0,44.75,Wine & Champagne
+163,Philipponnat Royale Reserve Non Dose Champagne,75.0,12.0,41.95,Wine & Champagne
+164,Gosset Grand Blanc de Meunier Champagne,75.0,12.0,94.95,Wine & Champagne
+165,Clandestin Les Semblables Boreal 2017 Champagne,75.0,12.0,54.95,Wine & Champagne
+166,Ruppert Leroy Martin Fontaine Champagne,75.0,12.0,60.95,Wine & Champagne
+167,Guillaume Sergent Chemin des Chappes 1er Cru Champagne,75.0,12.0,49.95,Wine & Champagne
+168,Jacquart Blanc de Blancs 2012 Champagne,75.0,12.5,46.95,Wine & Champagne
+169,Adami Prosecco Bosco di Gica,75.0,11.0,19.95,Wine & Champagne
+170,Roger Coulon 1er Cru Reserve de l'Hommee NV Champagne,75.0,12.0,61.25,Wine & Champagne
+171,Chapel Down Sparkling English Rose NV,75.0,12.0,25.95,Wine & Champagne
+172,Henriot Blanc de Blancs Champagne,75.0,12.0,44.95,Wine & Champagne
+173,AR Lenoble Rose Terroirs Brut Champagne,75.0,12.0,41.95,Wine & Champagne
+174,Armand de Brignac Ace of Spades Brut Gold Champagne,75.0,12.5,275,Wine & Champagne
+175,Lamiable Grand Cru NV Extra Brut Champagne,75.0,12.5,36.95,Wine & Champagne
+176,Jacques Lassaigne Les Vignes de Montgueux BdB Champagne,75.0,12.0,51.25,Wine & Champagne
+177,Coates & Seely Britagne Brut Reserve NV,75.0,12.0,34.75,Wine & Champagne
+178,Digby Leander Pink NV,75.0,12.0,34.95,Wine & Champagne
+179,Billecart-Salmon Demi-Sec Champagne,75.0,12.0,47.95,Wine & Champagne
+180,Billecart-Salmon Brut Reserve Champagne,37.5,12.0,25.95,Wine & Champagne
+181,Bottega Rose Gold,75.0,11.5,22.75,Wine & Champagne
+182,Veuve Fourny Vertus Blanc de Blancs Brut Premier Cru Champagne,150.0,12.0,81.75,Wine & Champagne
+183,Larmandier-Bernier 'Latitude' Vertus 1er Cru Champagne,75.0,12.5,54.95,Wine & Champagne
+184,Bereche & Fils Champagne Brut Reserve,75.0,12.5,49.95,Wine & Champagne
+185,Chartogne-Taillet Champagne Rose,75.0,12.0,49.95,Wine & Champagne
+186,Charles Heidsieck Rose Reserve Champagne,75.0,12.0,59.95,Wine & Champagne
+187,Gallimard Les Riceys Cuvee Reserve Champagne,37.5,12.0,16.75,Wine & Champagne
+188,Bruno Paillard Premiere Cuvee Rose Champagne,75.0,12.0,56.95,Wine & Champagne
+189,Veuve Clicquot Rose NV Champagne,75.0,12.5,56.95,Wine & Champagne
+190,Perrier-Jouet Blason Rose Champagne,75.0,12.0,68.95,Wine & Champagne
+191,Bollinger Rose Champagne,37.5,12.0,34.45,Wine & Champagne
+192,Charles Heidsieck Brut Reserve Champagne,75.0,12.0,49.95,Wine & Champagne
+193,Armand de Brignac Ace of Spades Brut Gold Champagne,75.0,12.5,290,Wine & Champagne
+194,Bollinger Rose NV Champagne,75.0,12.0,55.95,Wine & Champagne
+195,Veuve Clicquot Rose NV Champagne,150.0,12.5,118,Wine & Champagne
+196,Piper Heidsieck Champagne,75.0,12.0,34.95,Wine & Champagne
+197,Luc Belaire Rare Luxe,75.0,12.5,21.95,Wine & Champagne
+198,Charles Heidsieck Blanc des Millenaires 2007,75.0,12.5,160,Wine & Champagne
+199,All Angels Sparkling Rose 2014,75.0,12.0,36.95,Wine & Champagne
+200,Philipponnat 1522 Grand Cru 2014 Extra Brut Champagne,75.0,12.0,79.95,Wine & Champagne
+201,Phillipponnat Blanc de Noirs 2014 Vintage,75.0,12.0,58.95,Wine & Champagne
+202,Billecart-Salmon Brut Rose Champagne,37.5,12.0,39.95,Wine & Champagne
+203,Billecart-Salmon Brut Rose Champagne,150.0,12.0,155,Wine & Champagne
+204,Hommage a William Deutz La Cote Glaciere 2015 Champagne,75.0,12.5,94.95,Wine & Champagne
+205,Ernest Remy Oxymore 2010 Champagne,75.0,12.0,74.95,Wine & Champagne
+206,Cremant d'Alsace Zero Domaine Leon Boesch,75.0,11.0,24.95,Wine & Champagne
+207,Doyard Cuvee Vendemiaire 1er Cru Brut Blanc De Blancs Champagne,75.0,12.0,49.95,Wine & Champagne
+208,Domaine La Borderie Trois Contrees Brut NV Champagne,75.0,12.0,52.95,Wine & Champagne
+209,Henners Rose NV,75.0,12.0,39.95,Wine & Champagne
+210,Valentin Leflaive Extra Brut Blanc de Blancs CV17:50 NV,75.0,12.5,49.95,Wine & Champagne
+211,Champagne Bruno Paillard NPU 2008 Extra Brut,75.0,12.0,199,Wine & Champagne
+212,Champagne Paul Bara Brut Reserve NV,37.5,12.5,23.95,Wine & Champagne
+213,Champagne Paul Bara Brut Reserve NV,150.0,12.5,79.95,Wine & Champagne
+214,Champagne Paul Bara Brut Reserve NV,75.0,12.5,38.95,Wine & Champagne
+215,Champagne Paul Bara Grand Rose de Bouzy NV,150.0,12.5,89.95,Wine & Champagne
+216,Roebuck Estates Classic Cuvee 2014,75.0,12.0,36.95,Wine & Champagne
+217,Roebuck Estates Blanc de Noirs 2015,75.0,12.0,43.95,Wine & Champagne
+218,Roebuck Estates Rose de Noirs 2016,75.0,12.0,39.95,Wine & Champagne
+219,Bruno Paillard Brut Vintage Assemblage 2012 Champagne,75.0,12.0,72.95,Wine & Champagne
+220,Moet & Chandon Brut Imperial NV,37.5,12.0,25.95,Wine & Champagne
+221,Ancre Hill Estate Blanc de Noirs Sparkling Wine,75.0,11.0,39.95,Wine & Champagne
+222,Roger Coulon Les Hauts Partas Blanc de Blancs Grand Cru 2014 Champagne,75.0,12.0,92.75,Wine & Champagne
+223,Frederic Savart Les Pinot V15.16 Extra Brut NV Champagne,75.0,12.5,115,Wine & Champagne
+224,Mumm 6 Champagne,75.0,12.0,41.95,Wine & Champagne
+225,Smith & Evans Sparkling Wine 2016,75.0,12.0,31.75,Wine & Champagne
+226,Andre Jacquart Le Mesnil Grand Cru Blanc de Blancs 2011,75.0,12.5,99.95,Wine & Champagne
+227,Armand de Brignac Ace of Spades Brut Rose Champagne,150.0,12.5,870,Wine & Champagne
+228,Armand de Brignac Ace of Spades Brut Rose Champagne,75.0,12.5,399,Wine & Champagne
+229,Agrapart & Fils Venus Grand Cru 2015 Brut Nature Champagne,75.0,12.5,195,Wine & Champagne
+230,Furleigh Estate Classic Cuvée Brut 2017,75.0,12.0,31.95,Wine & Champagne
+231,Ca' Del Bosco Franciacorta Saten 2016,75.0,12.5,59.95,Wine & Champagne
+232,Champagne Rive Gauche Extra Brut Bereche & Fils 2017,75.0,12.5,73.25,Wine & Champagne
+233,Veuve Clicquot La Grande Dame 2012 Champagne,75.0,12.5,163,Wine & Champagne
+234,Sugrue Zodo Multi Vintage,75.0,12.0,61.95,Wine & Champagne
+235,Sugrue Brut Cuvee Boz 2015,75.0,12.0,61.95,Wine & Champagne
+236,Billecart-Salmon Cuvee Louis 2007 Blanc de Blancs Champagne,75.0,12.5,150,Wine & Champagne
+237,Perrier-Jouët Belle Epoque Rose 2010,150.0,12.5,500,Wine & Champagne
+238,Perrier-Jouët Belle Epoque Rosé 2012,75.0,12.5,250,Wine & Champagne
+239,Bereche & Fils Les Beaux Regards 1er Cru Extra Brut 2017,75.0,12.5,84.95,Wine & Champagne
+240,Clandestin Les Grandes Lignes 2017 Champagne,75.0,12.0,69.95,Wine & Champagne
+241,Rare Rosé 2007 Champagne,75.0,12.0,295,Wine & Champagne
+242,Rare 1998 Champagne,150.0,12.0,399,Wine & Champagne
+243,Champagne Deutz Brut 2014,75.0,12.0,59.95,Wine & Champagne
+244,Rare 2008 Champagne,75.0,12.0,199,Wine & Champagne
+245,Devaux D Millesimé 2009 Champagne,75.0,12.0,69.95,Wine & Champagne
+246,Charles Heidsieck Blanc des Millenaires 2006 Champagne,75.0,12.0,160,Wine & Champagne
+247,Jacquesson Avize Champ Cain 2009 Champagne,75.0,12.5,190,Wine & Champagne
+248,Jacquesson Dizy Corne Bautray 2009 Champagne,75.0,12.5,190,Wine & Champagne
+249,Jacquesson Cuvee 739 Dégorgement Tardif Champagne,75.0,12.5,105,Wine & Champagne
+250,Drappier Clarevallis NV Champagne,75.0,12.0,51.25,Wine & Champagne
+251,Ayala Perle Grand Cru 2012 Champagne,75.0,12.0,105,Wine & Champagne
+252,Louis Roederer Brut Nature Rose Vintage 2012,75.0,12.0,81.95,Wine & Champagne
+253,Louis Roederer 2014 Blanc de Blancs Champagne,75.0,12.0,90.95,Wine & Champagne
+254,Jacques Lassaigne Le Cotet Blanc de Blancs Champagne,75.0,12.0,84.95,Wine & Champagne
+255,Champagne Vadin-Plateau Terre de Moines 2015 Cumieres 1er Cru,75.0,12.0,59.95,Wine & Champagne
+256,Valentin Leflaive Extra Brut Blanc de Blancs CV1540 NV,75.0,12.5,49.95,Wine & Champagne
+257,Palmer & Co Blanc de Noirs Champagne,75.0,12.0,55.45,Wine & Champagne
+258,AR Lenoble 2013 Blanc de Noirs Champagne,75.0,12.0,64.95,Wine & Champagne
+259,Gosset Celebris Rose Brut 2008,75.0,12.0,165,Wine & Champagne
+260,Adami Prosecco DOCG Col Fondo 2020,75.0,11.0,19.95,Wine & Champagne
+261,Ferghettina Franciacorta Saten,37.5,12.5,20.75,Wine & Champagne
+262,Champagne Dumangin J Fils 2009,75.0,12.0,59.95,Wine & Champagne
+263,Gusbourne Brut Reserve 2018,75.0,12.0,38.75,Wine & Champagne
+264,Champagne Deutz Rose NV,75.0,12.0,51.95,Wine & Champagne
+265,Pojer e Sandri Zero Infinito 2020,75.0,12.0,24.95,Wine & Champagne
+266,Recaredo Brut Nature Terrers Gran Reserva 2017,75.0,12.0,27.95,Wine & Champagne
+267,Col Vetoraz Prosecco Valdobbiadene Superiore Di Cartizze Dry DOCG 2020,75.0,11.5,29.75,Wine & Champagne
+268,Bride Valley Rose Bella 2018,75.0,11.5,34.95,Wine & Champagne
+269,Champagne Delavenne Brut Rose NV,75.0,12.5,42.95,Wine & Champagne
+270,Champagne Delavenne Brut Nature NV,75.0,12.5,39.95,Wine & Champagne
+271,Champagne Delavenne Brut Reserve NV,150.0,12.5,82.95,Wine & Champagne
+272,Champagne Delavenne Brut Reserve NV,37.5,12.5,23.95,Wine & Champagne
+273,Lamiable Eclat d'Etoiles Rose Grand Cru NV Extra Brut,75.0,12.5,39.95,Wine & Champagne
+274,Palmer & Co Vintage 2012 Champagne,75.0,12.0,58.75,Wine & Champagne
+275,Palmer & Co Blanc de Blancs Champagne,75.0,12.0,49.95,Wine & Champagne
+276,Palmer & Co Rose Solera Champagne,75.0,12.0,45.95,Wine & Champagne
+277,Louis Roederer Collection 242 Champagne,37.5,12.0,30.95,Wine & Champagne
+278,Champagne Telmont Brut Reserve NV,75.0,12.0,41.75,Wine & Champagne
+279,Laherte Freres Les Empreintes Extra Brut 2014 Champagne,75.0,12.0,69.95,Wine & Champagne
+280,Black Elephant Method Cap Classique Brut Zero,75.0,12.5,24.95,Wine & Champagne
+281,Agrapart & Fils Mineral Grand Cru 2015 Champagne,75.0,12.5,99.95,Wine & Champagne
+282,Philipponnat Blanc de Noirs 2014 Vintage,75.0,12.0,58.95,Wine & Champagne
+283,Champagne Valentin Leflaive Brut Rose MA1660 NV,75.0,12.5,54.95,Wine & Champagne
+284,Champagne Valentin Leflaive Avize 1540 BdB NV,75.0,12.5,62.95,Wine & Champagne
+285,Champagne Valentin Leflaive Le Mesnil Sur Oger 1550 BdB NV,75.0,12.5,64.95,Wine & Champagne
+286,Charles Heidsieck BdB 'Where Chefs Picnic' Hamper,75.0,12.0,225,Wine & Champagne
+287,Bollinger PNVZ16 Champagne,75.0,12.5,94.95,Wine & Champagne
+288,Champagne Deutz Brut Rose 2013 Champagne,75.0,12.0,64.95,Wine & Champagne
+289,Henri Giraud Fut de Chene MV16 Champagne,75.0,12.0,140,Wine & Champagne
+290,Dom Ruinart Rosé 2007 Champagne,75.0,12.5,255,Wine & Champagne
+291,Moët & Chandon 2013 Grand Rose Champagne,75.0,12.5,67.95,Wine & Champagne
+292,Larmandier-Bernier Terre de Vertus 2014 Champagne,75.0,12.5,67.95,Wine & Champagne
+293,Exton Park RB32 Brut Sparkling Wine,75.0,11.5,42.75,Wine & Champagne
+294,Cottonworth Classic Cuvee,75.0,12.0,31.25,Wine & Champagne
+295,Pierre Paillard Les Mottelettes Blanc de Blanc Bouzy Grand Cru 2014,75.0,12.5,62.95,Wine & Champagne
+296,Billecart-Salmon Elisabeth Salmon Rose 2008 Champagne,75.0,12.5,188,Wine & Champagne
+297,Laherte Extra Brut Vignes d’Autrefois 2016 Champagne,75.0,12.5,67.75,Wine & Champagne
+298,L'Ormarins Method Cap Classique Rose NV,75.0,12.5,17.75,Wine & Champagne
+299,Malibran Credamora Col Fondo 2018,75.0,11.0,22.25,Wine & Champagne
+300,Rare Rose 2008 Champagne,75.0,12.0,299,Wine & Champagne
+301,Henri Giraud Argonne Grand Cru 2012,75.0,12.0,395,Wine & Champagne
+302,Frerejean Freres Rose NV Champagne,75.0,12.5,69.95,Wine & Champagne
+303,Pol Roger Winston Churchill 2012,75.0,12.5,230,Wine & Champagne
+304,Hattingley Valley Blanc de Blancs 2014,75.0,12.0,44.95,Wine & Champagne
+305,Louis Roederer Rose Vintage 2014,37.5,12.0,35.95,Wine & Champagne
+306,Piper Heidsieck Essentiel Cuvee Reservee Extra Brut Champagne,75.0,12.0,43.95,Wine & Champagne
+307,Taittinger Prelude Grand Cru Champagne,150.0,12.5,120,Wine & Champagne
+308,Bruno Michel Assemblee Brut NV Champagne,75.0,12.5,39.75,Wine & Champagne
+309,Joseph Perrier Cuvee Royal Brut NV Champagne,37.5,12.0,22.95,Wine & Champagne
+310,Joseph Perrier Cuvee Royal Brut NV Champagne,20.0,12.0,13.95,Wine & Champagne
+311,Pierre Moncuit Grand Cru Extra Brut Mesnil 2008 Vintage Champagne,75.0,12.0,63.95,Wine & Champagne
+312,Pierre Moncuit Cuvee Blanc de Blancs Grand Cru Champagne,75.0,12.0,40.95,Wine & Champagne
+313,Louis Roederer Cristal 2013 Rosé Champagne,75.0,12.0,550,Wine & Champagne
+314,Champagne A. Levasseur Rue du Sorbier Brut NV,75.0,12.5,41.75,Wine & Champagne
+315,Charles Heidsieck Rose Reserve,37.5,12.0,36.95,Wine & Champagne
+316,Bolney Cuvee Rose 2018,75.0,12.5,35.95,Wine & Champagne
+317,Champagne De Sousa Cuvee des Caudalies Rose Brut Champagne,75.0,12.5,84.95,Wine & Champagne
+318,Champagne De Sousa Cuvee des CaudaliesB rut Champagne,75.0,12.5,64.95,Wine & Champagne
+319,Champagne De Sousa Brut Rose Champagne,75.0,12.5,44.95,Wine & Champagne
+320,Laurent-Perrier Alexandra Rose 2004,75.0,12.0,330,Wine & Champagne
+321,Charles Fox Brut Reserve NV,75.0,12.5,19.95,Wine & Champagne
+322,Brice Bouzy Grand Cru 2013 Champagne,75.0,12.0,52.95,Wine & Champagne
+323,Ayala Blanc de Blancs 2014,75.0,12.0,52.95,Wine & Champagne
+324,Jacques Lassaigne Les Vignes de Montgueux,150.0,12.0,110,Wine & Champagne
+325,Ayala Brut Majeur,37.5,12.0,19.95,Wine & Champagne
+326,Laurent-Perrier La Cuvee Brut NV Champagne,37.5,12.0,27.45,Wine & Champagne
+327,AR Lenoble Brut Intense Mag 17 Champagne,37.5,12.5,19.95,Wine & Champagne
+328,Henri Giraud Esprit Nature Champagne,37.5,12.0,27.95,Wine & Champagne
+329,Champagne Dehours Grande Reserve Brut NV,37.5,12.0,23.95,Wine & Champagne
+330,Veuve Fourny et Fils Vertus 1er Cru 2014 Champagne,75.0,12.0,54.95,Wine & Champagne
+331,Billecart-Salmon Brut Sous Bois Champagne,75.0,12.0,68.95,Wine & Champagne
+332,Andre Jacquart Le Mesnil Blanc de Blancs Champagne,75.0,12.5,64.95,Wine & Champagne
+333,Brice Brut Tradition NV Champagne,37.5,12.0,23.95,Wine & Champagne
+334,Brice Brut Tradition NV Champagne,75.0,12.0,40.95,Wine & Champagne
+335,Andre Jacquart Le Mesnil Grand Cru Blanc de Blanc Brut Nature,75.0,12.5,49.95,Wine & Champagne
+336,Henri Giraud Hommage au Pinot Noir,75.0,12.0,67.95,Wine & Champagne
+337,Martini Rose Sparkling Wine,75.0,8.0,10.95,Wine & Champagne
+338,Smith & Evans Sparkling Wine 2015,75.0,11.5,31.75,Wine & Champagne
+339,Champagne Dumangin J Fils Rose NV,75.0,12.0,45.95,Wine & Champagne
+340,Champagne Dumangin J Fils Extra Brut NV,75.0,12.0,43.95,Wine & Champagne
+341,Champagne Dumangin J Fils Cuvee 17 NV,75.0,12.0,38.95,Wine & Champagne
+342,Jacques Picard Brut Nature NV Champagne,75.0,12.0,44.95,Wine & Champagne
+343,Mumm Cordon Rouge Champagne,150.0,12.0,81.95,Wine & Champagne
+344,Bolney Classic Cuvee Sparkling Wine,75.0,12.5,29.95,Wine & Champagne
+345,Henri Giraud Dame-Jane Rose Champagne,75.0,12.0,69.95,Wine & Champagne
+346,Champagne Dehours Brut 'Les Vignes de la Vallée' NV,75.0,12.0,44.95,Wine & Champagne
+347,Regi Extra Brut Champagne,75.0,12.5,78.95,Wine & Champagne
+348,Champagne Deutz Blanc de Blancs 2013,75.0,12.0,77.95,Wine & Champagne
+349,Collet Collection Privee 2008 Brut Champagne,75.0,12.5,74.95,Wine & Champagne
+350,Lelarge-Pugeot Nature et Non Dose Champagne,75.0,12.5,56.95,Wine & Champagne
+351,Drappier Rosé Brut Nature NV Champagne,75.0,12.0,54.75,Wine & Champagne
+352,Drappier Carte d’Or Brut NV Champagne,75.0,12.0,41.25,Wine & Champagne
+353,Goring Estate Blanc de Blancs 'Family Release',75.0,12.0,36.25,Wine & Champagne
+354,Henri Giraud Blanc de Blancs Craie NV Champagne,75.0,12.0,57.95,Wine & Champagne
+355,Champagne Vadin-Plateau Bois des Jots 2014,75.0,12.0,59.95,Wine & Champagne
+356,Ayala Rose Majeur Champagne,75.0,12.0,37.95,Wine & Champagne
+357,Jean Velut Lumiere et Craie BdB Brut Champagne,75.0,12.5,34.95,Wine & Champagne
+358,Jean Velut Premier Temps Brut NV Champagne,75.0,12.5,30.95,Wine & Champagne
+359,Pierre Legras Monographie Extra Dry Blanc de Blanc Grand Cru,75.0,12.0,38.95,Wine & Champagne
+360,Lanson Extra Age Brut Champagne,75.0,12.5,54.95,Wine & Champagne
+361,Ayala Brut Nature,75.0,12.0,34.95,Wine & Champagne
+362,Hommage a William Deutz Meurtet 2012 Champagne,75.0,12.0,99.95,Wine & Champagne
+363,Hommage a William Deutz Parcelles d'Ay 2010 Champagne,75.0,12.0,97.95,Wine & Champagne
+364,Champagne Deutz Brut 2012 Champagne,75.0,12.0,56.95,Wine & Champagne
+365,Champagne Deutz Rose NV,75.0,12.0,54.75,Wine & Champagne
+366,Champagne Deutz Extra Brut NV Champagne,75.0,12.0,44.95,Wine & Champagne
+367,Perrier Jouet Grand Brut NV,300.0,12.0,335,Wine & Champagne
+368,Piper Heidsieck 2012 Vintage Champagne,75.0,12.0,53.95,Wine & Champagne
+369,Dom Perignon Vintage 2009 Champagne,300.0,12.5,"2,600",Wine & Champagne
+370,Champagne Collard-Picard Essentiel 2010,75.0,12.5,89.95,Wine & Champagne
+371,Champagne Collard-Picard Cuvee Prestige NV,75.0,12.0,44.95,Wine & Champagne
+372,Champagne Collard-Picard Selection Brut NV,75.0,12.5,38.95,Wine & Champagne
+373,Regi Blanc de Blancs Grand Cru Champagne,75.0,12.0,68.95,Wine & Champagne
+374,Regi Brut Rose Grand Cru NV Champagne,75.0,12.0,58.95,Wine & Champagne
+375,Regi Brut Grand Cru NV Champagne,75.0,12.5,48.95,Wine & Champagne
+376,Taittinger Nocturne Sec NV,75.0,12.5,40.95,Wine & Champagne
+377,Gosset Extra Brut Champagne,150.0,12.0,90.95,Wine & Champagne
+378,Agrapart & Fils 7 Crus Brut Champagne,75.0,12.0,57.95,Wine & Champagne
+379,Suenen C+C Grand Cru Blanc de Blancs Extra Brut Champagne,75.0,12.0,71.25,Wine & Champagne
+380,The Bub Haywire Okanagan Crush Pad 2015,75.0,10.5,38.75,Wine & Champagne
+381,Dom Perignon 1964 & 1973 & 1980,225.0,12.5,"2,500",Wine & Champagne
+382,Gosset Celebris Extra Brut 2007 Champagne,75.0,12.0,125,Wine & Champagne
+383,Gosset Grand Blanc de Noirs Champagne,75.0,12.0,76.95,Wine & Champagne
+384,Charles Heidsieck Rose Millesime 2005 Champagne,75.0,12.0,110,Wine & Champagne
+385,Eric Rodez Dosage Zero Grand Cru Champagne,75.0,12.5,68.75,Wine & Champagne
+386,Le Chapitre Brut Rosé NV Champagne,75.0,12.0,48.95,Wine & Champagne
+387,Le Chapitre Brut NV Champagne,75.0,12.0,36.75,Wine & Champagne
+388,Tarlant BAM! Brut Nature Champagne,75.0,12.0,130,Wine & Champagne
+389,Charles Heidsieck Blanc de Blancs NV Champagne,75.0,12.0,69.95,Wine & Champagne
+390,Taittinger Prelude Grand Crus Champagne,75.0,12.5,56.95,Wine & Champagne
+391,Paul Dethune Princesse des Thunes NV Champagne,75.0,12.5,66.95,Wine & Champagne
+392,Henriot Brut Millesime 2008 Champagne,75.0,12.0,69.95,Wine & Champagne
+393,Devaux Collector’s Magnum 2005 Champagne,150.0,12.0,115,Wine & Champagne
+394,Devaux D Rosé NV Champagne,75.0,12.0,61.95,Wine & Champagne
+395,Devaux Ultra D NV Champagne,75.0,12.0,47.45,Wine & Champagne
+396,Devaux Cuvée D NV Champagne,75.0,12.0,46.95,Wine & Champagne
+397,Roger Coulon Heri Hodie 1er Cru Brut NV Champagne,75.0,12.0,51.75,Wine & Champagne
+398,Janisson Grand Cru NV Champagne,75.0,12.0,45.25,Wine & Champagne
+399,Janisson a Verzenay Brut Rosé NV Champagne,75.0,12.0,39.95,Wine & Champagne
+400,Collet Brut NV Champagne,75.0,12.5,31.95,Wine & Champagne
+401,Digby Rose Brut 2014,75.0,12.0,44.95,Wine & Champagne
+402,Ernest Remy Blanc de Noirs Grand Cru NV Champagne,75.0,12.0,36.95,Wine & Champagne
+403,Dom Perignon Rosé 1992,75.0,12.5,550,Wine & Champagne
+404,Taittinger Collection 1981,75.0,12.0,299,Wine & Champagne
+405,Furleigh Estate Rose NV,75.0,12.0,31.95,Wine & Champagne
+406,Ashling Park Brut NV,75.0,12.0,28.95,Wine & Champagne
+407,Ashling Park Rose 2014,75.0,12.0,30.95,Wine & Champagne
+408,Champagne Dehours Grande Reserve Extra Brut Terre de Meunier,75.0,12.0,44.75,Wine & Champagne
+409,Furleigh Estate Blanc de Noirs 2014,75.0,12.0,31.95,Wine & Champagne
+410,Laherte Freres Rose de Meunier NV Champagne,75.0,12.5,46.95,Wine & Champagne
+411,Laherte Freres Les Empreintes Champagne,75.0,12.0,59.95,Wine & Champagne
+412,Guillaume Sergent Les Pres Dieu 1er Cru Champagne,75.0,12.0,49.95,Wine & Champagne
+413,Frerejean Freres Premier Cru 2006 Champagne,75.0,12.5,94.95,Wine & Champagne
+414,Bride Valley Rose Bella 2014,75.0,11.5,34.95,Wine & Champagne
+415,Laurent-Perrier Alexandra Rose 2004 Champagne,75.0,12.0,315,Wine & Champagne
+416,Henri Giraud Dame-Jane Rose Champagne,75.0,12.0,64.95,Wine & Champagne
+417,GM & A Ahrens Vintage Cuvee Brut 2012,75.0,12.5,74.95,Wine & Champagne
+418,La Jara Pinot Grigio Frizzante Brut Rose Spumante Organic,75.0,11.5,13.95,Wine & Champagne
+419,Alta Alella Laieta Gran Reserva Brut Nature Rose Cava,75.0,12.0,28.25,Wine & Champagne
+420,Hattingley Classic Reserve,75.0,12.0,32.95,Wine & Champagne
+421,Laurent-Perrier La Cuvee Brut NV Champagne,150.0,12.0,87.95,Wine & Champagne
+422,Agrapart & Fils Complantee Grand Cru NV,75.0,12.5,84.95,Wine & Champagne
+423,Benoit Lahaye Brut Nature,75.0,12.0,53.25,Wine & Champagne
+424,Pierre Gerbais Grains de Celles Rose Champagne,75.0,12.5,41.75,Wine & Champagne
+425,Pierre Gerbais Cuvee Reserve Champagne,75.0,12.0,33.75,Wine & Champagne
+426,Chapel Down Rose Brut NV,75.0,11.5,27.95,Wine & Champagne
+427,Luc Belaire Rare Rose,150.0,12.5,62.95,Wine & Champagne
+428,Adami Prosecco Bosco di Gica,150.0,11.0,41.95,Wine & Champagne
+429,Henriot Cuvee des Enchanteleurs 1998 Champagne,75.0,12.0,150,Wine & Champagne
+430,Henriot Brut Rose Champagne,75.0,12.0,45.95,Wine & Champagne
+431,Henriot Brut Souverain NV Champagne,75.0,12.0,35.95,Wine & Champagne
+432,Louis Roederer Cristal 2009 Rose Champagne,75.0,12.0,550,Wine & Champagne
+433,Perrier-Jouet Blanc de Blancs NV Champagne,75.0,12.0,72.95,Wine & Champagne
+434,Bottega White Gold,75.0,11.0,22.25,Wine & Champagne
+435,Moet & Chandon Rose Imperial Champagne,37.5,12.0,30.95,Wine & Champagne
+436,Quartet Brut Rose NV,75.0,12.0,31.95,Wine & Champagne
+437,Adami Bosco di Gica Prosecco,37.5,11.0,11.75,Wine & Champagne
+438,Bollinger R.D 1976 Champagne,150.0,12.0,"2,000",Wine & Champagne
+439,Philipponnat Royale Reserve Brut Rose Champagne,75.0,12.0,47.95,Wine & Champagne
+440,AR Lenoble Dosage Zero Champagne,75.0,12.5,36.95,Wine & Champagne
+441,Moet & Chandon Brut Imperial NV Champagne,20.0,12.0,15.45,Wine & Champagne
+442,Champagne Geoffroy NV Rose Saignee Brut 1er Cru,75.0,12.5,44.95,Wine & Champagne
+443,Champagne Geoffroy NV Expression Brut,75.0,12.5,35.95,Wine & Champagne
+444,Moet Ice Imperial Rose Champagne,75.0,12.0,57.95,Wine & Champagne
+445,Coates & Seely Britagne Brut Rose NV,75.0,11.5,36.75,Wine & Champagne
+446,Bolney Bubbly NV,75.0,12.5,25.95,Wine & Champagne
+447,Goring Brut NV,75.0,12.0,36.95,Wine & Champagne
+448,Digby Brut NV,75.0,12.0,31.25,Wine & Champagne
+449,Eric Rodez Blanc de Noirs Champagne,75.0,12.5,65.95,Wine & Champagne
+450,Eric Rodez Rose Champagne,75.0,12.5,65.95,Wine & Champagne
+451,Billecart-Salmon Brut Rose Champagne,150.0,12.0,155,Wine & Champagne
+452,Billecart-Salmon Brut Rose Champagne,37.5,12.0,39.95,Wine & Champagne
+453,Collalto Violette Vino Spumante Manzoni Rose Extra Dry,75.0,11.5,15.95,Wine & Champagne
+454,Agrapart & Fils Terroirs GC Blanc de Blancs Champagne,75.0,12.5,69.95,Wine & Champagne
+455,Laherte Freres Champagne Brut Ultradition,75.0,12.5,41.75,Wine & Champagne
+0,Cramele Recas Solara Orange Wine 2021,75.0,12.5,10.75,Wine & Champagne
+1,St John Commandaria Cypriot Wine,50.0,15.0,12.95,Wine & Champagne
+2,Biscarelle Chateauneuf Du Pape 2019,75.0,14.5,34.95,Wine & Champagne
+3,Mezzogiorno Nero d'Avola 2019,75.0,13.0,7.45,Wine & Champagne
+4,Black Elephant Rosé Rebel 2020,75.0,12.5,12.95,Wine & Champagne
+5,Gaia 4-6 Agiorgitiko Rose 2021,75.0,12.5,13.95,Wine & Champagne
+6,Altanza Rioja Crianza 2018,75.0,13.5,14.25,Wine & Champagne
+7,Rioja Reserva Bodega Akutain 2015,75.0,14.0,24.95,Wine & Champagne
+8,Chateau Micalet 2018,75.0,12.5,22.95,Wine & Champagne
+9,Greywacke Sauvignon Blanc 2021,75.0,13.5,17.95,Wine & Champagne
+10,Normanno Ciello Bianco 2020,75.0,12.0,8.25,Wine & Champagne
+11,Classic France Wine Case,450.0,13.4,150.0,Wine & Champagne
+12,Cabernet Sauvignon 'No es Pituko' Vina Echeverria 2021,75.0,13.5,12.25,Wine & Champagne
+13,La Giaretta Amarone Valpolicella Classico 2017,75.0,16.5,34.95,Wine & Champagne
+14,Chateau la Grave Figeac St Emilion Grand Cru 2016,150.0,13.0,79.95,Wine & Champagne
+15,Odfjell Armador Carmenere 2019,75.0,13.0,12.45,Wine & Champagne
+16,The Chocolate Block 2020,75.0,14.5,22.75,Wine & Champagne
+17,Cramele Recas Solara Rose 2020,75.0,12.5,8.95,Wine & Champagne
+18,Picpoul de Pinet Font-Mars 2021,75.0,13.0,12.95,Wine & Champagne
+19,Terlan Quarz Sauvignon Blanc 2020,75.0,13.5,54.95,Wine & Champagne
+20,Benegas Single Vineyard Malbec 2018,75.0,14.5,23.75,Wine & Champagne
+21,Castello di Monsanto Chianti Classico 2019,75.0,14.0,26.95,Wine & Champagne
+22,Castello di Tassarolo Gavi Spinola 2021,75.0,12.5,15.95,Wine & Champagne
+23,Ca'di Ponti Grillo Sicily 2021,75.0,13.5,8.75,Wine & Champagne
+24,Folc Rose 2020,75.0,11.0,17.95,Wine & Champagne
+25,Barbera d'Alba Paulo Scavino 2018,75.0,14.0,16.95,Wine & Champagne
+26,Catalans Blanc Les Chien Catalans 2020,75.0,12.0,8.75,Wine & Champagne
+27,Massaya Le Colombier 2019,75.0,14.5,14.95,Wine & Champagne
+28,Chardonnay Rebula Gasper 2019,75.0,13.0,10.75,Wine & Champagne
+29,Smalltown Vineyards The Good Luck Club Cabernet Sauvignon 2020,75.0,14.5,16.95,Wine & Champagne
+30,Isabel Sauvignon Blanc 2020,75.0,13.0,16.75,Wine & Champagne
+31,Ortonese Sangiovese Merlot 2021,75.0,12.5,8.95,Wine & Champagne
+32,Morgon Kewin Descombes 2020,75.0,13.0,26.95,Wine & Champagne
+33,Terres Fideles Grenache Rose Felicette 2021,75.0,12.5,9.95,Wine & Champagne
+34,Charles Melton Rose of Virginia 2021,75.0,12.5,26.95,Wine & Champagne
+35,Poggiotondo Rosato delle Conchiglie 2021,75.0,12.5,18.95,Wine & Champagne
+36,Les Petits Diables Rose 2021,75.0,12.5,14.95,Wine & Champagne
+37,Lyrarakis Vidiano 2020,75.0,12.5,12.95,Wine & Champagne
+38,Muscat de Beaumes de Venise 2019,75.0,15.0,19.95,Wine & Champagne
+39,Murdoch Hill Sauvignon Blanc 2021,75.0,12.0,21.95,Wine & Champagne
+40,Sauternes Lieutenant de Sigalas 2013,37.5,13.0,15.95,Wine & Champagne
+41,Niepoort Nat'Cool Drink Me Branco 2021,100.0,11.0,19.95,Wine & Champagne
+42,Domaine de Perreau Montravel Sec 2020,75.0,13.0,12.75,Wine & Champagne
+43,Horst Sauer Escherndorfer Lump Silvaner Spatlese Trocken 2020,75.0,13.0,23.95,Wine & Champagne
+44,Lionheart of the Barossa Shiraz 2019,75.0,14.5,13.95,Wine & Champagne
+45,Marco Curto Barolo La Foia 2016,75.0,14.5,39.95,Wine & Champagne
+46,Idaia Winery Vidiano 2020,75.0,12.5,15.95,Wine & Champagne
+47,Ronco del Gnemiz Chardonnay,75.0,13.0,39.95,Wine & Champagne
+48,Vinha do Mouro Tinto Estremoz 2017,75.0,14.0,13.25,Wine & Champagne
+49,Saracco Moscato d'Asti 2021,75.0,5.5,15.95,Wine & Champagne
+50,Chateau Lamarche Canon 2018,75.0,14.5,24.95,Wine & Champagne
+51,Kilikanoon Prodigal Grenache 2018,75.0,14.5,18.95,Wine & Champagne
+52,Ca' la Bionda Valpolicella Classico 2019,75.0,12.5,23.25,Wine & Champagne
+53,Viognier 'No es Pituko' Vina Echeverria 2021,75.0,13.0,12.25,Wine & Champagne
+54,Rancio Sec de Maccabeu Domaine de Rancy NV,50.0,17.0,25.95,Wine & Champagne
+55,Lyrarakis Dafni Psarades Vineyard 2020,75.0,12.0,12.95,Wine & Champagne
+56,Serbal Pinot Noir 2020,75.0,14.0,12.95,Wine & Champagne
+57,Cabernet Sauvignon Reserva 2018,75.0,13.5,13.25,Wine & Champagne
+58,Wild & Wilder The Exhibitionist Merlot 2019,75.0,14.0,10.95,Wine & Champagne
+59,Tesselaarsdal Chardonnay 2020,75.0,13.0,29.25,Wine & Champagne
+60,Beyra Reserva Quartz Branco 2019,75.0,13.0,15.95,Wine & Champagne
+61,Duluc De Branaire-Ducru 2016,75.0,13.5,35.75,Wine & Champagne
+62,Mano a Mano Bodegas Tempranillo 2017,75.0,14.0,12.75,Wine & Champagne
+63,Cline Late Harvest Mourvedre 2017,37.5,14.5,20.95,Wine & Champagne
+64,Inniskillin 2018 Sparkling Vidal Icewine,37.5,9.5,57.95,Wine & Champagne
+65,Ventoux 974 Chateau Pesquie 2017,75.0,14.5,12.75,Wine & Champagne
+66,Recoleta Criolla Tinto Mauricio Lorca 2019,75.0,13.5,11.25,Wine & Champagne
+67,Tokaji Aszu 5 Puttonyos 2013,50.0,11.5,46.75,Wine & Champagne
+68,Gevrey Chambertin Domaine Taupenot-Merme 2016,75.0,13.0,54.95,Wine & Champagne
+69,Fleurie La Madone Jean-Claude Chanudet 2015,75.0,13.5,24.95,Wine & Champagne
+70,Framingham Classic Riesling 2020,75.0,12.5,13.45,Wine & Champagne
+71,Vinos Más Buscados Te Queiro White Field Blend 2020,75.0,12.0,7.95,Wine & Champagne
+72,Bat Gara Txakoli Uno 2018,75.0,13.0,12.75,Wine & Champagne
+73,La Belle Etoile Rose Celestiale 2021,75.0,12.0,9.95,Wine & Champagne
+74,Muscadet Symbiose 2020,75.0,12.0,15.95,Wine & Champagne
+75,Costadune Zibibbo Secco Mandarossa 2021,75.0,12.0,12.75,Wine & Champagne
+76,Lagar De Costa Albarino 2021,75.0,12.5,16.95,Wine & Champagne
+77,A Mano Rosato 2021,75.0,12.0,12.75,Wine & Champagne
+78,Tragolargo Monastrell Casa Balaguer 2020,75.0,14.0,12.25,Wine & Champagne
+79,Samurai Shiraz 2020,75.0,14.0,9.95,Wine & Champagne
+80,Larry Cherubino Pinot Noir 'Ad Hoc Cruel Mistress' 2020,75.0,13.0,15.95,Wine & Champagne
+81,Altos Las Hormigas Malbec Terroir 2018,75.0,13.5,16.95,Wine & Champagne
+82,Moulin de Gassac Classic Blanc Mas de Daumas 2020,75.0,12.0,9.25,Wine & Champagne
+83,M de Minuty Rose 2020,75.0,13.0,16.25,Wine & Champagne
+84,Salcheto Chianti Biskero 2020,75.0,13.0,12.95,Wine & Champagne
+85,Le Petite Syrah Domaine Mas Montel 2020,75.0,13.5,9.75,Wine & Champagne
+86,Chateau Cru Godard 2019,75.0,14.5,16.75,Wine & Champagne
+87,Mezzogiorno Nero d'Avola 2020,75.0,13.0,8.25,Wine & Champagne
+88,Vino Lauria Frappato 2020,75.0,13.0,14.95,Wine & Champagne
+89,Sylvaner Pierres Rouges Domaine Leon Boesch 2020,75.0,11.5,16.75,Wine & Champagne
+90,Vegan Wines Case,450.0,13.5,94.95,Wine & Champagne
+91,Summer Essentials Wines Case,900.0,13.2,150.0,Wine & Champagne
+92,Crowd-Pleasing Wines Case,900.0,13.0,170.0,Wine & Champagne
+93,Malterdinger Spatburgunder Bernhard Huber 2019,75.0,13.0,27.25,Wine & Champagne
+94,Willunga 100 Shiraz Viognier 2020,75.0,14.5,13.95,Wine & Champagne
+95,La Giustiniana Lugarara Gavi di Gavi 2021,37.5,13.0,9.95,Wine & Champagne
+96,Lalande de Pomerol Marius Bielle 2016,75.0,13.5,35.95,Wine & Champagne
+97,Cloudy Bay Sauvignon Blanc 2021,450.0,13.5,145.0,Wine & Champagne
+98,Le Coup de Jus Domaine Bohn 2020,75.0,13.0,22.95,Wine & Champagne
+99,Crozes-Hermitage Blanc Laurent Habrard 2019,75.0,13.0,26.45,Wine & Champagne
+100,O Casal Albarino Bodegas Boado Chaves 2020,75.0,13.0,22.75,Wine & Champagne
+101,IGP Vin des Allobroges Silice Maison des Ardoisieres 2020,75.0,11.0,24.95,Wine & Champagne
+102,Beaujolais Village Domaine Andre Colonge 2020,75.0,14.5,12.45,Wine & Champagne
+103,Niepoort Concisco Branco 2018,75.0,12.5,24.95,Wine & Champagne
+104,Christophe Mittnacht Riesling 2020,75.0,13.5,17.25,Wine & Champagne
+105,Lyrarakis Liastros Sundried Sweet Wine 2017,37.5,11.5,14.95,Wine & Champagne
+106,Montagny 1er Cru Grappe d'Or Feuillat-Juillot 2019,75.0,14.0,24.95,Wine & Champagne
+107,Soldier's Block Shiraz 2021,75.0,14.0,10.25,Wine & Champagne
+108,Henners Gardner Street Rosé Pinot Noir Pinot Meunier 2020,75.0,13.0,20.95,Wine & Champagne
+109,Henners Gardner Street Classic Bacchus Chardonnay 2020,75.0,13.0,18.95,Wine & Champagne
+110,Jasper Hill Georgia's Paddock Shiraz 2018,75.0,15.5,54.95,Wine & Champagne
+111,Vina Von Siebenthal Carmenere 2018,75.0,14.5,18.95,Wine & Champagne
+112,Montecillo Singladuras Tinto Roble 2020,75.0,14.0,15.95,Wine & Champagne
+113,GR10 Vinos de Madrid 4 Monos Viticultores 2017,75.0,13.5,14.75,Wine & Champagne
+114,Inniskillin 2019 Riesling Icewine,37.5,9.5,62.95,Wine & Champagne
+115,The Age of Grace Viognier 2020,75.0,14.5,24.25,Wine & Champagne
+116,S.C. Pannell McLaren Vale Grenache Shiraz Touriga 2017,75.0,14.0,18.95,Wine & Champagne
+117,Mimetic Calatayud Garnacha Gallina de Piel 2020,75.0,15.0,13.25,Wine & Champagne
+118,Woodchester Valley Bacchus 2019,75.0,11.5,13.95,Wine & Champagne
+119,Volnay Domaine Fernand & Laurent Pillot 2018,75.0,13.5,37.95,Wine & Champagne
+120,Bodegas Garzon Viognier 2021,75.0,13.5,14.45,Wine & Champagne
+121,El Escoces Volante La Multa Old Vine Garnacha 2019,75.0,15.0,10.75,Wine & Champagne
+122,Pouilly Fuisse Les Crays 2019,75.0,14.5,32.95,Wine & Champagne
+123,Tikves Barovo Single Vineyard 2018,75.0,15.0,25.95,Wine & Champagne
+124,Ribeiro 'Superheroe',75.0,14.5,26.75,Wine & Champagne
+125,Niepoort Moscatel do Douro,75.0,19.5,21.95,Wine & Champagne
+126,Shafer Vineyards Red Shoulder Chardonnay 2018,75.0,15.0,48.95,Wine & Champagne
+127,Vino Nobile di Montepulciano Gracciano della Seta 2018,75.0,14.0,21.25,Wine & Champagne
+128,Bellwether Coonawarra Cabernet Sauvignon 2015,75.0,13.0,39.75,Wine & Champagne
+129,Domaine Torraccia Porto Vecchio Blanc 2020,75.0,12.5,19.95,Wine & Champagne
+130,Robert Sinskey Vandal Vineyard Cabernet Franc 2015,75.0,14.0,59.95,Wine & Champagne
+131,La Chapelle de Marin Cotes du Rhone 2020,75.0,14.0,10.25,Wine & Champagne
+132,Castellare di Castellina Vin Santo 2015,37.5,15.0,32.95,Wine & Champagne
+133,Leeuwenkuil Shiraz 2018,75.0,13.5,9.95,Wine & Champagne
+134,Bosman Grenache Noir 2020,75.0,14.0,9.75,Wine & Champagne
+135,St Joseph 'Luc' Christian & Martine Rouchier 2017,75.0,14.0,34.95,Wine & Champagne
+136,Dominio de Fontana Tempranillo Syrah Roble 2019,75.0,14.0,9.95,Wine & Champagne
+137,Vinvita Pinot Grigio 2020,75.0,12.0,8.25,Wine & Champagne
+138,Morgado do Quintao Clarete 2019,75.0,13.0,23.95,Wine & Champagne
+139,Diren Collection Okuzgozu 2019,75.0,13.5,9.95,Wine & Champagne
+140,Irouleguy Domaine Bordaxuria 2017,75.0,13.0,27.95,Wine & Champagne
+141,Rivale Pinot Nero 2019,75.0,12.5,32.95,Wine & Champagne
+142,A'Vita Leuko Orange wine 2020,75.0,11.5,24.75,Wine & Champagne
+143,A'Vita Rosato 2019,75.0,12.0,23.95,Wine & Champagne
+144,Predappio Sangiovese Chiara Condello 2018,75.0,14.0,21.25,Wine & Champagne
+145,Godello Ultreia Bierzo Raul Perez 2019,75.0,13.5,20.75,Wine & Champagne
+146,Castello di Neive Barbaresco 2017,75.0,14.5,37.45,Wine & Champagne
+147,Bukkuram Sole D'Agosto 2019,75.0,14.0,56.95,Wine & Champagne
+148,Miraval Rose 2020,75.0,13.0,22.95,Wine & Champagne
+149,Barolo Azelia Luigi Scavino 2014,75.0,14.0,35.95,Wine & Champagne
+150,The Age of Grace Viognier 2019,75.0,13.5,22.95,Wine & Champagne
+151,Vosne Romanee Confuron-Gindre 2017,75.0,13.0,54.95,Wine & Champagne
+152,Barolo Cannubi Riserva 2015,75.0,14.0,125.0,Wine & Champagne
+153,Niepoort Concisco Branco 2016,75.0,11.5,24.95,Wine & Champagne
+154,Edi Simcic Rebula 2018,75.0,13.0,26.75,Wine & Champagne
+155,Pyramid Valley North Canterbury Pinot Noir 2018,75.0,13.0,30.95,Wine & Champagne
+156,Sin Roble Malbec De Angeles 2017,75.0,14.5,29.95,Wine & Champagne
+157,Castello di Ama L'Apparita Merlot 2017,75.0,13.5,185.0,Wine & Champagne
+158,Garzon Tannat 2019,75.0,14.0,17.95,Wine & Champagne
+159,La Bota De Florpower 99 'Antes de la Flor' 2019,75.0,11.5,26.95,Wine & Champagne
+160,Carinena Rojo Kalius 22 Bodegas Monfil 2019,75.0,13.0,7.95,Wine & Champagne
+161,Amarone Della Valpolicella Classico 2016,75.0,15.5,45.95,Wine & Champagne
+162,Kracher Eiswein 2018,37.5,9.5,45.95,Wine & Champagne
+163,Zephyr Gewurztraminer 2020,75.0,14.0,17.25,Wine & Champagne
+164,Barolo Serralunga d'Alba 2016,75.0,14.5,37.95,Wine & Champagne
+165,Castello di Potentino Sangiovese Sacromonte 2011,75.0,14.0,15.95,Wine & Champagne
+166,Gewurztraminer Turkheim 2018,75.0,13.0,20.95,Wine & Champagne
+167,It'll be All White On The Night Wine Case,900.0,12.3,99.95,Wine & Champagne
+168,Benegas Single Vineyard Sangiovese 2015,75.0,14.0,22.95,Wine & Champagne
+169,Muscadet Clos Armand 2018,75.0,12.0,16.25,Wine & Champagne
+170,Lorca Recoleta Malbec 2018,150.0,13.5,19.95,Wine & Champagne
+171,Savennieres Chamboureau 2016,75.0,13.5,26.95,Wine & Champagne
+172,Cuvaison Pinot Noir 2017,75.0,14.0,30.25,Wine & Champagne
+173,Pretty In Pink Wine Case,450.0,12.1,54.95,Wine & Champagne
+174,Easy Drinking Reds Wine Case,450.0,13.7,62.95,Wine & Champagne
+175,The Juice Asylum 2020,75.0,12.5,17.95,Wine & Champagne
+176,Vina Ilusion Rioja Joven 2020,75.0,13.5,11.45,Wine & Champagne
+177,Time Waits For No One 2020,75.0,14.0,12.75,Wine & Champagne
+178,Bodegas Naia 2020,75.0,13.5,14.95,Wine & Champagne
+179,Chateau du Champ des Treilles Le Petit Champ 2019,75.0,14.0,17.95,Wine & Champagne
+180,Pretty Gorgeous Rose 2020,75.0,12.0,10.75,Wine & Champagne
+181,Vina Ventolera Pinot Noir Litoral 2018,75.0,14.0,16.25,Wine & Champagne
+182,Pago de Tharsys Bobal 2019,75.0,12.0,8.25,Wine & Champagne
+183,Clos du Jaugueyron Margaux 2014,75.0,13.0,67.95,Wine & Champagne
+184,Syrah Grenache Grange des Rocs 2019,75.0,12.5,8.75,Wine & Champagne
+185,Jasper Hill Georgia's Paddock Shiraz 2017,75.0,15.0,49.95,Wine & Champagne
+186,Soalheiro Alvarinho 2021,75.0,11.0,17.95,Wine & Champagne
+187,Dolcetto d'Alba Roussot 2021,75.0,13.5,15.95,Wine & Champagne
+188,De la Berangeraie Cuvee Juline Cahors 2016,75.0,14.0,17.95,Wine & Champagne
+189,GD Vajra Barbera d'Alba 2020,75.0,15.0,21.95,Wine & Champagne
+190,Gasper Pinot Grigio 2021,75.0,13.5,14.25,Wine & Champagne
+191,Priorat Loidana Marco Abella 2019,75.0,14.5,18.95,Wine & Champagne
+192,Saturnino Cantalpiedra Rueda Verdejo 2020,75.0,13.5,13.95,Wine & Champagne
+193,Gruner Veltliner Terrassen Smaragd 2020,75.0,13.0,20.95,Wine & Champagne
+194,Moulin de Gassac Classic Rouge Mas de Daumas 2020,75.0,13.0,8.95,Wine & Champagne
+195,Bergerie de la Bastide Rouge 2020,75.0,13.0,8.25,Wine & Champagne
+196,AA Badenhorst Curator Rose 2020,100.0,12.5,14.95,Wine & Champagne
+197,Cereza Cara Sucia Durigutti 2019,75.0,12.7,11.95,Wine & Champagne
+198,Natural Mystic Vinho Verde 2020,75.0,11.5,13.25,Wine & Champagne
+199,Pinot Gris Le Coq Domaine Leon Boesch 2019,75.0,13.0,21.75,Wine & Champagne
+200,Normanno Ciello Rosso 2020,75.0,12.5,8.45,Wine & Champagne
+201,Willunga 100 Grenache Rose 2021,75.0,12.5,13.95,Wine & Champagne
+202,Bat Gara Txacoli Uno 2019,75.0,14.0,13.95,Wine & Champagne
+203,Mullineux Signature Swartland Syrah 2017,75.0,14.5,26.95,Wine & Champagne
+204,Donnafugata Ben Rye Passito di Pantelleria 2020,37.5,14.5,42.95,Wine & Champagne
+205,Vinos Más Buscados Te Queiro White Field Blend 2021,75.0,12.0,8.75,Wine & Champagne
+206,Ver Sacrum Geisha Dragon del Desierto 2021,75.0,12.5,19.95,Wine & Champagne
+207,Thierry Mortet Gevrey Chambertin 2017,75.0,13.0,45.95,Wine & Champagne
+208,Tavel La Combe des Rieu Moulin de la Viguerie 2020,75.0,14.5,26.95,Wine & Champagne
+209,Alsace Schieferberg Zero Domaine Bohn 2020,75.0,13.0,27.75,Wine & Champagne
+210,Alsace Pinot Noir Par Nathur Domaine Bohn 2020,75.0,13.0,27.95,Wine & Champagne
+211,Savennieres Chamboureau 2017,75.0,13.5,26.95,Wine & Champagne
+212,Vinvita Trebbiano 2020,75.0,12.0,7.25,Wine & Champagne
+213,Andrian Pinot Grigio 2021,75.0,13.5,15.25,Wine & Champagne
+214,Niepoort Nat'Cool Drink Me Baga 2021,100.0,11.0,19.95,Wine & Champagne
+215,Lorca Lorca Malbec 2021,75.0,13.0,10.75,Wine & Champagne
+0,Castello Romitorio Brunello di Montalcino 2017,75.0,14.5,59.95,Wine & Champagne
+1,Castello di Ama L'Apparita Merlot 2014,75.0,13.0,295,Wine & Champagne
+2,Castello di Ama Chianti Classico Bellavista 2007,75.0,13.5,225,Wine & Champagne
+3,Castello di Ama Chianti Classico Bellavista 2011,75.0,13.5,225,Wine & Champagne
+4,Castello di Ama Chianti Classico La Casuccia 2011,75.0,13.5,225,Wine & Champagne
+5,Castello di Ama Chianti Classico La Casuccia 2015,75.0,13.5,225,Wine & Champagne
+6,Le Champ d'Orphee 2018 IGP Cotes du Tarn,75.0,13.5,24.95,Wine & Champagne
+7,Cape Mentelle Sauvignon Blanc Semillon 2021,75.0,12.3,15.95,Wine & Champagne
+8,Testalonga El Bandito Cortez Chenin Blanc 2021,75.0,12.0,26.95,Wine & Champagne
+9,Hermitage Blanc Les Rocules Laurent Habrard 2017,75.0,14.0,59.95,Wine & Champagne
+10,Crozes Hermitage Rouge Sans Souffre Ajoute Laurent Habrard 2019,75.0,14.0,25.95,Wine & Champagne
+11,Ministry of Clouds Chardonnay 2020,75.0,12.9,37.75,Wine & Champagne
+12,Sharpham Dart Valley Reserve 2020,75.0,11.0,15.95,Wine & Champagne
+13,Casa Maria Verdejo Blanco La Catellana 2020,75.0,13.0,7.95,Wine & Champagne
+14,Beaujolais Village Domaine Andre Colonge 2020,37.5,14.5,7.95,Wine & Champagne
+15,Pegasus Bay Pinot Noir 2019,75.0,14.0,33.45,Wine & Champagne
+16,Pacherenc Larmes Celestes Alain Brumont 2017,50.0,12.5,16.95,Wine & Champagne
+17,Coteaux de L'Aubance Trois Schistes 2018,50.0,10.0,19.95,Wine & Champagne
+18,Muscat Beaumes de Venise Hommage Domaine de Bernardins NV,50.0,15.0,26.95,Wine & Champagne
+19,Gevrey Chambertin 2018 David Duband,75.0,13.0,74.95,Wine & Champagne
+20,Keith Tulloch Semillon 2019,75.0,10.5,16.95,Wine & Champagne
+21,Gasper Chardonnay Rebula 2020,75.0,12.5,11.95,Wine & Champagne
+22,Framingham Classic Riesling 2021,75.0,12.0,14.95,Wine & Champagne
+23,Sepp Moser Fundamental Gruner Veltliner 2019,75.0,13.0,21.25,Wine & Champagne
+24,Yeringberg Roussanne Marsanne 2017,75.0,12.5,29.95,Wine & Champagne
+25,Bruno Rocca Barbaresco 2019,75.0,14.0,59.95,Wine & Champagne
+26,Three Lions Great Southern Chardonnay 2021,75.0,13.0,13.95,Wine & Champagne
+27,Restless River Cabernet Sauvignon 2018,75.0,14.5,54.95,Wine & Champagne
+28,Brokenwood Hunter Valley Semillon 2020,75.0,11.0,21.75,Wine & Champagne
+29,Anteprima Tonda Antonelli 2018,75.0,13.5,27.95,Wine & Champagne
+30,Primosic Refosco 2018,75.0,13.0,14.95,Wine & Champagne
+31,Tempa di Zoe Aglianico Diciotto 2018,75.0,14.5,19.95,Wine & Champagne
+32,Castello Romitorio RomiToro IGT 2019,75.0,14.0,19.95,Wine & Champagne
+33,Poggio Argentiera Cabernet Franc 2017,75.0,15.0,29.95,Wine & Champagne
+34,Poggio Argentiera Capatosta Toscana Rosso 2017,75.0,15.0,22.95,Wine & Champagne
+35,Castello di Vicarello Merah IGT Sangiovese 2017,75.0,13.5,21.75,Wine & Champagne
+36,Sancerre Melodie de Vieilles Vignes Vincent Gaudry 2020,75.0,13.5,34.95,Wine & Champagne
+37,Jasnieres Les Premices Domaine de Belliviere 2020,75.0,13.5,25.75,Wine & Champagne
+38,Clos Mogador 2018,75.0,14.5,64.95,Wine & Champagne
+39,Goyo Garcia Valdeolmos 2017,75.0,14.0,39.95,Wine & Champagne
+40,Santenay Maison en Belles Lies 2019,75.0,13.0,39.95,Wine & Champagne
+41,Barolo Serralunga d'Alba 2017,75.0,14.5,37.95,Wine & Champagne
+42,Il Ghizzano,75.0,13.5,16.45,Wine & Champagne
+43,Adega de Borba Convento da Villa Branco 2020,75.0,13.5,12.75,Wine & Champagne
+44,Vina Monty Graciano Rioja Reserva 2015,75.0,13.5,54.95,Wine & Champagne
+45,Monte Fiorentine Soave Classico DOC 2020,75.0,12.5,16.95,Wine & Champagne
+46,Pyros Syrah Barrel Selected 2018,75.0,14.0,18.95,Wine & Champagne
+47,Intellego Story of Harry 2020,75.0,12.0,17.95,Wine & Champagne
+48,Pic St Loup Arbouse Red Xavier Bruguiere 2020,75.0,13.5,20.95,Wine & Champagne
+49,El Circo Macabeo 2020,75.0,13.0,9.95,Wine & Champagne
+50,Chateau Rol Valentin 2016,75.0,14.0,40.75,Wine & Champagne
+51,Soki Soki Tanca Nica 2020,75.0,12.5,39.95,Wine & Champagne
+52,Chiroubles Daniel Bouland 2020,75.0,14.0,22.75,Wine & Champagne
+53,Tikves Smederevka 2020,75.0,12.0,8.95,Wine & Champagne
+54,Elysium Black Muscat 2018,37.5,15.0,13.95,Wine & Champagne
+55,Ploussard Arbois Pupillin 2020,75.0,13.0,23.95,Wine & Champagne
+56,Maranges Domaine Bertrand Bachelet 2017,75.0,13.0,24.75,Wine & Champagne
+57,Ken Forrester The FMC 2020,75.0,13.0,39.95,Wine & Champagne
+58,Artemis Karamolegos Assyrtiko 34 2020,75.0,14.0,29.95,Wine & Champagne
+59,Gerovassiliou Malagousia 2021,75.0,13.5,19.75,Wine & Champagne
+60,Veronica Ortega Quite Bierzo 2020,75.0,13.0,21.95,Wine & Champagne
+61,Etna Rosso I Nove Fratelli Masseria del Pino 2018,75.0,12.0,44.95,Wine & Champagne
+62,Domaine des Buis Marin D'Eau Douce 2020,75.0,12.5,22.95,Wine & Champagne
+63,Chateauneuf-du-Pape Domaine Charvin 2017,37.5,14.5,23.95,Wine & Champagne
+64,Shaw & Smith Adelaide Hills Sauvignon Blanc 2021,75.0,12.0,17.95,Wine & Champagne
+65,Bruno Murciano Valencia Blanco Seco ‘Las Blancas’ 2020,75.0,12.5,14.95,Wine & Champagne
+66,Cote Rotie Les Triotes Domaine Garon 2016,75.0,13.0,49.95,Wine & Champagne
+67,Covenant Napa Valley Cabernet Sauvignon 2019,75.0,14.8,99.95,Wine & Champagne
+68,Savagnin en Quatre Vis 2020,75.0,13.0,32.95,Wine & Champagne
+69,El Grillo y La Luna Canto Cri Cri Chardonnay 2019,75.0,14.5,34.95,Wine & Champagne
+70,Alta Alella Dolc Mataro 2019,37.5,14.5,19.95,Wine & Champagne
+71,Bukkuram Padre Della Vigna 2014,50.0,14.5,66.95,Wine & Champagne
+72,Marsanne Museum Release Tahbilk 2014,75.0,13.0,16.75,Wine & Champagne
+73,Rosso di Montalcino 2019,75.0,14.0,37.95,Wine & Champagne
+74,Dona Paula Sauvignon Blanc 2020,75.0,12.5,10.25,Wine & Champagne
+75,Pauillac de Lynch Bages 2017 Cazes,75.0,13.0,34.95,Wine & Champagne
+76,Le Marquis de Calon Segur 2017,75.0,13.5,42.75,Wine & Champagne
+77,Marc Tempe Pinot Blanc Amzelle 2018,75.0,13.0,24.95,Wine & Champagne
+78,Innocent Bystander Yarra Valley Pinot Noir 2020,75.0,12.5,18.75,Wine & Champagne
+79,Greywacke Wild Sauvignon 2019,37.5,14.0,14.95,Wine & Champagne
+80,Coume del Mas Schistes 2020,75.0,14.5,25.95,Wine & Champagne
+81,The Listening Station Shiraz 2020,75.0,14.0,10.25,Wine & Champagne
+82,Rosso Di Montalcino DOC 2019,75.0,14.5,27.95,Wine & Champagne
+83,Glaetzer Bishop Shiraz 2019,75.0,14.5,27.45,Wine & Champagne
+84,Pinot Noir Johanneshof Reinisch 2019,75.0,13.0,17.95,Wine & Champagne
+85,Gonzalez Byass Leon XIII Pedro Ximenez 1878,75.0,9.0,"1,975",Wine & Champagne
+86,Thistledown Vagabond Grenache 2020,75.0,14.5,21.95,Wine & Champagne
+87,Pouilly Fume Les Vieilles Terres Mallorie Pabiot 2020,75.0,13.5,21.25,Wine & Champagne
+88,Albert Ahrens Black 2019,75.0,14.5,48.95,Wine & Champagne
+89,Elias Mora Crianza 2016,75.0,15.0,19.95,Wine & Champagne
+90,Reuilly Domaine Mabillot 2020,75.0,14.5,18.95,Wine & Champagne
+91,Riesling Glintzberg 2020,75.0,12.5,18.95,Wine & Champagne
+92,Beaune Beaux & Bons Jean-Claude Rateau 2020,75.0,14.0,39.95,Wine & Champagne
+93,Clos Des Fous 2015,75.0,14.5,14.45,Wine & Champagne
+94,Balnaves of Coonawarra Cabernet Sauvignon 2016,75.0,14.5,27.95,Wine & Champagne
+95,Ken Forrester The Gypsy 2016,75.0,14.0,39.95,Wine & Champagne
+0,Place Of Changing Winds Heathcote Syrah 2019,75.0,13.0,44.95,Wine & Champagne
+1,Polperro Pinot Noir 2019,75.0,13.5,34.95,Wine & Champagne
+2,Leko Red Wine Koerner 2020,75.0,13.5,27.95,Wine & Champagne
+3,Sancerre Clos de Beaujeu 2018,75.0,13.0,38.95,Wine & Champagne
+4,Quinta da Pedra Escrita Tinto 2018,75.0,14.0,21.95,Wine & Champagne
+5,Wishbone Shiraz Grenache 2020,75.0,14.0,11.75,Wine & Champagne
+6,Kerner Cantina Valle Isarco 2020,75.0,14.0,14.95,Wine & Champagne
+7,Matetic Corralillo Sauvignon Blanc 2020,75.0,13.5,12.75,Wine & Champagne
+8,Muscat de Beaumes de Venise Domaine Durban 2018,37.5,15.0,10.95,Wine & Champagne
+9,Billaud-Simon Chablis 2019,75.0,13.0,24.95,Wine & Champagne
+10,Wehlener Sonnenuhr Riesling Auslese 2018,75.0,8.0,44.95,Wine & Champagne
+11,Chablis Les Serres Domaine Oudin 2018,75.0,12.5,26.95,Wine & Champagne
+12,Essensia Orange Muscat 2019,37.5,15.0,13.95,Wine & Champagne
+13,Revolution Tannat Vina Progresso 2019,75.0,13.5,15.95,Wine & Champagne
+14,Les Fleurs de Montblanc Syrah Rose 2019,75.0,12.5,10.95,Wine & Champagne
+15,Natte Valleij Stellenbosch Cinsault 2019,75.0,11.0,19.95,Wine & Champagne
+16,Aloxe Corton Maison en Belles Lies 2018,75.0,13.5,46.95,Wine & Champagne
+17,Fermentacion Lenta 2019,75.0,14.0,34.95,Wine & Champagne
+18,Cien y Pico Doble Pasta Mancheula Garnacha Tintorera 2019,75.0,14.0,14.95,Wine & Champagne
+19,VDF CRBR Oiseau Rebelle 2016,37.0,14.0,43.95,Wine & Champagne
+20,VDF 'le Mansois' Mine de Vin 2020,75.0,11.5,20.95,Wine & Champagne
+21,Irancy Thierry Richoux 2017,75.0,13.0,28.95,Wine & Champagne
+22,Coteaux du Loir Vieilles Vignes Eparses Domaine de Belliviere 2016,75.0,13.0,44.95,Wine & Champagne
+23,Riesling Grand Cru Altenberg de Wolxhein Domaine Lissner 2017,75.0,13.5,31.95,Wine & Champagne
+24,Rousette de Savoie Quintessence Domaine Orchis 2017,75.0,13.0,24.95,Wine & Champagne
+25,Ribeiro Ollos de Roque Augalevada 2017,75.0,12.0,27.95,Wine & Champagne
+26,Pinot Noir Bodegas Cortijo Los Aguilares 2019,75.0,13.5,36.95,Wine & Champagne
+27,Pollera Val di Magra Ruschi Noceti 2016,75.0,13.0,28.75,Wine & Champagne
+28,Bressan Grigio in Grigio 2014,75.0,13.0,54.95,Wine & Champagne
+29,A'Vita Rosato 2020,75.0,13.0,24.75,Wine & Champagne
+30,Stella Bella Semillon Sauvignon Blanc 2020,75.0,13.0,16.45,Wine & Champagne
+31,Catalans Rouge 2020,75.0,12.5,8.75,Wine & Champagne
+32,R3 Riesling Corvers-Kauter 2020,75.0,12.5,20.5,Wine & Champagne
+33,Riflesso Rosi Eugenio Rosi 2019,75.0,12.5,22.45,Wine & Champagne
+34,Grecanico Pianogrillo 2020,75.0,12.5,18.95,Wine & Champagne
+35,Pierluigi Zampaglione Don Chisciotte Fiano 2019,75.0,12.5,28.95,Wine & Champagne
+36,Il Torchio Il Bianco Vermentino 2020,75.0,12.0,19.95,Wine & Champagne
+37,Gavagai Canaiolo Podere Anima Mundi 2019,75.0,12.5,17.95,Wine & Champagne
+38,SantYuste Verdejo Esmeralda Garcia 2019,75.0,13.5,22.95,Wine & Champagne
+39,Vides Velles Carignan RIM vins 2018,75.0,13.5,31.95,Wine & Champagne
+40,Zibibbo Secco 'Orange' Abbazia San Giorgio 2019,75.0,12.5,34.95,Wine & Champagne
+41,Arbois Rouge Trousseau Fumey Chatelain 2018,75.0,12.6,21.95,Wine & Champagne
+42,Niepoort Nat'Cool Drink Me Branco 2020,100.0,11.5,19.95,Wine & Champagne
+43,Simpsons Gravel Castle Chardonnay 2020,75.0,12.5,17.25,Wine & Champagne
+44,La Cayetana Syrah 2018,75.0,14.0,26.95,Wine & Champagne
+45,Pasion de Bobal 2019,75.0,14.0,13.75,Wine & Champagne
+46,Chateau Miraval Rose 2020,150.0,13.0,47.95,Wine & Champagne
+47,Finca Suarez Chardonnay 2019,75.0,13.0,19.95,Wine & Champagne
+48,Susana Balbo Signature White Blend 2020,75.0,12.0,20.45,Wine & Champagne
+49,Giant Steps Light Dry Red Pinot Noir Shiraz 2018,75.0,13.5,21.95,Wine & Champagne
+50,Albillo Real Vinos de Madrid 4 Monos Viticultores 2017,75.0,14.0,19.95,Wine & Champagne
+51,Tinto Artifice Borja Perez Viticultor 2017,75.0,13.5,17.95,Wine & Champagne
+52,Martinet Brun Mas Martinet Priorat 2016,75.0,14.5,22.95,Wine & Champagne
+53,Dona Paula Sauvignon Blanc 2019,75.0,12.5,8.95,Wine & Champagne
+54,Lionheart of the Barossa Shiraz 2018,37.5,14.5,7.95,Wine & Champagne
+55,Pieropan Soave Classico 2020,37.5,12.0,8.95,Wine & Champagne
+56,AA Badenhorst Curator Wine Cans Bundle,300.0,13.2,41.95,Wine & Champagne
+57,Giant Steps Yarra Valley Chardonnay 2020,75.0,13.0,23.95,Wine & Champagne
+58,Riesling Frankstein Grand Cru Domaine Beck-Hartweg 2017,75.0,13.0,29.95,Wine & Champagne
+59,Szepsy Szamorodni Tokaji 2016,50.0,12.0,64.95,Wine & Champagne
+60,Pommard Tavannes Domaine Ferand et Laurent Pillot 2018,75.0,13.5,37.95,Wine & Champagne
+61,Cotes du Rhone Cuvee Trescartes 2018,37.5,14.0,8.25,Wine & Champagne
+62,Brunello di Montalcino Caparzo 2016,37.5,13.5,21.95,Wine & Champagne
+63,AA Badenhorst Curator White 2020,25.0,13.0,3.25,Wine & Champagne
+64,Apostrophe Possessive Reds 2019,75.0,14.0,14.25,Wine & Champagne
+65,Chi Elgin Riesling Saurwein 2020,75.0,12.5,23.95,Wine & Champagne
+66,Boina Tinto Boutique Winery 2018,75.0,14.0,17.95,Wine & Champagne
+67,Vin Rouge Ordinaire Alphabetical Wine 2019,75.0,14.5,11.45,Wine & Champagne
+68,Vinhao Vinho Verde Tinto Anselmo Mendes 2019,75.0,12.0,13.75,Wine & Champagne
+69,Restless River Cabernet Sauvignon 2017,75.0,14.5,49.95,Wine & Champagne
+70,Aldo Viola Guarini Coccinella Syrah 2018,75.0,13.0,25.95,Wine & Champagne
+71,AA Badenhorst Curator White 2020,100.0,13.0,14.95,Wine & Champagne
+72,AA Badenhorst Curator Red 2020,100.0,14.0,14.95,Wine & Champagne
+73,Luis Pato Vinha Pan 2016,75.0,13.5,39.95,Wine & Champagne
+74,Niepoort Redoma Douro Branco 2019,75.0,12.0,23.25,Wine & Champagne
+75,Niepoort Lagar de Baixo 2018,75.0,12.5,22.95,Wine & Champagne
+76,Heartland Foreign Correspondent 2018,75.0,14.5,17.45,Wine & Champagne
+77,Ten Minutes by Tractor 10x Chardonnay 2019,75.0,13.5,26.75,Wine & Champagne
+78,Brokenwood Hunter Valley Semillon 2019,75.0,11.0,18.75,Wine & Champagne
+79,Kilikanoon Pearce Road Semillon 2017,75.0,13.0,19.25,Wine & Champagne
+80,Smith & Sheth Cru Heretaunga Syrah 2017,75.0,13.0,29.95,Wine & Champagne
+81,Pyramid Valley North Canterbury Orange 2019,75.0,13.5,25.95,Wine & Champagne
+82,Smith & Sheth Cru Wairau Sauvignon Blanc 2019,75.0,13.0,18.45,Wine & Champagne
+83,Las Mercedes Singular Pais 2017,75.0,12.5,16.95,Wine & Champagne
+84,Tinto Matervini 2017,75.0,14.5,43.45,Wine & Champagne
+85,Ver Sacrum Dona Mencia de los Andes 2016,75.0,13.5,29.95,Wine & Champagne
+86,Ver Sacrum Monastrell 2018,75.0,13.0,20.75,Wine & Champagne
+87,Parcela Los Nidos Cara Sur 2018,75.0,13.0,47.45,Wine & Champagne
+88,Terlan Rarity 2008,75.0,13.5,150.0,Wine & Champagne
+89,Tenuta Mara Guiry 2018,75.0,13.5,26.95,Wine & Champagne
+90,Jumilla Bodegas Olivares Tinto 2018,75.0,14.5,9.25,Wine & Champagne
+91,Murdoch Hill Red Blend 2017,75.0,13.5,21.95,Wine & Champagne
+92,Reverie Pinotage 2020,75.0,13.0,30.95,Wine & Champagne
+93,Domaine Bott St-Joseph Blanc 2019,75.0,13.0,42.95,Wine & Champagne
+94,Aphelion The Welkin Grenache 2020,75.0,13.6,24.95,Wine & Champagne
+95,Murdoch Hill Chardonnay 2018,75.0,13.0,28.95,Wine & Champagne
+96,Domaine des Buis Les Brumes 2019,75.0,11.0,23.95,Wine & Champagne
+97,Domaine des Buis Marin D'Eau Douce 2019,75.0,12.5,20.75,Wine & Champagne
+98,Chateau Leoville Barton 2012,75.0,13.0,90.95,Wine & Champagne
+99,Saint Joseph Rouge 2018,75.0,14.5,39.95,Wine & Champagne
+100,Pinot Noir Wine Duo,150.0,12.5,33.95,Wine & Champagne
+101,Mas de Daumas Gassac Wine Duo,150.0,12.75,16.95,Wine & Champagne
+102,Italian Wine Duo,150.0,13.25,26.75,Wine & Champagne
+103,Saumur les Silices Domaine du Vieux Pressoir 2019,75.0,13.0,18.95,Wine & Champagne
+104,Exceptional Harvest 2019,75.0,12.5,23.95,Wine & Champagne
+105,Maranges Sur le Chene 2018,75.0,13.0,32.25,Wine & Champagne
+106,GSM Ver Sacrum 2018,75.0,13.0,19.95,Wine & Champagne
+107,Thistledown Vagabond Grenache 2019,75.0,14.5,19.75,Wine & Champagne
+108,Casa Maria Verdejo Blanco La Catellana 2019,75.0,13.0,8.25,Wine & Champagne
+109,Veneroso Tenuta Ghizzano 2016,75.0,13.5,28.95,Wine & Champagne
+110,Domaine Maby Lirac Red 2018,37.5,14.5,10.95,Wine & Champagne
+111,The Apple Doesn't Fall Too Far From,75.0,12.5,14.75,Wine & Champagne
+112,Monterrei Alanda Blanco 2018,75.0,13.0,24.95,Wine & Champagne
+113,Nathan Kendall Chardonnay 2018,75.0,12.0,39.95,Wine & Champagne
+114,Barolo Classico Castiglione Falletto 2006,75.0,13.5,59.95,Wine & Champagne
+115,Schatzel Nierstein Riesling Kabinett 2017,75.0,7.5,33.95,Wine & Champagne
+116,Monthelie Blanc Laurent Boussey 2016,75.0,13.5,39.95,Wine & Champagne
+117,Chateau La Graves de Pez 2016,75.0,13.5,28.95,Wine & Champagne
+118,Aniello Blanco de Pinot Noir 2018,75.0,12.5,17.95,Wine & Champagne
+119,Yeringberg Roussanne Marsanne 2016,75.0,14.0,26.95,Wine & Champagne
