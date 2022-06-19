@@ -5,4 +5,3 @@ SELECT
     product_id,
     Datetrunc('month', month)
 FROM payments
-    
