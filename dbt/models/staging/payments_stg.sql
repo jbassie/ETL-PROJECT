@@ -3,5 +3,5 @@ SELECT
     customer_id,
     employee_id,
     product_id,
-    Datetrunc('month', month)
+    date
 FROM payments

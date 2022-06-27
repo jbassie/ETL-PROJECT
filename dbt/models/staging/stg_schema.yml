@@ -1,0 +1,36 @@
+
+version: 2
+
+models:
+  - name: customer_stg
+    columns:
+      - name: customer_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+      - name: credit_provider
+        description: "Checking for VISA provider"
+        tests:
+          - accepted_values:
+            values: 
+            - VISA 13 digit
+            - Discover
+            - JCB 16 digit
+            - JCB 15 digit
+            - American Express
+            - VISA 19 digit
+            - Maestro
+            - Mastercard
+            - VISA 16 digit
+            - Diners Club / Carte Blanche
+
+  - name: payments_stg
+    description: "Checking validations"
+    columns:
+      - name: payement_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+      
