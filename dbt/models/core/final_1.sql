@@ -25,6 +25,6 @@ final as ( SELECT *
         USING(customer_id)
         JOIN products
         USING(product_id)
-        where date > 2010 )
+        )
 
 select * from final
