@@ -34,7 +34,7 @@ ___________________________________________________________________
      - payments_df
      - products_df
     This is all carried in a jupyter notebok file here
-
+___________________________________________________________________
  - LOAD
     - The dataframe are converted into different csv files in the same folder> Using Postgres PSQL COMMAND LINE PROMPT, I created the different tables to a `whiskey_exchange` database according the name of the of the exported csv file. Added foreign and Unique keys to the tables and formed a star schema. With this the Database is Loaded into my local psotgres.
 ___________________________________________________________________
@@ -44,8 +44,8 @@ ___________________________________________________________________
     > Postgres2:
         - target: dev
         - outputs:
-           - dev:
-            - type: postgres
+           * dev:
+            - type: postgres 
             - host: localhost
             - user: postgres
             - password: '############'
@@ -55,5 +55,8 @@ ___________________________________________________________________
             - threads: 10
            -  keepalives_idle: 0 # default 0, indicating the system default. See below
             - connect_timeout: 10 # default 10 seconds "
+
+    > Lineage_graph
+    ![Graph](https://github.com/jbassie/ETL-PROJECT/blob/main/_images/linear_graph.png)
 
 
