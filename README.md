@@ -19,6 +19,12 @@ _______________________________________________________________
  - Power Bi
  - dbt 
     Used dbt as a transformation tool for the data and to determine some data quality
+    - dbt init
+    - dbt source freshness
+    - dbt run
+    - dbt debug
+    - dbt test
+    - dbt docs generate
 ___________________________________________________________________
 ___________________________________________________________________
 
@@ -56,7 +62,15 @@ ___________________________________________________________________
            -  keepalives_idle: 0 # default 0, indicating the system default. See below<br/>
             - connect_timeout: 10 # default 10 seconds "<br/>
 
+        The transformation process is represented in the lineage graph below:
     > Lineage_graph
     ![Graph](https://github.com/jbassie/ETL-PROJECT/blob/main/_images/linear_graph.png)
+
+    - VISUALIZATION
+    After the transforamtion step, the data is now ready for analysis. For the analysis,I represented the data in a simple Microsoft Power BI Dashboard to schowcase findings from the data. To achieve this I created a connection with Postgresql from Power BI and pulled the processed data.
+    > Power BI Connection
+    ![PostgresCOnnection](https://github.com/jbassie/ETL-PROJECT/blob/main/_images/posgresconne.png)
+
+
 
 
