@@ -1,7 +1,6 @@
 SELECT
     employee_id,
-    first_name,
-    last_name,
+    CONCAT(first_name, ' ', last_name) as full_name,
     department
 FROM employees e
 JOIN departments d

@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: whiskey
+    description: 'A Sample Database created by User'
+    database: whiskey_exchange
+    schema: public
+    tables:
+      - name: customers
+        description: "Hold Customers Information"
+      - name: employees
+        description: "Holds information about the Staffs"
+      - name: departments
+        description: "Holds information on the various departments"
+      
