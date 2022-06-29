@@ -4,4 +4,4 @@ select
     last_name,
     email,
     credit_provider
-from customers
+from {{source('whiskey', 'customers')}}
