@@ -41,20 +41,20 @@ ___________________________________________________________________
 
   - TRANSFORM
     - Using the termnal prompt from VS CODE I initialze dbt into my project folder and created a connection profile into my local database as follows :
-    > Postgres2:
-        - target: dev__
-        - outputs:__
-           * dev:__
-            - type: postgres__ 
-            - host: localhost__
-            - user: postgres__
-            - password: '############'__
-            - port: 5432__
-            - dbname: whiskey_exchange__
-            - schema: public__
-            - threads: 10__
-           -  keepalives_idle: 0 # default 0, indicating the system default. See below__
-            - connect_timeout: 10 # default 10 seconds "__
+    > Postgres2:<br/>
+        - target: dev <br/>
+        - outputs:<br/>
+           * dev:<br/>
+            - type: postgres<br/>
+            - host: localhost<br/>
+            - user: postgres<br/>
+            - password: '############'<br/>
+            - port: 5432<br/>
+            - dbname: whiskey_exchange<br/>
+            - schema: public<br/>
+            - threads: 10<br/>
+           -  keepalives_idle: 0 # default 0, indicating the system default. See below<br/>
+            - connect_timeout: 10 # default 10 seconds "<br/>
 
     > Lineage_graph
     ![Graph](https://github.com/jbassie/ETL-PROJECT/blob/main/_images/linear_graph.png)
