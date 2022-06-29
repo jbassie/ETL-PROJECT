@@ -24,6 +24,7 @@ final as ( SELECT *
         JOIN payments
         USING(customer_id)
         JOIN products
-        USING(product_id) )
+        USING(product_id)
+        where date > 2010 )
 
 select * from final
