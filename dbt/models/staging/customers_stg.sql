@@ -1,7 +1,5 @@
 select 
     customer_id,
-    first_name,
-    last_name,
-    email,
+    CONCAT(first_name, ' ', last_name) as full_name,
     credit_provider
 from {{ source('whiskey', 'customers') }}

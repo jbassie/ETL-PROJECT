@@ -12,4 +12,5 @@ sources:
         description: "Holds information about the Staffs"
       - name: departments
         description: "Holds information on the various departments"
-      
+      - name: products
+        
