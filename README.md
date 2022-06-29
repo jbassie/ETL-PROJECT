@@ -37,7 +37,7 @@ _______________________________________________________________
 
   - TRANSFORM
   Using the termnal prompt from VS CODE I initialze dbt into my project folder and created a connection profile into my local database as follows :
-    " Postgres2:
+    > Postgres2:
         target: dev
         outputs:
             dev:
