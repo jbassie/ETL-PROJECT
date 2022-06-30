@@ -42,7 +42,10 @@ ___________________________________________________________________
     This is all carried in a jupyter notebok file here
 _________________________________________________________________________________________________________________________________________________________________________
  - LOAD
-    - The dataframe are converted into different csv files in the same folder> Using Postgres PSQL COMMAND LINE PROMPT, I created the different tables to a `whiskey_exchange` database according the name of the of the exported csv file. Added foreign and Unique keys to the tables and formed a star schema. With this the Database is Loaded into my local psotgres.
+    - The dataframe are converted into different csv files in the same folder> Using Postgres PSQL COMMAND LINE PROMPT, I created the different tables to a `whiskey_exchange` database according the name of the of the exported csv file. Added foreign and Unique keys to the tables and formed a star schema. With this the Database is Loaded into my local psotgres. 
+       Here is ERD representation of the database
+       >[schema](https://github.com/jbassie/ETL-PROJECT/blob/main/_images/schmea.png) 
+
 ________________________________________________________________________________________________________________________________________________________________________
 
   - TRANSFORM
