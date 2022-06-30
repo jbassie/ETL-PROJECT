@@ -40,10 +40,10 @@ ___________________________________________________________________
      - payments_df
      - products_df
     This is all carried in a jupyter notebok file here
-___________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________
  - LOAD
     - The dataframe are converted into different csv files in the same folder> Using Postgres PSQL COMMAND LINE PROMPT, I created the different tables to a `whiskey_exchange` database according the name of the of the exported csv file. Added foreign and Unique keys to the tables and formed a star schema. With this the Database is Loaded into my local psotgres.
-___________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________
 
   - TRANSFORM
     - Using the termnal prompt from VS CODE I initialze dbt into my project folder and created a connection profile into my local database as follows :
@@ -70,6 +70,16 @@ ___________________________________________________________________
     After the transforamtion step, the data is now ready for analysis. For the analysis,I represented the data in a simple Microsoft Power BI Dashboard to schowcase findings from the data. To achieve this I created a connection with Postgresql from Power BI and pulled the processed data.
     > Power BI Connection
     ![PostgresCOnnection](https://github.com/jbassie/ETL-PROJECT/blob/main/_images/posgresconne.png)
+
+    After creating the connection I represented the data in a visual
+      >[Visual](https://github.com/jbassie/ETL-PROJECT/blob/main/_images/visual.png) 
+   
+      - Some Insights some the Visual
+        - 2015 was had the best sales of $710,893<br/>
+        - Scotch Whiskey was the most Sold Whiskey Type
+        - JCB 16 Digit was the most Card type used for Purchase
+
+
 
 
 
