@@ -15,7 +15,7 @@ _______________________________________________________________
     - pandasql
     - Names
  - Postgres:
-    Used Postgres as the Database for the data
+    Used PostgreSQL as the Database for the data
  - Power Bi
  - dbt 
     Used dbt as a transformation tool for the data and to determine some data quality
@@ -76,8 +76,8 @@ ________________________________________________________________________________
    
       - Some Insights some the Visual
         - 2015 was had the best sales of $710,893<br/>
-        - Scotch Whiskey was the most Sold Whiskey Type
-        - JCB 16 Digit was the most Card type used for Purchase
+        - Scotch Whiskey was the most Sold Whiskey Type<br/>
+        - JCB 16 Digit was the most Card type used for Purchase<br/>
 
 
 
