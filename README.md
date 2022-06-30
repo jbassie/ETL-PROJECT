@@ -44,7 +44,7 @@ ________________________________________________________________________________
  - LOAD
     - The dataframe are converted into different csv files in the same folder> Using Postgres PSQL COMMAND LINE PROMPT, I created the different tables to a `whiskey_exchange` database according the name of the of the exported csv file. Added foreign and Unique keys to the tables and formed a star schema. With this the Database is Loaded into my local psotgres. 
        Here is ERD representation of the database
-       >[schema](https://github.com/jbassie/ETL-PROJECT/blob/main/_images/schema.png) 
+       ![schema](https://github.com/jbassie/ETL-PROJECT/blob/main/_images/schema.png) 
 
 ________________________________________________________________________________________________________________________________________________________________________
 
@@ -75,7 +75,7 @@ ________________________________________________________________________________
     ![PostgresCOnnection](https://github.com/jbassie/ETL-PROJECT/blob/main/_images/posgresconne.png)
 
     After creating the connection I represented the data in a visual
-      >[Visual](https://github.com/jbassie/ETL-PROJECT/blob/main/_images/Visual.png) 
+      ![Visual](https://github.com/jbassie/ETL-PROJECT/blob/main/_images/Visual.png) 
    
       - Some Insights some the Visual
         - 2015 was had the best sales of $710,893<br/>
